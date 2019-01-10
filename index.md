@@ -8,12 +8,11 @@ title: Les nouvelles de la FABrique
 Le Break à commencé !
 Les fêtes de fin d’année vous ont fait abuser des bonnes choses?
 La FABrique vous propose de faire un BREAK et de jouer!
-![MIBS Day 2](assets/images/partenaires/FYA2019-aff-prov3.jpg)
 
-## Pour les curieux
-MIBS Day 2
+## Pour les curieux, du 18 au 20 janvier à Quiberon
 La seconde édition du MIBS Day aura lieu à Quiberon.
 L'occasion de venir en famille rencontrer d'un coup tous les Makers de Bretagne Sud et leurs créations!
+![MIBS Day 2](assets/images/partenaires/FYA2019-aff-prov3.jpg)
 
 # Bienvenue à la Fabrique du Loch
 
