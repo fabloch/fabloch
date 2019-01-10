@@ -53,20 +53,22 @@ Roland SRM-20
 ![Fraiseuse](https://www.lafabriqueduloch.com/wp-content/uploads/2016/08/fraiseuse-roland.jpg)
 - Surface de travail : 203x156 mm
 - Epaisseur maxi : 6.17 mm
-Petite fraiseuse, la Roland peut usiner du bois, de la résine, de la cire et autres matériaux tendres.
+
+	Petite fraiseuse, la Roland peut usiner du bois, de la résine, de la cire et autres matériaux tendres.
   Les métaux ne sont pas supportés.
-  https://www.lafabriqueduloch.com/materiel/roland-srm-20/
 
 ### Scie à chantourner
 ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/09/DSC_0300.jpg)
-La scie à chantourner est un appareil ludique qui permet de nombreuses réalisations intéressantes.
+
+  La scie à chantourner est un appareil ludique qui permet de nombreuses réalisations intéressantes.
   Marqueterie, décoration, figurines ou puzzles.
 
 ### Petit outillage de l'établi
-> **A 2 microns près!**
 ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/09/FAB0778.jpg)
   L'atelier est équipé de la plupart des outils nécessaires à tous bon bricoleur et concepteur d'objets.
   Il comprend notamment un jeu complet de tournevis, clés, pinces, scies, marteaux, perceuses, visseuses, ciseaux à bois, emporte-pièce et matériel de mesure.
+
+> **A 2 microns près!**
 
 ## Tour
 ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/FAB0730.jpg)
