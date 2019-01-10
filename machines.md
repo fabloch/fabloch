@@ -19,7 +19,9 @@ Si vous voulez commencer à vous former, le [Mode d'emploi](http://fablabo.net/w
 
 ### Fichiers supportés
 Le fichier de départ peut être en SVG ou en DXF ou Ai (les calques et nom de fichier ne doivent contenir que des caractères ASCII (pas d'accents, etc...).
+
 Les points de coordonnées (0, 0) doivent être dans le coin en bas à gauche de la page.
+
 Les dimensions doivent être en millimètres.
 
 ## Impression 3D
@@ -30,17 +32,22 @@ Les dimensions doivent être en millimètres.
 - Surface de travail : 200x200 mm
 - Epaisseur maxi : 165 mm
 - Tarif : 4€ / heure
+
 Fabrication additive par couches de 0.1 à 0.3 mm de PLA (amidon de maïs) ou ABS (Lego).  
+
 Machine modifiée par Xavier Hinault du Créafab, puis améliorée au sein de La FABrique du Loch  
+
 [Une prise en main de ces imprimantes](http://www.mon-club-elec.fr/openmakerprusai3/pdf/prise_en_main_open_maker_prusa_i3.pdf)
 
 ### Fichiers supportés
 Fichiers STL
 
-### Découpe vinyle GCC Expert II lx 24
+### Plotter de decoupe (#plotter-de-coupe)
+GCC Expert II lx 24
 ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/08/Decoupe_Vinyle.jpg)
 - Surface de travail : largeur: 600 mm
 - Tarif : 10€ / heure
+
 Le Plotter de découpe permet de découper du vinyle, du flex ou du carton souple à partir d'un fichier.
 
 ### Fichiers supportés
@@ -65,27 +72,40 @@ Roland SRM-20
 
 ### Petit outillage de l'établi
 ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/09/FAB0778.jpg)
-  L'atelier est équipé de la plupart des outils nécessaires à tous bon bricoleur et concepteur d'objets.
-  Il comprend notamment un jeu complet de tournevis, clés, pinces, scies, marteaux, perceuses, visseuses, ciseaux à bois, emporte-pièce et matériel de mesure.
+
+L'atelier est équipé de la plupart des outils nécessaires à tous bon bricoleur et concepteur d'objets.
+
+Il comprend notamment un jeu complet de tournevis, clés, pinces, scies, marteaux, perceuses, visseuses, ciseaux à bois, emporte-pièce et matériel de mesure.
 
 > **A 2 microns près!**
 
 ## Tour
 ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/FAB0730.jpg)
-  Tour à bois - SYD Master TC550
-  Tour parallèle d'établi à métaux.
+
+Tour à bois - SYD Master TC550
+
+Tour parallèle d'établi à métaux.
 
 ## Couture
 
 ### Surjeteuse Silvercrest SON-90A1
 ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/couture-02-960x750.jpg)
-  Elle permet de couper, piquer et surfiler un ou deux tissus en une seule opération. Ainsi, on assemble des tissus tout en réalisant les finitions....
+
+Elle permet de couper, piquer et surfiler un ou deux tissus en une seule opération. Ainsi, on assemble des tissus tout en réalisant les finitions....
 
 ## Brodeuse
 Brother innovis V3 NV800E
-  ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/couture-05-768x511.jpg)
-  Cette machine brode sur du tissu à partir d'un fichier
+
+![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/couture-05-768x511.jpg)
+
+- Surface de travail : 260 x 180 mm mm
+- Tarif : 10€ / du m²
+
+Cette machine brode sur du tissu à partir d'un fichier [TBC...]
 
 ## Presse à chaud
 ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/Decoupe-vinylepresse-a-chaud.jpg)
-  La presse permet de transférer sur du tissu le flex découpé au préalable par le plotter de découpe....
+
+- Surface de travail : 380 x 380 mm
+
+	La presse permet de transférer sur du tissu le flex découpé au préalable par le [plotter de découpe](#plotterdecoupe).
