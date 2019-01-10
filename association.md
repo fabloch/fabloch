@@ -28,8 +28,9 @@ Qui peut-on croiser à La FABrique du Loch ? Des architectes qui viennent réali
 
 ## Notre fabmanager
 
-Juju
-![Juju](assets/images/juju-NB.jpg)
+- Juju
+
+![Juju](assets/images/membres/juju-NB.jpg)
 
 ## Services Civiques
 - Lucas
