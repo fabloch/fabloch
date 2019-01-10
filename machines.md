@@ -11,6 +11,7 @@ Découpe laser Robotseed
 
 - Surface de travail : 1600 x 1000 mm
 - Epaisseur maxi : 8 mm
+
 Très utilisée pour la découpe et la gravure du bois, du métal et du plexiglas, la découpe laser découpe le matériau en le brûlant.  
 
 La manipulation de base de la découpe laser nécessite une petite formation que la FABrique du Loch donne régulièrement (au moins une fois par mois).  
