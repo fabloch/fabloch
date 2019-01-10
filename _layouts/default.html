@@ -21,9 +21,11 @@
   </head>
 
   <body>
+
     <header class="page-header" role="banner">
-      <img src="fabloch.png" width="100px" />
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <div>
+        <h1 class="project-name"><img src="fabloch.png" width="100px" />La fabrique du Loch</h1>
+      </div>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
@@ -37,82 +39,68 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-      <style>#footer2 .footer-distributed .footer-left { width: 100%; }</style>
+    <style>#footer2 .footer-distributed .footer-left { width: 100%; }</style>
 
       <!-- Asso Footer -->
       <footer id="Footer" class="clearfix">
-      	<div class="widgets_wrapper" style=""><div class="container"><div class="column one">
-          <aside id="text-8" class="widget widget_text">
-            <div class="textwidget">
-            	<div id="footer2">
-            		<footer class="footer-distributed">
-            			<div class="footer-left" style="margin-bottom: 20px; float:left;">
-                    <div style="float: left; width: 100%;">
-                      <p class="footer-company-about">
-                        <div class="footer-plansite" style="float: left; width: 33%;">
-                  				<h2>Plan du site</h2>
+      	<div class="widgets_wrapper" style="">
+          <div class="container">
+            <div class="column one">
+              <aside id="text-8" class="widget widget_text">
+                <div class="textwidget">
+                	<div id="footer2">
+                		<footer class="footer-distributed">
+                			<div class="footer-left" style="margin-bottom: 20px; float:left;">
+                        <div style="float: left; width: 100%;">
+                          <p class="footer-company-about">
+                            <div class="footer-plansite" style="float: left; width: 33%;">
+                      				<h2>Plan du site</h2>
 
-                          <ul class="ulfooterlink" style="width: 100%; float: left;">
-                            <li><a href="https://www.lafabriqueduloch.org/">- Accueil</a></li>
-                            <li><a href="https://www.lafabriqueduloch.org/la-fabrique/">- La FABrique</a></li>
-                            <li><a href="https://www.lafabriqueduloch.org/actus/">- Actualités</a></li>
-                            <li><a href="https://www.lafabriqueduloch.org/nos-services/">- Nos services</a></li>
-                            <li><a href="https://www.lafabriqueduloch.org/vos-projets/">- Vos réalisations</a></li>
-                            <li><a href="https://www.lafabriqueduloch.org/forums/">- Forum</a></li>
-                            <li><a href="https://www.lafabriqueduloch.org/adherer-a-la-fabrique/">- Adhérer</a></li>
-                            <li><a href="https://www.lafabriqueduloch.org/contacts/">- Contact</a></li>
-                          </ul>
-                        </div>
-      			            <div class="footer-center" style="float: left;">
-                				<div>
-                					<i class="fa fa-map-marker"></i>
-                					<p><span>8 Rue Georges Clemenceau</span> Auray, France</p>
-                				</div>
-                				<div>
-                					<i class="fa fa-phone"></i>
-                					<p>02 97 58 47 04</p>
-                				</div>
-                				<div>
-                					<i class="fa fa-envelope"></i>
-                					<p><a href="/contacts/">Nous contacter</a></p>
-                				</div>
+                              <ul class="ulfooterlink" style="width: 100%; float: left;">
+                                <li><a href="https://www.laFabriqueduloch.org/">- Accueil</a></li>
+                                <li><a href="https://www.laFabriqueduloch.org/la-Fabrique/">- La Fabrique</a></li>
+                                <li><a href="https://www.laFabriqueduloch.org/actus/">- Actualités</a></li>
+                                <li><a href="https://www.laFabriqueduloch.org/nos-services/">- Nos services</a></li>
+                                <li><a href="https://www.laFabriqueduloch.org/vos-projets/">- Vos réalisations</a></li>
+                                <li><a href="https://www.laFabriqueduloch.org/forums/">- Forum</a></li>
+                                <li><a href="https://www.laFabriqueduloch.org/adherer-a-la-Fabrique/">- Adhérer</a></li>
+                                <li><a href="https://www.laFabriqueduloch.org/contacts/">- Contact</a></li>
+                              </ul>
+                            </div>
+        			            <div class="footer-center" style="float: left;">
+                    				<div><i class="fa fa-map-marker"></i><p><span>8 Rue Georges Clemenceau</span> Auray, France</p></div>
+                    				<div><i class="fa fa-phone"></i><p>02 97 58 47 04</p></div>
+                    				<div><i class="fa fa-envelope"></i><p><a href="/contacts/">Nous contacter</a></p></div>
+                    			</div>
 
-                			</div>
-
-                			<div class="footer-right" style="float: left;">
-
-                				<p class="footer-company-about">
-                					<span>Horaires</span>
-                					Mardi : 9h - 12h & 16h - 22h <br> Mercredi : 9h - 12h & 14h - 18h<br>   Jeudi : 10h - 18h <br> Vendredi : 10h - 19h
-                          <br> Samedi :  9h - 13h
-                				</p>
-
-                				<div class="footer-icons">
-                					<a href="https://www.facebook.com/lafabriqueduloch/?fref=ts" target="_blank"><i class="fa fa-facebook"></i></a>
-                					<a href="https://twitter.com/fabriqueduloch" target="_blank"><i class="fa fa-twitter"></i></a>
-                					<a href="https://www.youtube.com/channel/UCsnU-9-jrIern8k1EgZtPIg" target="_blank"><i class="fa fa-youtube"></i></a>
-                          <a href="https://www.instagram.com/lafabriqueduloch/" target="_blank"><i class="fa fa-instagram"></i></a>
-                				</div>
-                			</div>
-      		</footer>
+                    			<div class="footer-right" style="float: left;">
+                    				<p class="footer-company-about">
+                    					<span>Horaires</span>
+                    					Mardi : 9h - 12h & 16h - 22h <br> Mercredi : 9h - 12h & 14h - 18h<br>   Jeudi : 10h - 18h <br> Vendredi : 10h - 19h
+                              <br> Samedi :  9h - 13h
+                    				</p>
+                    			</div>
+                  		</footer>
       	</div></div>
-      		</aside></div></div></div>
-      		<div class="footer_copy">
-      			<div class="container">
-      				<div class="column one">
+      		</aside>
+        </div></div></div>
 
-      					<a id="back_to_top" class="button button_left button_js" href=""><span class="button_icon"><i class="icon-up-open-big"></i></span></a>
-      					<!-- Copyrights -->
-      					<div class="copyright">
-      						(cc) 2016 La FABrique du Loch | <a href="http://www.kercode-simplon.co/" target="_BLANK">Kercode by Simplon</a> | <a href=" https://www.lafabriqueduloch.org/mentions-legales/">Mentions Légales</a> | <a href="https://www.lafabriqueduloch.org/conditions-dutilisation/">Utilisation et partage sous licence Creative Commonse</a>					</div>
+        <div class="footer-icons">
+          <a href="https://www.facebook.com/laFabriqueduloch/?fref=ts" target="_blank"><i class="fa fa-facebook">Facebook</i></a>
+          <a href="https://twitter.com/Fabriqueduloch" target="_blank"><i class="fa fa-twitter">Twitter</i></a>
+          <a href="https://www.youtube.com/channel/UCsnU-9-jrIern8k1EgZtPIg" target="_blank">Youtube<i class="fa fa-youtube"></i></a>
+          <a href="https://www.instagram.com/laFabriqueduloch/" target="_blank"><i class="fa fa-instagram">Instagram</i></a>
+        </div>
 
-      					<ul class="social"></ul>
-      				</div>
-      			</div>
-      		</div>
+
+				<!-- Copyrights -->
+				<div class="copyright">
+					(cc) 2019 La Fabrique du Loch
+          | <a href="https://www.laFabriqueduloch.org/conditions-dutilisation/">Utilisation et partage sous licence Creative Commonse</a>
+          | <a href=" https://www.laFabriqueduloch.org/mentions-legales/">Mentions Légales</a> </div>
+				<ul class="social"></ul>
+
       </footer>
-
-
 
       <!-- Theme Footer -->
       <footer class="site-footer">
