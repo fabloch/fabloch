@@ -5,7 +5,7 @@ de machines à commande numérique
 afin de réaliser les **projets les plus fous!**
 
 ## Découpe laser
-![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/decoupe-laser-1.jpg){: height="188px"}
+![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/decoupe-laser-1.jpg)
 Découpe laser Robotseed
 Surface de travail : 1600 x 1000 mm
 Epaisseur maxi : 8 mm
@@ -19,7 +19,7 @@ Les points de coordonnées (0, 0) doivent être dans le coin en bas à gauche de
 Les dimensions doivent être en millimètres.
 
 ## Impression 3D
-![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/imprimante-3d-07-768x577.jpg){: height="188px"}
+![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/imprimante-3d-07-768x577.jpg)
 3 Open Maker Prusa i3
 Surface de travail : 200x200 mm
 Epaisseur maxi : 165 mm
@@ -44,7 +44,7 @@ Fichiers ouvrables sur Inkscape
 
 ### Fraiseuse numérique
 Roland SRM-20
-[Fraiseuse](https://www.lafabriqueduloch.com/wp-content/uploads/2016/08/fraiseuse-roland.jpg){: height="188px"}
+[Fraiseuse](https://www.lafabriqueduloch.com/wp-content/uploads/2016/08/fraiseuse-roland.jpg)
 Surface de travail : 203x156 mm
 Epaisseur maxi : 6.17 mm
 Petite fraiseuse, la Roland peut usiner du bois, de la résine, de la cire et autres matériaux tendres. Les métaux ne sont pas supportés par cette machine.
@@ -64,7 +64,7 @@ L'atelier est équipé de la plupart des outils nécessaires à tous bon bricole
 Il comprend notamment un jeu complet de tournevis, clés, pinces, scies, marteaux, perceuses, visseuses, ciseaux à bois, emporte-pièce et matériel de mesure.
 
 ## Tour
-![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/FAB0730.jpg){: height="188px"}
+![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/FAB0730.jpg)
 Tour à bois - SYD Master TC550
 Tour parallèle d'établi à métaux.
 
@@ -75,10 +75,10 @@ Tour parallèle d'établi à métaux.
 Elle permet de couper, piquer et surfiler un ou deux tissus en une seule opération. Ainsi, on assemble des tissus tout en réalisant les finitions....
 
 ## Brodeuse
-![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/couture-05-768x511.jpg){: height="188px"}
+![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/couture-05-768x511.jpg)
 Brother innovis V3 NV800E
 Cette machine brode sur du tissu à partir d&#039;un fichier......
 
 ## Presse à chaud
-![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/Decoupe-vinylepresse-a-chaud.jpg){: height="188px"}
+![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/Decoupe-vinylepresse-a-chaud.jpg)
  La presse permet de transférer sur du tissu le flex découpé au préalable par le plotter de découpe....
