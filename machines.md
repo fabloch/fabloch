@@ -42,7 +42,7 @@ Machine modifiée par Xavier Hinault du Créafab, puis améliorée au sein de La
 ### Fichiers supportés
 Fichiers STL
 
-### Plotter de decoupe (#plotter-de-coupe)
+### Plotter de decoupe (#plotter-de-decoupe)
 GCC Expert II lx 24
 ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/08/Decoupe_Vinyle.jpg)
 - Surface de travail : largeur: 600 mm
@@ -91,7 +91,8 @@ Tour parallèle d'établi à métaux.
 ### Surjeteuse Silvercrest SON-90A1
 ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/couture-02-960x750.jpg)
 
-Elle permet de couper, piquer et surfiler un ou deux tissus en une seule opération. Ainsi, on assemble des tissus tout en réalisant les finitions....
+Elle permet de couper, piquer et surfiler un ou deux tissus en une seule opération.
+Ainsi, on assemble des tissus tout en réalisant les finitions.
 
 ## Brodeuse
 Brother innovis V3 NV800E
