@@ -5,20 +5,21 @@ title: Un FabLab, c'est quoi?
 ## Un Fablab, c'est quoi ?
 C’est à la fois un lieu de fabrication d’objets et de partage de connaissances.
 
-Un fab lab (contraction de l’anglais "fabrication laboratory", laboratoire de fabrication) est un lieu ouvert au public où sont mis à disposition des outils de toutes sortes, notamment des machines-outils pilotées par ordinateur, pour la conception et la réalisation d’objets. Un fab lab, c'est aussi un lieu d'échanges et de partage des connaissances où toute personne, quels que soient son niveau de connaissance et ses moyens, peut venir se servir des machines mises à disposition pour réaliser ses projets personnels, scolaires ou commerciaux.
+Un fab lab (contraction de l’anglais "fabrication laboratory", laboratoire de fabrication) est **un lieu ouvert au public** où sont mis à disposition des outils de toutes sortes, notamment des machines-outils pilotées par ordinateur, pour la conception et la réalisation d’objets.
+
+Un fab lab, c'est aussi **un lieu d'échanges et de partage des connaissances** où toute personne, quels que soient son niveau de connaissance et ses moyens, peut venir se servir des machines mises à disposition pour réaliser ses projets personnels, scolaires ou commerciaux.
 
 ![Une construction participative](assets/images/construction-adherents-960x750.jpg)
 
 ### A qui s’adresse la FABrique du Loch ?
 À tous ceux qui ont un projet à réaliser, qu’il soit gros ou petit, simple ou compliqué.
-- Aux personnes qui souhaitent apprendre à se servir d’un fer à souder, d’une imprimante 3D, d’une découpe laser ou d’une foule d’autres outils encore.
-- Aux entreprises et aux start-up qui cherchent à réaliser un projet ou un espace de travail pour grandir et collaborer.
-- Aux travailleurs indépendants qui cherchent un espace de travail partagé (openspace)
-- Aux personnes qui cherchent à se former sur notre parc de machines à commande numérique
-- Aux groupes scolaires qui cherchent à réaliser un projet.
+- Aux *personnes* qui souhaitent apprendre à se servir d’un fer à souder, d’une imprimante 3D, d’une découpe laser ou d’une foule d’autres outils encore.
+- Aux *entreprises* et aux *start-ups* qui cherchent à réaliser un projet ou un espace de travail pour grandir et collaborer.
+- Aux *travailleurs indépendants* qui cherchent un espace de travail partagé (openspace)
+- Aux *groupes scolaires* qui cherchent à réaliser un projet.
 
 ### La charte des Fab Labs
-Afin de porter l’appellation de « FabLab », la structure doit entre autres respecter la charte des FabLabs, mise en place par le MIT.
+Afin de porter l’appellation de « FabLab », la structure doit entre autres *respecter la charte des FabLabs*, mise en place par le MIT.
 
 #### Mission
 Les fablabs sont rassemblés en réseau mondial de laboratoires locaux. Ils rendent l’invention possible en ouvrant aux individus l’accès à des outils à commande numérique.
