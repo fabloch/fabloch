@@ -1,6 +1,19 @@
 ---
-title: Squid, pour gérer la documentation du Fablab
+title: Les nouvelles de la FABrique
 ---
+
+# En ce moment à la FABrique
+
+## C'est **Le BREAK !**
+Le Break à commencé !
+Les fêtes de fin d’année vous ont fait abuser des bonnes choses?
+La FABrique vous propose de faire un BREAK et de jouer!
+![MIBS Day 2](assets/images/partenaires/FYA2019-aff-prov3.jpg)
+
+## Pour les curieux
+MIBS Day 2
+La seconde édition du MIBS Day aura lieu à Quiberon.
+L'occasion de venir en famille rencontrer d'un coup tous les Makers de Bretagne Sud et leurs créations!
 
 # Bienvenue à la Fabrique du Loch
 
@@ -8,8 +21,6 @@ Trois bonnes raisons d'adhérer à La FABrique du Loch
 1. Réaliser ensemble des projets concrets et stimuler sa créativité
 2. Apprendre à faire soi même, avec l'aide des autres
 3. Rencontrer des personnes inspirantes et grandir ensemble
-
-
 
 
 - [La Fabrique du Loch](https://arnaudswail.github.io/squid/association)
