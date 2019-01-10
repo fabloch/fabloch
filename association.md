@@ -3,7 +3,7 @@ title: L'association
 ---
 
 # L'association
-![Association](assets/images/association.jpg){: width="100px"}
+![Association](assets/images/association.jpg){: width="120px"}
 
 **Atelier partagé**, La FABrique du Loch est accessible à tous pour presque tout faire
 - apprendre
@@ -13,11 +13,12 @@ title: L'association
 
 Des outils classiques et numériques sont mis à disposition des membres du FabLab pour réaliser leurs projets, qu’ils soient individuels ou collectifs, farfelus ou sérieux.
 
-Le principe fondamental d’un FabLab est de « faire ensemble » et de « partager les connaissances ». La FABrique du Loch est un lieu d’échange intergénérationnel et interdisciplinaire, où chacun vient, quel que soit son niveau, dans un esprit de convivialité et de tolérance.
+Le principe fondamental d’un FabLab est de **faire ensemble** et de **partager les connaissances**.
+
+La FABrique du Loch est un lieu d’échange intergénérationnel et interdisciplinaire, où chacun vient, quel que soit son niveau, dans un esprit de convivialité et de tolérance.
+
 
 La FABrique du Loch est soutenue par la [Mairie d'Auray](http://www.auray.fr) et le Pays d’Auray, qui accompagnent le projet depuis l’origine.
-
-Le règlement intérieur
 
 ## La communauté
 
