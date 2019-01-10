@@ -10,7 +10,7 @@ Les fêtes de fin d’année vous ont fait abuser des bonnes choses?
 La FABrique vous propose de faire un BREAK et de jouer!
 On en parle dans le [Télégramme](https://www.letelegramme.fr/morbihan/auray/auray-alcool-en-janvier-le-fablab-fait-sa-cure-06-01-2019-12176678.php)
 
-## Pour les curieux, du 18 au 20 janvier à Quiberon
+## Pour les curieux, du 18 au 20 janvier, les **MIBS Days** à Quiberon!
 La seconde édition du MIBS Day aura lieu à Quiberon.
 L'occasion de venir en famille rencontrer d'un coup tous les Makers de Bretagne Sud et leurs créations!
 ![MIBS Day 2](assets/images/partenaires/FYA2019-aff-prov3.jpg)
@@ -28,11 +28,11 @@ Trois bonnes raisons d'adhérer à La FABrique du Loch
 
 # J'aime La FABrique parce que...
 
-![Vincent](assets/images/membres/Vincent.png){: width="150px"}
-> "Le fablab me permet de développer des prototypes rapidement et de rencontrer des gens qui peuvent m'aider à réaliser mes projets.", *Vincent*
+> ![Vincent](assets/images/membres/Vincent.png){: width="150px"}
+"Le fablab me permet de développer des prototypes rapidement et de rencontrer des gens qui peuvent m'aider à réaliser mes projets.", *Vincent*
 
-![Laure](assets/images/membres/Laure-04.png){: width="150px"}
-> "Je suis entrée parce qu’il y avait de la lumière. J’avais une question à poser. Ils ont été trop sympas. Du coup, je suis revenue… en proposant de leur donner du temps. Et hop, aussitôt dit, aussitôt "embauchée". Que du bonheur !", *Laure*
+>![Laure](assets/images/membres/Laure-04.png){: width="150px"}
+"Je suis entrée parce qu’il y avait de la lumière. J’avais une question à poser. Ils ont été trop sympas. Du coup, je suis revenue… en proposant de leur donner du temps. Et hop, aussitôt dit, aussitôt "embauchée". Que du bonheur !", *Laure*
 
-![Xavier](assets/images/membres/xavier.png){: width="150px"}
-> "Je viens de m'installer à Auray et grâce au fablab, j'ai pu rencontrer des personnes vraiment intéressantes. Aujourd'hui c'est devenu un peu ma deuxième maison.", *sXavier*
+> ![Xavier](assets/images/membres/xavier.png){: width="150px"}
+"Je viens de m'installer à Auray et grâce au fablab, j'ai pu rencontrer des personnes vraiment intéressantes. Aujourd'hui c'est devenu un peu ma deuxième maison.", *sXavier*
