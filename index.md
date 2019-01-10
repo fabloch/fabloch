@@ -8,11 +8,17 @@ title: Les nouvelles de la FABrique
 Le Break à commencé !
 Les fêtes de fin d’année vous ont fait abuser des bonnes choses?
 La FABrique vous propose de faire un BREAK et de jouer!
+On en parle dans le [Télégramme](https://www.letelegramme.fr/morbihan/auray/auray-alcool-en-janvier-le-fablab-fait-sa-cure-06-01-2019-12176678.php)
 
 ## Pour les curieux, du 18 au 20 janvier à Quiberon
 La seconde édition du MIBS Day aura lieu à Quiberon.
 L'occasion de venir en famille rencontrer d'un coup tous les Makers de Bretagne Sud et leurs créations!
 ![MIBS Day 2](assets/images/partenaires/FYA2019-aff-prov3.jpg)
+
+## Controverse le vendredi 25 janvier!
+Pour cette 30ème édition des controverses numériques,
+Les Controverses du Numérique de Camp'Tic nous surprennent pour la 30ème édition.
+
 
 # Bienvenue à la Fabrique du Loch
 
