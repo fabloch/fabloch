@@ -30,6 +30,7 @@ Trois bonnes raisons d'adhérer à La FABrique du Loch
 
 | ![Vincent](assets/images/membres/Vincent.png){: width="150px"} | "Le fablab me permet de développer des prototypes rapidement et de rencontrer des gens qui peuvent m'aider à réaliser mes projets.", **Vincent** |
 
+  
 | "Je suis entrée parce qu’il y avait de la lumière. J’avais une question à poser. Ils ont été trop sympas. Du coup, je suis revenue… en proposant de leur donner du temps. Et hop, aussitôt dit, aussitôt "embauchée". Que du bonheur !", **Laure** | ![Laure](assets/images/membres/Laure-04.png){: width="150px"} |
 
 
