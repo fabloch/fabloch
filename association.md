@@ -3,7 +3,6 @@ title: L'association
 ---
 
 # L'association
-![Association](assets/images/association.jpg){: width="120px"}
 
 **Atelier partagé**, La FABrique du Loch est accessible à tous pour presque tout faire
 - apprendre
