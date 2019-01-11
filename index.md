@@ -10,7 +10,7 @@ Les membres du Conseil d'Administration de l'association en profitent pour vous 
 [L'ordre du jour](CA/comptesrendus/2019/CA_du_11_janvier_2019.md)
 
 ## C'est **Le BREAK !**
-Le Break à commencé !
+Le Break a commencé !
 Les fêtes de fin d’année vous ont fait abuser des bonnes choses?
 La FABrique vous propose de faire un BREAK et de jouer!
 On en parle dans le [Télégramme](https://www.letelegramme.fr/morbihan/auray/auray-alcool-en-janvier-le-fablab-fait-sa-cure-06-01-2019-12176678.php)
