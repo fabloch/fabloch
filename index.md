@@ -4,6 +4,11 @@ title: Les nouvelles de la FABrique
 
 # En ce moment à la FABrique
 
+## Premier CA de l'année 2019!
+Les membres du Conseil d'Administration de l'association en profitent pour vous présenter ses meilleurs voeux pour cette nouvelle année.
+
+[L'ordre du jour](CA/comptesrendus/2019/CA_du_11_janvier_2019.md)
+
 ## C'est **Le BREAK !**
 Le Break à commencé !
 Les fêtes de fin d’année vous ont fait abuser des bonnes choses?
