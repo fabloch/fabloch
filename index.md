@@ -22,15 +22,15 @@ Les Controverses du Numérique de Camp'Tic nous surprennent pour la 30ème édit
 # Bienvenue à la Fabrique du Loch
 
 Trois bonnes raisons d'adhérer à La FABrique du Loch
-1. *Réaliser ensemble* des projets concrets et stimuler sa créativité
-2. *Apprendre à faire* soi même, avec l'aide des autres
-3. *Rencontrer* des personnes inspirantes et grandir ensemble
+1. **Réaliser ensemble** des projets concrets et stimuler sa créativité
+2. **Apprendre à faire** soi même, avec l'aide des autres
+3. **Rencontrer** des personnes inspirantes et grandir ensemble
 
 # J'aime La FABrique parce que...
 
 | ![Vincent](assets/images/membres/Vincent.png){: width="150px"} | "Le fablab me permet de développer des prototypes rapidement et de rencontrer des gens qui peuvent m'aider à réaliser mes projets.", **Vincent** |
 
-  
+
 | "Je suis entrée parce qu’il y avait de la lumière. J’avais une question à poser. Ils ont été trop sympas. Du coup, je suis revenue… en proposant de leur donner du temps. Et hop, aussitôt dit, aussitôt "embauchée". Que du bonheur !", **Laure** | ![Laure](assets/images/membres/Laure-04.png){: width="150px"} |
 
 
