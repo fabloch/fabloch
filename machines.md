@@ -5,7 +5,7 @@ une grande diversité d'outils et  de machines à commande numérique
 afin de réaliser les **projets les plus fous!**
 
 ## Découpe laser
-Découpe laser Robotseed
+Découpe laser **Robotseed**
 
 ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/decoupe-laser-1.jpg)
 
@@ -26,7 +26,7 @@ Les points de coordonnées (0, 0) doivent être dans le coin en bas à gauche de
 Les dimensions doivent être en millimètres.
 
 ## Impression 3D
-3 Open Maker Prusa i3
+3 **Open Maker Prusa i3**
 
 ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/07/imprimante-3d-07-768x577.jpg)
 
@@ -43,8 +43,8 @@ Machine modifiée par Xavier Hinault du Créafab, puis améliorée au sein de La
 ### Fichiers supportés
 Fichiers STL
 
-### Plotter de decoupe (#plotter-de-decoupe)
-GCC Expert II lx 24
+### Plotter de découpe
+Plotter **GCC Expert II lx 24**
 ![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/08/Decoupe_Vinyle.jpg)
 - Surface de travail : largeur: 600 mm
 - Tarif : 10€ / heure
@@ -52,7 +52,7 @@ GCC Expert II lx 24
 Le Plotter de découpe permet de découper du vinyle, du flex ou du carton souple à partir d'un fichier.
 
 ### Fichiers supportés
-Fichiers ouvrables sur Inkscape
+Tout fichier ouvrable sur Inkscape
 
 ## Atelier de bricolage
 
