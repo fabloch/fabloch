@@ -9,6 +9,8 @@ Ces machines offrent d’énormes perspectives, et permettent de fabriquer (pres
 ## Nos machines
 L'espace de travail est dédié aux indépendants, co-workers, et micro-entrepreneurs qui pratiquent le coworking au sein du fablab d'Auray
 
+[Nos machines en détail](machines)
+
 ## Nos Formations
 Nos formations vous permettent d'apprendre comment utiliser nos outils.
 
