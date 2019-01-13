@@ -1,6 +1,8 @@
 
 #les médiathèques départementales à l'ère numérique
 
+[Mediatheques Header](assets/images/headermediatheques.png)
+
 Cette année les médiathèques départementales du Morbihan (MDM) se sont associées à la Fabrique du Loch, dans le cadre d'une réflexion autour du numérique. S'imposant de plus en plus comme phénomène de sociéte c'est un sujet à que les participants avaient à coeur de promouvoir dans leur structures respectives. Les médiathèques veulent mettre à disposition de leurs publics les outils et les connaissances du numérique. Ce partenariat était l'occasion de se former, au sein de la Fabrique du Loch, autour de technologies de fabrication pour pouvoir appréhender et développer des projets numériques dans les médiathèques.
 
 A raison d'une journée complète par mois, la Fabrique à accueilli les volontaires de ce programme : bibliothécaires de Séné, d'Auray ou encore de Quiberon. Certains étaient déjà partisans du numérique ( certains s'investissant déjà dans des activités comme Morbicraft ou proposant l'accès à des imprimantes 3D) et d'autre des novices de la fabrication numérique. Une équipe s'est formée pour créer deux projets originaux qui ont été développé au sein de la Fabrique du Loch. C'était de plus un temps de rencontre entre ces acteurs décidés à passer à l'étape des bibliothèques 2.0.

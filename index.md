@@ -28,3 +28,7 @@ L'occasion de venir en famille rencontrer d'un coup tous les Makers de Bretagne 
 ## Controverse le vendredi 25 janvier!
 Pour cette 30ème édition des controverses numériques,
 Les Controverses du Numérique de Camp'Tic nous surprennent pour la 30ème édition.
+
+## Les médiathèques à l'heure du numérique
+Avec la Fabrique du Loch, les médiathèques du Morbihan ont travaillé sur deux projets, un Drawbot et une Borne d'Arcade.
+[Les projets en détail](mediatheques2018.md)
