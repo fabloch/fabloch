@@ -10,11 +10,12 @@ A raison d'une journée complète par mois, la Fabrique à accueilli les volonta
 ![](https://www.lafabriqueduloch.org/wp-content/uploads/2018/05/DSC_0453reduit.jpg)
 Montage des pièces imprimées en 3D
 
+# Le Drawbot
+Le premier projet choisi a été un Drawbot (ou robot de dessin) sur le modèle de celui conçu par Frédérick Fleury. De la conception au montage définitif, quelques uns de nos bénévoles ont encadrés les différentes équipes. Impression de pièce en 3D, perçages, montage éléctronique, tutoriel informatique et décoration, rien n'a été épargnés à nos apprentis makers, qui sont repartis à la fin avec leur projet, destiné à s'échanger entre médiathèques.
+
 ![](https://www.lafabriqueduloch.org/wp-content/uploads/2018/05/DSC_0456reduit.jpg)
 Derniers essai avant la déco
 
-# Le Drawbot
-Le premier projet choisi a été un Drawbot (ou robot de dessin) sur le modèle de celui conçu par Frédérick Fleury. De la conception au montage définitif, quelques uns de nos bénévoles ont encadrés les différentes équipes. Impression de pièce en 3D, perçages, montage éléctronique, tutoriel informatique et décoration, rien n'a été épargnés à nos apprentis makers, qui sont repartis à la fin avec leur projet, destiné à s'échanger entre médiathèques.
 
 # La Borne d'Arcade
 Le second projet choisi était une borne d'arcade personnalisée pour le plaisir des grands et des petits amateurs de jeux rétro. La conception à été entièrement réalisé au Fablab. Les tâches ont été réparties entre différentes équipes pour que chacun puisse s'essayer à la compétence qu'il voulait acquérir.  Le résultat est super et il a déjà fait des émules étant donnée qu'une seconde borne à été fabriqué dans le cadre de ce projet et une troisième trône dans le hall de la Fabrique du Loch.
