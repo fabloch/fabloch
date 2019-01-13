@@ -1,5 +1,5 @@
 
-#les médiathèques départementales à l'ère numérique
+# Les médiathèques départementales à l'ère numérique
 
 ![Mediatheques Header](assets/images/headermediatheques.png)
 
