@@ -93,6 +93,11 @@
       		</aside>
         </div></div></div>
 
+        {% for repository in site.github.public_repositories %}
+          * [{{ repository.name }}]({{ repository.html_url }})
+        {% endfor %}
+
+
         <div class="footer-icons">
           <a href="https://www.facebook.com/laFabriqueduloch/?fref=ts" target="_blank"><i class="fa fa-facebook">Facebook</i></a>
           <a href="https://twitter.com/Fabriqueduloch" target="_blank"><i class="fa fa-twitter">Twitter</i></a>
