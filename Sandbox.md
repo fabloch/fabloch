@@ -24,12 +24,9 @@ Gilbert et Jean-François
 - [x] platine videoprojecteur - découpe et assemblage
 - [x] boulonage colonne
 - [ ] Poncer
-- [ ] tamiser le sable
+- [x] tamiser le sable
 - [ ] peindre
 - [ ] décorer
-- [ ] calibrer arSandBox (dès réception du vidéo-projecteur)
+- [x] calibrer arSandBox (dès réception du vidéo-projecteur)
 
 ## Rendez-vous :
-
-**samedi matin** : gilbert
-**lundi AM**  : gilbert - Jean-François
