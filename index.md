@@ -8,10 +8,6 @@ Trois bonnes raisons d'adhérer à La FABrique du Loch
 
 # En ce moment à la FABrique
 
-## Retour sur les **MIBS Days** à Quiberon!
-La seconde édition du MIBS Day s'est déroulée à Quiberon du 18 au 20 janvier.
-L'occasion de venir en famille rencontrer d'un coup tous les Makers de Bretagne Sud et leurs créations!
-![MIBS Day 2](assets/images/partenaires/FYA2019-aff-prov3.jpg)
 
 ## Premiers essais de la **sandbox**!
 C'était ce vendredi à la Fabrique du Loch, les premiers essais d'une sandbox complète.
