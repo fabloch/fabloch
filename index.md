@@ -8,18 +8,12 @@ Trois bonnes raisons d'adhérer à La FABrique du Loch
 
 # En ce moment à la FABrique
 
-
 ## Premiers essais de la **sandbox**!
 C'était ce vendredi à la Fabrique du Loch, les premiers essais d'une sandbox complète.
 
 Et quelques heures de jeu pour les enfants de tout âge, de 2 ans à 80!
 ![Sandbox](assets/images/sandbox/Sandbox.jpg)
 
-## C'est **Le BREAK !**
-Le Break a commencé !
-Les fêtes de fin d’année vous ont fait abuser des bonnes choses?
-La FABrique vous propose de faire un BREAK et de jouer!
-On en parle dans le [Télégramme](https://www.letelegramme.fr/morbihan/auray/auray-alcool-en-janvier-le-fablab-fait-sa-cure-06-01-2019-12176678.php)
 
 ## Controverse le vendredi 25 janvier!
 Pour cette 30ème édition des **controverses numériques**,
