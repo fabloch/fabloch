@@ -1,6 +1,5 @@
 # Construction V1 - c’est parti  
 
-
 [Video démo Sandbox](https://youtu.be/YLYO0YhY83w?t=271)
 
 Libre interprétation de la [sandbox Beals Science](https://youtu.be/YLYO0YhY83w?t=35)
@@ -17,7 +16,6 @@ Gilbert et Jean-François
 
 ----------
 # La SandBox a besoin d’huile de coude
-- [ ] Gilbert et Jean-François
 - [x] diminution largeur renforts latéraux
 - [x] 2 traverses pour recevoir le fond
 - [x] découpe potence
