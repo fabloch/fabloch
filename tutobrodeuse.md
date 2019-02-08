@@ -88,6 +88,11 @@ placez votre tissu sur le cadre inférieur de votre support (la partie avec des 
 posez le cadre supérieur du support et alignez les flèches des deux cadres afin de bien coincer le tissu.
 ![image11](./assets/images/brodeusetuto11.jpg)
 ![image12](./assets/images/brodeusetuto12.jpg)
+Serrez le cadre et assurez vous que le tissu soit bien tendu
+
+Vous pouvez maintenant glisser le support dans la partie prévue à cet effet sur la machine pour se faire, levez le levier, glissez la tige du cadre de broderie et abaissez le levier.
+![image13](./assets/images/brodeusetuto13.jpg)
 #### préparation de la surface de broderie
 #### Que faire si la cannette est vide ?
+Si jamais la canette est vide, pas de panique, commencez par ouvrir la trappe dans laquelle elle se trouve.
 ### importer son motif et démarrer la broderie
