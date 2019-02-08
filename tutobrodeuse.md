@@ -68,6 +68,19 @@ Si jamais cette dernière se vide pendant votre broderie, la machine arrêtera l
 Si jamais la canette est vide, ou trop peu remplie pour faire tout votre travail, référez-vous à la section 1.3 : que faire si la cannette est vide ?**
 Assurez-vous que le pied-de-biche et l’aiguille soient relevés, si ce n’est pas le cas ,vous pouvez  y remédier à l’aide des boutons « position aiguille » et « Position pied-de-biche » (ou du levier à l’arrière de la machine).
 ![image3](./assets/images/brodeusetuto3.png)
+mettez la bobine de fil sur le porte bobine, pensez à le coincer entre les deux disques de maintien.
+![image4](./assets/images/brodeusetuto4.jpg)
+une fois ceci fait , il ne vous reste plus qu’à faire passer le fil en suivant les nombres et les flèches pleines pour les étapes 1 à 8.
+pour l’étape 6, pensez à bien coincer le fil dans le guide-fil.
+
+Enfin, abaissez le levier se situant à la gauche de la machine pour passer le fil dans l’aiguille. Il ne faut pas hésiter à y mettre un peu de force, sans y aller comme un bourrin pour autant,
+![image5](./assets/images/brodeusetuto5.jpg)
+prenez votre support de broderie (le grande à une surface de 260x160mm et le petit, une surface de 100x100mm) les supports sont en deux parties, une inférieure (avec vis) et une supérieure.
+![image6](./assets/images/brodeusetuto6.jpg)
+Prenez un tissu à un format qui vous convient, il doit au moins être un peu plus grand que votre support
+![image7](./assets/images/brodeusetuto7.jpg)
+Prenez le renfort et voyez ce dont vous avez besoin. Vous n’avez besoin de couvrir qu’une surface légèrement supérieure au motif que vous souhaitez broder
+![image8](./assets/images/brodeusetuto8.jpg)
 
 #### préparation de la surface de broderie
 #### Que faire si la cannette est vide ?
