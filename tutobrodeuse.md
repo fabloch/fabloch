@@ -29,7 +29,9 @@ Vous vous retrouverez alors face au menu suivant :
 ![image2](./assets/images/brodeusetuto2.jpg)
 
 comme vous pouvez le voir, ce menu offre également un aperçu « en temps réel » vous permettant ainsi de faire des essais sur les différents paramètres proposés et d’avoir une idée approximative du résultat final.
-
+**ATTENTION !
+Cette section, ainsi que la suivante, part du principe que vous utilisez un tissu qui n’as pas de sens particulier et que votre forme reste assez simple.
+Je recommande d’avoir un échantillon « test » de votre tissu vous permettant de vérifier vos réglages avant de vous lancer dans une broderie complète.**
 #### le remplissage
 #### les contours
 #### exporter son motif
