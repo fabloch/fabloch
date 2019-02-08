@@ -67,6 +67,8 @@ Pour se faire, regardez dans la trappe située au milieu de la machine, vous y v
 Si jamais cette dernière se vide pendant votre broderie, la machine arrêtera le travail en cours et vous vous verrez contraint de changer la bobine en cours de route.
 Si jamais la canette est vide, ou trop peu remplie pour faire tout votre travail, référez-vous à la section 1.3 : que faire si la cannette est vide ?**
 Assurez-vous que le pied-de-biche et l’aiguille soient relevés, si ce n’est pas le cas ,vous pouvez  y remédier à l’aide des boutons « position aiguille » et « Position pied-de-biche » (ou du levier à l’arrière de la machine).
+![image3](./assets/images/brodeusetuto3.png)
+
 #### préparation de la surface de broderie
 #### Que faire si la cannette est vide ?
 ### importer son motif et démarrer la broderie
