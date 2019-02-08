@@ -81,7 +81,13 @@ Prenez un tissu à un format qui vous convient, il doit au moins être un peu pl
 ![image7](./assets/images/brodeusetuto7.jpg)
 Prenez le renfort et voyez ce dont vous avez besoin. Vous n’avez besoin de couvrir qu’une surface légèrement supérieure au motif que vous souhaitez broder
 ![image8](./assets/images/brodeusetuto8.jpg)
-
+mettez un peu de spray adhésif sur le renfort et collez le au tissu
+![image9](./assets/images/brodeusetuto9.jpg)
+placez votre tissu sur le cadre inférieur de votre support (la partie avec des vis de serrage)
+![image10](./assets/images/brodeusetuto10.jpg)
+posez le cadre supérieur du support et alignez les flèches des deux cadres afin de bien coincer le tissu.
+![image11](./assets/images/brodeusetuto11.jpg)
+![image12](./assets/images/brodeusetuto12.jpg)
 #### préparation de la surface de broderie
 #### Que faire si la cannette est vide ?
 ### importer son motif et démarrer la broderie
