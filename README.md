@@ -15,13 +15,13 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Liste
+- non ordonnée
 
-1. Numbered
-2. List
+1. Liste
+2. numérotée
 
-**Bold** and _Italic_ and `Code` text
+**Gras** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
