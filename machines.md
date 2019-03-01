@@ -46,7 +46,7 @@ Fichiers STL
 ### Plotter de découpe
 Plotter **GCC Expert II lx 24**
 
-![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/08/Decoupe_Vinyle.jpg)
+![image](https://www.lafabriqueduloch.com/wp-content/uploads/2016/08/Decoupe_Vinyle.jpg){: width="500px"}
 
 - Surface de travail : largeur: 600 mm
 - Tarif : 10€ / heure
