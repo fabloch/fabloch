@@ -1,6 +1,9 @@
 # DÉCOUPEUSE LASER DE LA FABRIQUE DU LOCH
- 
-Caractéristiques techniques :
+
+- Matériel : Découpeuse laser Robotseed RS-1610L + contrôleur Smoothieboard
+- Logiciels: Inkscape, Visicut, Octoprint
+
+## Caractéristiques techniques
 
 A la FABrique, on utilise majoritairement :
 - Inkscape : dessin vectoriel (fichier au format .SVG)
@@ -28,17 +31,18 @@ Sur cet exemple, le contour, les textes « conçu et réalisé à » et « Au
 ### Gravure Raster 3D (3D engraving)
 Cette fois, l’image couleur est convertie en nuances de gris, et les pixels noirs seront gravés avec une puissance 100%, les blancs avec une puissance nulle, et les nuances de gris avec une puissance qui lui est proportionnelle. La puissance du laser est donc modulée en fonction de la valeur du pixel au-dessus duquel il se trouve, permettant de graver plus ou moins profondément le matériau, d’où une gravure RASTER 3D.
 
-
-# INKSCAPE ET FICHIER .SVG.
+## INKSCAPE ET FICHIER .SVG
 On se référera au contenu de la formation proposée à la FABrique.
 
-Problème d'échelle entre illustrator et Inkscape :
+### Problème d'échelle entre illustrator et Inkscape
 Format .SVG Illustrator et .SVG Inkscape
 Les fichiers .SVG sont sauvegardés avec des unités en pixels, cependant inkscape et illustrator utilisent des facteurs de conversion px/mm différents :
-illustrator 	72dpi : 72 px = 1 inch = 25.4 mm
-inkscape 	90dpi : 90 px = 1 inch = 25.4 mm
-Exemple
-Supposons avoir créé un carré de côté 25.4mm dans Illustrator, lorsque vous enregistrez le fichier .SVG avec Illustrator, les dimensions sont converties en pixels  avec le ratio 72dpi : on a donc un carré de côté 72 pixels.
+- Illustrator 	72dpi : 72 px = 1 inch = 25.4 mm
+- Inkscape 	90dpi : 90 px = 1 inch = 25.4 mm
+
+#### Exemple
+Supposons avoir créé un carré de côté 25.4mm dans Illustrator.
+Lorsque vous enregistrez le fichier .SVG avec Illustrator, les dimensions sont converties en pixels avec le ratio 72dpi : on a donc un carré de côté 72 pixels.
 En l’ouvrant dans inkscape (export .svg), il ouvre un fichier contenant un carré de 72 pixels, en utilisant un ratio de 90dpi pour retrouver les dimensions de l’objet. On obtient donc un carré de côté 72px/90dpi = 0.8 inch = 20.32mm.
 
 Il est donc nécessaire dans Inkscape de redimensionner les objets créés avec Illustrator d’un facteur de 90/72 = 125% afin de conserver les dimensions originales (en mm).
@@ -55,7 +59,7 @@ Sélectionner l’objet à découper ou à graver.
 Menu Extension, LasercutPath, Open in Visicut
 
 
-VISICUT
+###VISICUT
 
   "https://www.lafabriqueduloch.org/projet/visicut-decoupe-laser/"https://www.lafabriqueduloch.org/projet/visicut-decoupe-laser/
 
@@ -263,7 +267,3 @@ L. Beguin 	La FABrique du Loch	 novembre 2017
 
 Auteurs / contributeurs :
   L. Béguin – La Fabrique du Loch
-
-Matériel : Découpeuse laser Robotseed RS-1610L + contrôleur Smoothieboard
-
-Logiciels: Inkscape, Visicut, Octoprint
