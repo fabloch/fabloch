@@ -26,7 +26,7 @@ Ink/Stitch détecte automatiquement le type de travail recherché en fonction de
 Pour avoir les réglages qui vous conviennent, sélectionnez votre forme puis allez dans
 Extension → ink/stitch → français → paramètres
 Vous vous retrouverez alors face au menu suivant :  
-![image2](./images/brodeuse/tutos/brodeuse/brodeusetuto2.jpg)
+![image2](./images/brodeuse/brodeusetuto2.jpg)
 
 comme vous pouvez le voir, ce menu offre également un aperçu « en temps réel » vous permettant ainsi de faire des essais sur les différents paramètres proposés et d’avoir une idée approximative du résultat final.
 #### le remplissage
@@ -67,17 +67,17 @@ Pour se faire, regardez dans la trappe située au milieu de la machine, vous y v
 Si jamais cette dernière se vide pendant votre broderie, la machine arrêtera le travail en cours et vous vous verrez contraint de changer la bobine en cours de route.
 Si jamais la canette est vide, ou trop peu remplie pour faire tout votre travail, référez-vous à la section 1.3 : que faire si la cannette est vide ?**
 Assurez-vous que le pied-de-biche et l’aiguille soient relevés, si ce n’est pas le cas ,vous pouvez  y remédier à l’aide des boutons « **position aiguille** » et « Position pied-de-biche » (ou du levier à l’arrière de la machine).
-![image3](./images/brodeuse/tutos/brodeuse/brodeusetuto3.png)
+![image3](./images/brodeuse/brodeusetuto3.png)
 mettez la bobine de fil sur le porte bobine, pensez à le coincer entre les deux disques de maintien.
-![image4](./images/brodeuse/tutos/brodeuse/brodeusetuto4.jpg)
+![image4](./images/brodeuse/brodeusetuto4.jpg)
 une fois ceci fait , il ne vous reste plus qu’à faire passer le fil en suivant les nombres et les **flèches pleines** pour les étapes 1 à 8.
 pour l’étape 6, pensez à bien coincer le fil dans le **guide-fil.**
 
 Enfin, abaissez le levier se situant à la gauche de la machine pour passer le fil dans l’aiguille. Il ne faut pas hésiter à y mettre un peu de force, sans y aller comme un bourrin pour autant,
-![image5](./images/brodeuse/tutos/brodeuse/brodeusetuto5.jpg)
+![image5](./images/brodeuse/brodeusetuto5.jpg)
 #### Préparation du tissu
 prenez votre support de broderie (le grande à une surface de 260x160mm et le petit, une surface de 100x100mm) les supports sont en deux parties, une inférieure (avec vis) et une supérieure.
-![image6](./images/brodeuse/tutos/brodeuse/brodeusetuto6.jpg)
+![image6](./images/brodeuse/brodeusetuto6.jpg)
 découpez votre surface de renfort
 ![image6b](./images/brodeuse/brodeusetutodecoupezsurface.jpg)
 Prenez un tissu à un format qui vous convient, il doit au moins être un peu plus grand que votre support
