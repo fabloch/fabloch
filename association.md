@@ -61,9 +61,9 @@ Qui peut-on croiser à La FABrique du Loch ?
 
 ## Les Fondateurs
 L’idée est née en 2014 sous l’impulsion de quatre amis
-- Patrick Jullien préparateur de bateaux de course
-- Benjamin Muyl architecte naval
-- Stéphanie Fiévé architecte DPLG
-- Arnaud Schweitzer chef de projet
+- Patrick Jullien, préparateur de bateaux de course
+- Benjamin Muyl, architecte naval
+- Stéphanie Fiévé, architecte DPLG
+- Arnaud Schweitzer, chef de projet
 
 Chacun a apporté une pierre à l’édifice afin de monter l’association qui a vu le jour en juillet 2015.
