@@ -1318,7 +1318,7 @@ h1.hero__white-background {
 
 .footer {
   background: #F86D5A;
-  background: var(--darkest-grey);
+  /*background: var(--darkest-grey);*/
   color: #fff;
   color: var(--white);
   padding: 2em 0;
