@@ -25,7 +25,7 @@
     <header class="page-header" role="banner">
       <div>
         <h1 class="project-name">
-          <a href="/fr"><img src="fabloch.png" width="100px" /></a>La fabrique du Loch</h1>
+          <a href="/fr"><img src="/fabloch.png" width="100px" /></a>La fabrique du Loch</h1>
       </div>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
@@ -96,7 +96,7 @@
         <div class="footer-icons">
           Les projets de la Fabrique du Loch
         {% for repository in site.github.public_repositories %}
-          <a href="{{ repository.html_url }}">{{ repository.name }}</a> 
+          <a href="{{ repository.html_url }}">{{ repository.name }}</a>
         {% endfor %}
       </div>
 
