@@ -1316,9 +1316,9 @@ h1.hero__white-background {
   font-size: 1.2em;
 }
 
+/* background: var(--darkest-grey); */
 .footer {
   background: #F86D5A;
-  /*background: var(--darkest-grey);*/
   color: #fff;
   color: var(--white);
   padding: 2em 0;
