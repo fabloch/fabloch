@@ -6,7 +6,6 @@ les logiciels, les langages utilisés à la Fabrique du Loch.
 Nous consignons ici les informations nécessaires pour mener à bien votre propre projet.
 N'hésitez pas à consulter ces documents et à les compléter!
 
-
 ## Machines
 - [Découpe Laser](decoupeLaser)
 - [Impression 3D](impression3D)
