@@ -13,11 +13,11 @@ La FABrique veut innover et proposer le premier centre de calcul issu d'un fabla
 
 ## Quelques réalisations
 
-### La Sandbox
-Comment sensibiliser sur la montée des eaux?
-[Le projet Sandbox](http://fabloch.github.io/sandbox)
-
 ### Le Hurlomaton
 Il faut hurler pour que la photo soit prise! Un incontournable de la FABrique.
 
 Il est possible de louer le hurlomaton pour une journée mémorable.
+
+### La Sandbox
+Comment sensibiliser sur la montée des eaux?
+[Le projet Sandbox](http://fabloch.github.io/sandbox)
