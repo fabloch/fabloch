@@ -16,7 +16,7 @@ par les cartographes.
 - Sur un serveur, [NodeJS](javascript/nodejs)
 - Pour une application desktop, [Electron](javascript/electron)
 - [OpenLayers](javascript/openlayers) pour faire de la cartographie sur le web
-- [Utiliser la librairie géospatiale H3](javascript/h3)
+- [Utiliser la librairie géospatiale H3](javascript/h3-js)
 
 ## Les langages, les extensions de fichiers de La Fabrique du Loch
 - [Langages](langages)
