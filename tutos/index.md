@@ -1,5 +1,12 @@
 # Tutoriels de la Fabrique du Loch
 
+Chaque projet est l'occasion d'acquérir un peu plus de connaissance sur les machines,
+les logiciels, les langages utilisés à la Fabrique du Loch.
+
+Nous consignons ici les informations nécessaires pour mener à bien votre propre projet.
+N'hésitez pas à consulter ces documents et à les compléter!
+
+
 ## Machines
 - [Découpe Laser](decoupeLaser)
 - [Impression 3D](impression3D)
