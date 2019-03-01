@@ -33,42 +33,43 @@ Vous pouvez désormais lancer Modela Player et y ouvrir votre modèle 3D précé
 
 Maintenant, vous allez pouvoir cliquer sur « nouveau processus » pour lancer un nouveau travail, voyons chaque écran un par un.  « choisir le type de processus »
 
-comme vous le voyez, vous avez le choix entre 4 types de processus
+Comme vous le voyez, vous avez le choix entre 4 types de processus:
+- Surfaçage: Fait un passage sur votre matériau afin de mettre sa surface à niveau pour l'uniformiser
+- Dégrossissage: Sert à faire une première passe pour avoir déjà une forme brute de votre résultat final
+- Finition: Seconde passe plus précise afin de lisser le dégrossissage avant de récupérer votre pièce
+- Forage: Permet de percer un trou au travers de votre matériau
 
-surfaçage
-
-Fait un passage sur votre matériau afin de mettre sa surface à niveau pour l'uniformiser
-dégrossissage
-Sert à faire une première passe pour avoir déjà une forme brute de votre résultat final
-finition
-Seconde passe plus précise afin de lisser le dégrossissage avant de récupérer votre pièce
-forage
-Permet de percer un trou au travers de votre matériau
  Séléctionner la surface de coupe :
-nous reviendrons dessus sur le chapitre « le fraisage sur faces multiples ».   « choisir l'outil » Assurez vous de sélectionner l'outil installé dans la machine à l'aide du menu déroulant.  « régler l'aire et la profondeur » Si votre modèle 3D correspond déjà exactement à ce que vous souhaitez faire et qu'un seul outil vous est nécessaire, cochez « tout » et cliquez sur suivant.  Sinon, cochez « en partie », vous pourrez alors recadrer la surface d'action à gauche à l'aide des outils suivants 
-Icône curseur
-Redimensionner le cadre à l'aide des carré dans les coins supérieur droit et inférieur gauche. Déplacer le cadre en cliquant à l'intérieur.
-Icône fleches
-Déplacer le modèle
-Icône loupe
-Zoomer sur le modèle
-Icône dézoom
-Afficher l'intégralité du modèle
- Vous pourrez également choisir la profondeur, où 0 correspondant à votre origine machine Z (normalement, la surface de votre matériau) et une valeur négative correspond à un creux dans votre matériau.  « choisir le type de trajectoire d'outil »
+Nous reviendrons dessus sur le chapitre « le fraisage sur faces multiples ».   « choisir l'outil » Assurez vous de sélectionner l'outil installé dans la machine à l'aide du menu déroulant.  « régler l'aire et la profondeur » Si votre modèle 3D correspond déjà exactement à ce que vous souhaitez faire et qu'un seul outil vous est nécessaire, cochez « tout » et cliquez sur suivant.  Sinon, cochez « en partie », vous pourrez alors recadrer la surface d'action à gauche à l'aide des outils suivants :
+- Icône curseur: Redimensionner le cadre à l'aide des carrés dans les coins supérieur droit et inférieur gauche.
+ Déplacer le cadre en cliquant à l'intérieur.
+- Icône fleches: Déplacer le modèle
+- Icône loupe: Zoomer sur le modèle
+- Icône dézoom: Afficher l'intégralité du modèle
+
+Vous pourrez également choisir la profondeur, où 0 correspondant à votre origine machine Z (normalement, la surface de votre matériau) et une valeur négative correspond à un creux dans votre matériau.  « choisir le type de trajectoire d'outil »
+
+#### Mouvement
 Vous pouvez maintenant choisir le mouvement fait par votre outil lors de ectte opération.  
-Lignes de ballayage
+
+- Lignes de balayage
 Votre outil effectuera des aller-retours le long de votre aire de travail. X : les aller-retours se feront le long de l'axe X (longeur) Y : les aller-retours se feront le long de l'axe Y (largeur) X/Y : un premier passage se fera le long de l'axe X, puis un second passage se fera le long de l'axe Y.
-Unidirrectionnelles
+
+- Unidirectionnelles
 Votre outil effectuera une ligne droite avant de revenir juste a côté de son point de départ, cela tout le long de votre aire de travail  X : les lignes s'effectuent le long de l'axe X (longueur) Y : les lignes s'effectuent le long de l'axe Y (largeur)
-Lignes de contour
+
+- Lignes de contour
 L'outil va suivre les contours de la/des forme(s) présentent dans l'air de travail, sans s'occuper de l'intérieur.
-Spirales
+
+- Spirales
 (finition seulement) l'outil va effectuer des tours sur l'aire de travail, se rapprochant progressivement du centre.
-« Régler les paramètres de coupe » :
+
+#### « Régler les paramètres de coupe » :
 Cet écran vous permet de régler les détails de la découpe, il est préférable de laisser ces options par défaut.  « entrer un nom » Enfin cet écran, assez explicite, vous invite à nommer votre processus et à le faire calculer soit immédiatement soit ultérieurement. 
 
 ### 2.5 lancer les travaux 
 
 Une fois tous vos travaux prêts, cliquer sur le bouton « usiner », un écran s'ouvrira enfin, vous permettant d'exporter les travaux sous forme de fichier .prn, contenant un G-Code Roland compatible avec la machine, pour une utilisation ultérieure. Vous pouvez également laisser l'option « sortie vers fichier » décochée afin de lancer le travail directement. Pensez à ouvrir Vpannel afin de régler des détails que vous n'avez peut-être pas prit en compte précédemment (mauvaise vitesse de déplacement/rotation par exemple) ainsi que pour mettre la machine en pause voir annuler le travail en cours en cas de besoin.  s
 
-### 2.6 nettoyer la machine. Une fois vos travaux terminer, retirer votre matériau et pensez à au moins passer l'aspirateur à l'intérieur de la machine afin de retirer tout copeau et poussière.
+### 2.6 nettoyer la machine.
+ Une fois vos travaux terminer, retirer votre matériau et pensez à au moins passer l'aspirateur à l'intérieur de la machine afin de retirer tout copeau et poussière.
