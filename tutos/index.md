@@ -22,3 +22,6 @@
 ## Bureautique de la Fabrique
 - [Le serveur NAS](NAS)
 - [Importer une police](police.md)
+
+## Pour les codeurs
+- [Tutoriels pour les geeks](code/index.md)
