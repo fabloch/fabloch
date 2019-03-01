@@ -1,4 +1,4 @@
-DRAWBOT
+# Drawbot
 
 	•	Prendre une photo devant un fond blanc et de semi-profil pour voir ton nez !
 
@@ -33,14 +33,11 @@ DRAWBOT
   SpiralFromImage -> https://github.com/krummrey/SpiralFromImage
   https://code.google.com/archive/p/eggbotcode/downloads
 
-
   Extensions inkscape utilisées :
 
   Gcodetools (intégrée à inkscape) -> https://github.com/cnc-club/gcodetools
   Eggbot -> https://github.com/evil-mad/EggBot/releases/
   Centerline-trace -> https://github.com/fablabnbg/inkscape-centerline-trace/releases
-
-
 
   Sources :
   https://wiki.evilmadscientist.com/TSP_art
@@ -72,13 +69,9 @@ DRAWBOT
 
   Ex de résultat :
 
-
-
-
   Texte Manuscrit Hersey
 
   “Hershey Text” est une extension inkscape très utile pour écrire du texte dans une police adaptée au Drawbot.
-
 
   	1)	Extensions > Rendu > Texte Hershey
   	2)	Entrer le texte voulu
@@ -95,8 +88,7 @@ DRAWBOT
   	4)	Image > mode > Couleurs indexées
   	a)	Utiliser la palette noir & blanc (1-bit)
   	b)	Tramage des couleur : Floyd-Steinberg (Normal)
-  	c)	 
-  SVG vers GCODE
+  	c)	SVG vers GCODE
 
   	1)	Extension > Gcodetools > Points d’orientation :
   	2)	“Appliquer”

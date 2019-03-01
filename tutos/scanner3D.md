@@ -1,5 +1,5 @@
 
-Tutorial par étapes du scanner 3d EINSCAN-S
+# Tutorial par étapes du scanner 3d EINSCAN-S
 
 - Vérifiez l'alimentation du scanner, le projecteur doit être allumé et le faisceau visible.
 - Placez l'objet devant le scanner, au centre du plateau tournant dans le cadre d'un balayage table. Vérifiez que la projection de la visée du scanner débute au deuxième cercle, à partir du bord, du plateau tournant.
