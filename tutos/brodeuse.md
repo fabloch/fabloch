@@ -1,6 +1,7 @@
+
 # TUTO Broderie numérique avec Inkscape
 ## Motif
-### Inkscape et Ink/stitch
+### Inkscape et Ink/Stitch
 #### préparer son motif
 Nous allons partir d’un motif que vous avez fait vous même ou récupérer d’internet.
 
