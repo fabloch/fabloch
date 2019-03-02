@@ -58,10 +58,9 @@ Une fois le dessin terminé, l’ouvrir avec Visicut permettra de générer le G
 Sélectionner l’objet à découper ou à graver.
 Menu Extension, LasercutPath, Open in Visicut
 
+### VISICUT
 
-###VISICUT
-
-  "https://www.lafabriqueduloch.org/projet/visicut-decoupe-laser/"https://www.lafabriqueduloch.org/projet/visicut-decoupe-laser/
+[Visicut pour la découpe laser](https://www.lafabriqueduloch.org/projet/visicut-decoupe-laser/)
 
 Visicut permet d’associer aux éléments du dessin vectoriel (fichier .SVG) un ensemble d’actions (découpe, marquage ou gravure). La chaîne est la suivante :
 
@@ -85,30 +84,29 @@ Profils laser
 
 Cette étape va permettre de partitionner les objets contenus dans le dessin vectoriel, et de leur associer une action à réaliser.
 		Trois types de profils peuvent être créés dans Visicut (menu Options>Profiles)
-Line profile
-Raster profile
-Raster 3D profile
 
+- Line profile
+- Raster profile
+- Raster 3D profile
 
-Line profile
+## Line profile
 Usage : découpe (cut) et gravure vectorielle (marquage – mark)
 
-Options découpe :
+### Options découpe :
 résolution (dpi) : nombre de points par inch (25.4mm). Par exemple, à 100dpi, deux points consécutifs seront distants au minimum de 25.4/100=0.254mm. Cette résolution agit aussi sur le nombre de côté du polygone utilisé pour approximer un cercle ou une courbe.
 
 épaisseur de trait représentée (si on veut découper un trait plus large, il fera plusieurs passages afin de couvrir l’épaisseur)
 Optimization : du chemin parcouru par la tête laser (nearest conseillé).
 
-Options marquage :
+### Options marquage :
 Identiques à ceci près que l’on décoche « is cut… , not just engraved »
 
-
-Raster profile
+## Raster profile
 Usage : gravure RASTER point par point (« aplat ») des images noir et blanc
 
 Chaque face de chaque cube est gravé en raster Floyd-Steinberg.
 
-Options RASTER :
+### Options RASTER :
 résolution (dpi) : nombre de points par inch (25.4mm). Par exemple, à 100dpi, deux points consécutifs seront distants au minimum de 25.4/100=0.254mm. Cette résolution agit sur le nombre de points (blancs et noirs) qui formeront le nuage représentant la surface colorée. Trop faible : points isolés. Trop forte : les points noirs, tellement rapprochés, se brûlent les uns les autres.
 Dithering Algorithm : Floyd-Steinberg (recommandé), HalfTone.
 Grayscale Shift : curseur non gradué permettant de décaler les valeurs. Imaginons un carré gris à 50%, sa valeur de gris vaut donc 128. Si on lance un algorithme de dithering, on va créé un nuage de pixels dont un point sur 2 sera noir. Le curseur permet de moduler ceci en ajoutant une valeur au gris rencontré dans l’image. Curseur à gauche : on ajoute (-255) et curseur à droite +255. Ainsi, si on décale le curseur à droite d’un quart (+64), la valeur du gris à coder deviendra 128+64=192 : gris beaucoup plus clair, donc nuage plus clairsemé de points noirs. Si on décale le curseur à fond à droite, on obtient 128+255=383, plafonné à 255, soit blanc, et l’algorithme ne créera aucun point noir. Réglage assez sensible (+255 est possible, car alors le noir , initialement 0, sera transformé en 0+255 : blanc).
