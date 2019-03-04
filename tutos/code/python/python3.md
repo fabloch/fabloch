@@ -70,3 +70,9 @@ $
 ```
 
 [Source](https://wsvincent.com/install-python3-mac/)
+
+## Sur PC
+```
+```
+
+https://www.python.org/downloads/release/python-372/
