@@ -1,11 +1,11 @@
 # Tuto 1
+
 ## outil necessaire
--Télécharger Atom (Atom.io)
--Créer un compte sur Github
+- Télécharger Atom (Atom.io)
+- Créer un compte sur Github
+- Associer le compte Github à l'organisation Fabrique du Loch (Fabloch)
+- Télécharger Github Desktop
 
--Associer le compte Github à l'organisation Fabrique du Loch (Fabloch)
-
--Télécharger Github Desktop
 ## les pages web
 Les fichiers HTML pour faire des pages web
 ```
