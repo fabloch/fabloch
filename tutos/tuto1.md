@@ -1,6 +1,6 @@
 # Tuto 1
 
-## outil necessaire
+## outils necessaires
 - Télécharger Atom (Atom.io)
 - Créer un compte sur Github
 - Associer le compte Github à l'organisation Fabrique du Loch (Fabloch)
