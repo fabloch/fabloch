@@ -65,5 +65,5 @@ La page web par défaut dans un répertoire est:
 
 
 Nous verrons ensemble:
-- configurer Github pour que ce dépôt permette la création d'un mini-site web;
+- comment configurer Github pour que ce dépôt permette la création d'un mini-site web;
 - comment créer un template html.
