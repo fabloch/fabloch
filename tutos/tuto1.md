@@ -11,7 +11,7 @@
 - Création d'un fichier .md (markdown)
 - Atom: Ctrl-S pour sauver des modifications
 - Système: Alt-Tab pour passer d'une application à l'autre
--
+
 
 ## La structuration d'un fichier texte
 Un texte est composé de parties, sous-parties.
@@ -55,5 +55,5 @@ Les fichiers HTML pour faire des pages web
 ```
 
 La page web par défaut dans un répertoire est:
-- index.xxx ou,
-- default.xxx
+- index.html, index.xxx ou,
+- default.html, default.xxx
