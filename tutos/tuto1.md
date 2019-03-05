@@ -2,7 +2,7 @@
 
 ## Outils nécessaires
 - Télécharger Atom (Atom.io)
-- Créer un compte sur Github
+- Créer un compte sur Github (Github.com)
 - Associer le compte Github à l'organisation Fabrique du Loch (Fabloch)
 - Télécharger Github Desktop
 
@@ -61,4 +61,7 @@ La page web par défaut dans un répertoire est:
 ## Exercice pour la prochaine session
 - Choisir un nom de projet
 - Créer un dépôt Github à ce nom (private repository)
-Nous verrons ensemble comment créer un template html et configurer Github pour que ce dépôt permette la création d'un mini-site web.
+
+Nous verrons ensemble:
+- configurer Github pour que ce dépôt permette la création d'un mini-site web;
+- comment créer un template html.
