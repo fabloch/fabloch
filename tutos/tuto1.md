@@ -59,8 +59,10 @@ La page web par défaut dans un répertoire est:
 - default.html, default.xxx
 
 ## Exercice pour la prochaine session
-- Choisir un nom de projet
-- Créer un dépôt Github à ce nom (private repository)
+
+- Choisir un nom de projet;
+- Créer un dépôt Github à ce nom (private repository).
+
 
 Nous verrons ensemble:
 - configurer Github pour que ce dépôt permette la création d'un mini-site web;
