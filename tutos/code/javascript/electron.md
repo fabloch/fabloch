@@ -225,3 +225,15 @@ Pour installer les windowsbuildtools, il ne faut pas avoir Python 2.7 installé 
 
 
 C:\Python27;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files\dotnet\;D:\Program Files (x86)\Yarn\bin;C:\Program Files (x86)\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;D:\Program Files\nodejs\;
+
+
+### Menus
+
+https://electronjs.org/docs/api/menu
+Construire les menus d'une appli Electron
+http://codaholic.sillo.org/2017/12/02/electron-les-menus/
+
+### Boite de dialogue Fichiers
+https://electronjs.org/docs/api/dialog
+
+https://stackoverflow.com/questions/45849190/how-to-show-an-open-file-native-dialog-with-electron

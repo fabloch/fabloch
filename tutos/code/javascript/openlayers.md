@@ -36,3 +36,5 @@ var style = new ol.style.Style({
 [How to get the current viewport of the map](https://stackoverflow.com/questions/8988453/how-to-get-the-current-viewport-of-the-map-out-of-openlayers-as-geometry-boundi)
 
 https://openlayers.org/workshop/en/vectortile/map.html
+
+https://gis.stackexchange.com/questions/251491/adding-a-feature-to-openlayers-vector-source
