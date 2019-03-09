@@ -7,10 +7,10 @@ Cette étape va permettre de partitionner les objets contenus dans le dessin vec
 
 #### Ouverture dans Visicut
 
-![Laser](images/laser9.png)
+![Laser](images/laser9.png){: width="600px"}
 
 #### Onglet Mapping
-![Laser](images/laser10.png){: width="500px"}
+![Laser](images/laser10.png)
 
 - One profile for everything : le même profil laser pour tous les objets
 - Map by single property : on partitionne les objets pour les regrouper selon leurs caractéristiques, et affecter un profil laser spécifique
