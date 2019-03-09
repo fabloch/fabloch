@@ -18,14 +18,17 @@ Cette découpeuse permet de découper ou de graver différentes matières, notam
 ## Comment découper?
 
 A la FABrique, les étapes de la découpe laser sont les suivantes:
-1. Inkscape :
-  - dessin vectoriel (fichier au format .SVG)
-2. Visicut :
-  - association des dessins aux modes de découpe/marquage/gravure (fichier au format .PLF),
-  - définition des paramètres laser (DPI, Vitesse, Puissance),
-  - génération du G-CODE (fichier au format .GCODE)
-3. Octoprint:
-  - estimation du temps d’exécution, envoi du G-CODE vers la découpe Laser,  suivi du travail (caméra)
+
+### Inkscape
+1. dessin vectoriel (fichier au format .SVG)
+
+### Visicut
+2. association des dessins aux modes de découpe/marquage/gravure (fichier au format .PLF)
+3. définition des paramètres laser (DPI, Vitesse, Puissance)
+4. génération du G-CODE (fichier au format .GCODE)
+
+### Octoprint
+5. estimation du temps d’exécution, envoi du G-CODE vers la découpe Laser,  suivi du travail (caméra)
 
 [Mode d'emploi](utilisation)
 
