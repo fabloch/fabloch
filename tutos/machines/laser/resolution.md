@@ -1,4 +1,4 @@
-# CHOIX DE LA RÉSOLUTION POUR LA DÉCOUPE/GRAVURE VECTRIELLE DE COURBES
+# Choix de la résolution pour la découpe / gravure vectorielle de courbes
 
 Le nuancier DPI représente la gravure des motifs suivants pour les résolutions 100, 150, 200, 333, 500, 1000 dpi. Plus les lignes sont droites, et moins il est besoin de recourir à des résolutions élevées.
 ![image](images/laser25.png)
