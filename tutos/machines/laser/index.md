@@ -6,7 +6,7 @@ title: Découpeuse laser de la Fabrique du Loch
 
 Notre découpeuse laser est une **Robotseed RS-1610L** avec un **contrôleur Smoothieboard**.
 
-Cette découpeuse permet de découper ou de graver différentes matières, notamment le MDF, très utilisé à la Fabrique!
+Cette découpeuse permet de **découper** ou de **graver** différentes matières, notamment le MDF, très utilisé à la Fabrique!
 
   - Découpe vectorielle (cutting)
   - Gravure vectorielle (marking)
@@ -16,6 +16,8 @@ Cette découpeuse permet de découper ou de graver différentes matières, notam
 [Pour en savoir plus sur les différent usages](usages)
 
 ## Comment découper?
+
+[Le mode d'emploi complet](utilisation)
 
 A la FABrique, les étapes de la découpe laser sont les suivantes:
 
@@ -29,8 +31,6 @@ A la FABrique, les étapes de la découpe laser sont les suivantes:
 
 ### Octoprint
 5. estimation du temps d’exécution, envoi du G-CODE vers la découpe Laser,  suivi du travail (caméra)
-
-[Mode d'emploi](utilisation)
 
 ## Caractéristiques techniques
 
