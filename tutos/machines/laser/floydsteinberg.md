@@ -15,15 +15,17 @@ un motif CUBE à 3 faces, colorées respectivement :
 - en GRIS 50% [RGB=(128,128,128)]
 en 4 résolutions : 100dpi, 200dpi, 333dpi et 500dpi
 
-Nuancier RASTER Floyd-Steinberg :
 - En abscisses Vitesse=[60,80,100] %
 - En ordonnées Puissance=[10,20,30,40] %
 
-Visuel du motif :
+## Visuel du motif
+
 ![image](images/laser26.png)
 
+## Gravage en raster
 Pour chaque couple (Puissance,Vitesse), on grave en RASTER selon 4 résolutions :
+
 ![image](images/laser27.png)
 
-Simulation du nuancier :
+## Simulation du nuancier
 ![image](images/laser28.png){: width="500px"}
