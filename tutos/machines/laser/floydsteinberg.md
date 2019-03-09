@@ -1,4 +1,4 @@
-# NUANCIER RASTER FLOYD-STEINBERG
+# Nuancier Raster Floyd-Steinberg
 
 - [Nuancier Raster Floyd-Steinberg](https://www.lafabriqueduloch.org/projet/nuancier-raster-floyd-steinberg/)
 - [Nuancier Raster 3D](https://www.lafabriqueduloch.org/projet/nuancier-raster3d/)
