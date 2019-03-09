@@ -1,7 +1,7 @@
 # Définition des paramètres Vitesse/Puissance du laser
 
 ## Onglet Laser Settings
-![Laser](images/laser19.jpg)
+![Laser](images/laser19.png)
 
 Une fois le mapping effectué, l’onglet Laser Settings fait apparaître l’ensemble des profils laser utilisés et la liste des couleurs auxquelles chaque profil est associé (on a choisi un mapping par stroke color ici).
 
@@ -42,7 +42,7 @@ en pratique, la machine ne modifie pas l’altitude de la lentille mais la haute
 
 Supposons travailler avec une lentille de focale f=2.5’’=63.5mm. Alors la largeur du rayon laser focalisé vaut 0.007’’ : deux points voisins ne se toucheront pas s’ils sont distants de 0.007’’, ce qui entraîne une résolution maximale de 1/0.007=142dpi… Au-delà on risque de surbrûler. Vouloir graver en RASTER 1000dpi semble totalement illusoire. En pratique, si on prend un rayon de 0.005’’, cela conduit à une résolution maximale de 1/0.005 = 200 dpi ce qui semble être une valeur plafond.
 
-![image](images/laser22.png)
+![image](images/laser22.png){: width="800px"}
 
 Source: http://www.engraversnetwork.com
 
