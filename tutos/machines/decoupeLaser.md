@@ -32,13 +32,13 @@ A la FABrique, on utilise majoritairement :
 ### Découpe vectorielle (cutting)
 Le laser se déplace le long d’une ligne (courbe) relativement lentement, à puissance conséquente, ce qui a pour effet de découper le long du chemin.  Pour graver plusieurs motifs, les seuls déplacements non efficaces sont donc ceux permettant de passer d’un motif à un autre, laser OFF (et peu nombreux).
 
-![Laser Cutting Operation](images/laser/laser1.png)
+![Laser Cutting Operation](images/laser/laser1.jpg)
 ![Laser](images/laser/laser2.png)
 
 ### Gravure vectorielle (marking)
 Même principe que pour la découpe vectorielle, mais à des puissances plus faibles et des vitesses plus rapides, ne permettant pas au laser de découper la totalité de l‘épaisseur du matériau, mais seulement d’en retirer une partie : le contour est ainsi gravé.
 
-![Laser](images/laser/laser3.png)
+![Laser](images/laser/laser3.jpg)
 [Source](http://rowmark.com/MARK/laser_guide/pages/intro.asp)
 
 ### Gravure RASTER (aplat - engraving)
@@ -53,7 +53,7 @@ Sur cet exemple, le contour, les textes « conçu et réalisé à » et « Au
 ### Gravure Raster 3D (3D engraving)
 Cette fois, l’image couleur est convertie en nuances de gris, et les pixels noirs seront gravés avec une puissance 100%, les blancs avec une puissance nulle, et les nuances de gris avec une puissance qui lui est proportionnelle. La puissance du laser est donc modulée en fonction de la valeur du pixel au-dessus duquel il se trouve, permettant de graver plus ou moins profondément le matériau, d’où une gravure RASTER 3D.
 
-![Laser](images/laser/laser5.png)
+![Laser](images/laser/laser5.jpg)
 
 ## INKSCAPE ET FICHIER .SVG
 On se référera au contenu de la formation proposée à la FABrique.
@@ -82,7 +82,7 @@ Une fois le dessin terminé, l’ouvrir avec Visicut permettra de générer le G
 Sélectionner l’objet à découper ou à graver.
 Menu Extension, LasercutPath, Open in Visicut
 
-![Laser](images/laser/laser5.png)
+![Laser](images/laser/laser5.jpg)
 
 ### VISICUT
 
@@ -178,62 +178,67 @@ Remarque : en revanche, aucune information concernant Vitesse et Puissance Lase
 Définition des paramètres Vitesse/Puissance du laser
 
 Onglet Laser Settings
-![Laser](images/laser/laser18.png)
+![Laser](images/laser/laser18.jpg)
 
 Une fois le mapping effectué, l’onglet Laser Settings fait apparaître l’ensemble des profils laser utilisés et la liste des couleurs auxquelles chaque profil est associé (on a choisi un mapping par stroke color ici).
 On a la main sur 3 paramètres :
 Power : puissance du laser [ 0 – 100 ] %
 Speed : vitesse de déplacement laser actif [0 – 100] % (100% correspond à 3000mm/min)
-Focus : décalage vertical (en Z) de la lentille. En théorie, vous avez réglé la hauteur de la lentille au-dessus du matériau de façon à respecter la focale de la lentille [à la FABrique du Loch, lentille de focale 2.5’’ = 63.5mm. De cette façon, le laser est focalisé de façon très précise sur le matériau. Lorsque l’on veut graver des matériaux épais, il peut être judicieux de focaliser le faisceau non pas en surface mais dans l’épaisseur. Il peut être aussi utile de défocaliser sciemment le faisceau pour graver des traits plus larges (en éloignant la lentille de la surface du matériau de quelques milimètres)…
 
-Remarque : en pratique, la machine ne modifie pas l’altitude de la lentille mais la hauteur du plateau (bed). Actuellement, un problème d’alignement des palliers empêche tout réglage de la hauteur du plateau à la FABrique : ne pas utiliser ce paramètre pour générer le GCODE. En revanche, initialement, on peut volontairement régler la tête laser à une altitude différente de la distance focale.
+#### Focus
+décalage vertical (en Z) de la lentille. En théorie, vous avez réglé la hauteur de la lentille au-dessus du matériau de façon à respecter la focale de la lentille [à la FABrique du Loch, lentille de focale 2.5’’ = 63.5mm. De cette façon, le laser est focalisé de façon très précise sur le matériau. Lorsque l’on veut graver des matériaux épais, il peut être judicieux de focaliser le faisceau non pas en surface mais dans l’épaisseur. Il peut être aussi utile de défocaliser sciemment le faisceau pour graver des traits plus larges (en éloignant la lentille de la surface du matériau de quelques milimètres)…
+
+**Remarque**
+en pratique, la machine ne modifie pas l’altitude de la lentille mais la hauteur du plateau (bed). Actuellement, un problème d’alignement des paliers empêche tout réglage de la hauteur du plateau à la FABrique : ne pas utiliser ce paramètre pour générer le GCODE. En revanche, initialement, on peut volontairement régler la tête laser à une altitude différente de la distance focale.
 
 ![Laser](images/laser/laser19.png)
 ![Laser](images/laser/laser20.png)
 ![Laser](images/laser/laser21.png)
 
-Remarque diamètre faisceau laser et résolution
+**Remarque diamètre faisceau laser et résolution**
 
 Supposons travailler avec une lentille de focale f=2.5’’=63.5mm. Alors la largeur du rayon laser focalisé vaut 0.007’’ : deux points voisins ne se toucheront pas s’ils sont distants de 0.007’’, ce qui entraîne une résolution maximale de 1/0.007=142dpi… Au-delà on risque de surbrûler. Vouloir graver en RASTER 1000dpi semble totalement illusoire. En pratique, si on prend un rayon de 0.005’’, cela conduit à une résolution maximale de 1/0.005 = 200 dpi ce qui semble être une valeur plafond.
+
+![image](images/laser22.png)
 
 Source  http://www.engraversnetwork.com
 
 Ces paramétrages ne sont pas enregistrables par Visicut (le format .PLF ne les contient pas).
 
-Format de fichier .GCODE
+### Format de fichier .GCODE
 
 Une fois le mapping effectué, et les paramètres laser choisis, on peut générer le fichier G-CODE correspondant au travail à effectuer. Ce fichier contiendra toutes les opérations élémentaires à effectuer par la machine (liste de tous les déplacements, des puissances/vitesses/focus laser successifs).
 
+```
 Menu File>Export laser code.
+```
 
-
-
-
-
-
-
-OCTOPRINT
+### OCTOPRINT
 
 Ouvrir un navigateur et entrer l’adresse IP : 102.168.1.41, découpe laser en marche. L’interface Octoprint s’ouvre alors et se connecte à la machine.
 
 Cette interface permet de :
-Uploader le fichier G-CODE dans la machine
-Estimer le temps d’exécution
-Lancer le job (on suppose que le matériau est en place, la lentille positionnée au zéro du fichier, le focus réglé en fonction de la focale de la lentille.
-Contrôler le déroulement grâce à la vue caméra.
+- Uploader le fichier G-CODE dans la machine
+- Estimer le temps d’exécution
+- Lancer le job (on suppose que le matériau est en place, la lentille positionnée au zéro du fichier, le focus réglé en fonction de la focale de la lentille.
+- Contrôler le déroulement grâce à la vue caméra.
+
+![image](images/laser23.png)
 
 
-
-NUANCIER POUR LA DÉCOUPE/GRAVURE VECTORIELLE
+### NUANCIER POUR LA DÉCOUPE/GRAVURE VECTORIELLE
 
 En fonction du matériau, on peut choisir un couple (Puissance,Vitesse) du laser approprié. Le nuancier permet de simuler la découpe d’un disque de diamètre 10mm pour plusieurs choix de Puissance et de Vitesse :
 
   "https://www.lafabriqueduloch.org/projet/nuancier-decoupe-vitesse-puissance/"https://www.lafabriqueduloch.org/projet/nuancier-decoupe-vitesse-puissance/
 
-
+![image](images/laser24.png)
 
 CHOIX DE LA RÉSOLUTION POUR LA DÉCOUPE/GRAVURE VECTRIELLE DE COURBES
 Le nuancier DPI représente la gravure des motifs suivants pour les résolutions 100, 150, 200, 333, 500, 1000 dpi. Plus les lignes sont droites, et moins il est besoin de recourir à des résolutions élevées.
+![image](images/laser25.png)
+
+
 
   "https://www.lafabriqueduloch.org/projet/nuancier-decoupe-vitesse-dpi/"https://www.lafabriqueduloch.org/projet/nuancier-decoupe-vitesse-dpi/
 
@@ -256,12 +261,13 @@ en GRIS 50% [RGB=(128,128,128)]
 en 4 résolution : 100dpi, 200dpi, 333dpi et 500dpi
 
 Visuel du motif :
+![image](images/laser26.png)
 
 Pour chaque couple (Puissance,Vitesse), on grave en RASTER selon 4 résolutions :
-
+![image](images/laser27.png)
 
 Simulation du nuancier :
-
+![image](images/laser28.png)
 
 
 Nuancier RASTER Floyd-Steinberg :

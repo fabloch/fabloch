@@ -7,27 +7,34 @@ Nous consignons ici les informations nécessaires pour mener à bien votre propr
 N'hésitez pas à consulter ces documents et à les compléter!
 
 ## Machines
-- [Découpe Laser](decoupeLaser)
-- [Impression 3D](impression3D)
-- [Fraiseuse](fraiseuse)
-- [Scanner 3D](scanner3D)
-- [Découpe Vinyle](vinyle)
-- [Brodeuse](brodeuse)
+- [Découpe Laser](machines/decoupeLaser)
+- [Impression 3D](machines/impression3D)
+- [Fraiseuse](machines/fraiseuse)
+- [Scanner 3D](machines/scanner3D)
+- [Découpe Vinyle](machines/vinyle)
+- [Brodeuse](machines/brodeuse)
+- [Hurlomaton](machines/hurlomaton)
+- [Drawbot](machines/drawbot)
 
 ## Logiciels
-- [Blender](blender)
-- [Octoprint](octoprint)
-- [Inkscape](inkscape/inkscape.md)
-- [Pavage Inkscape](inkscape/pavage.md)
-- [Visicut](visicut)
+- [Blender](logiciels/blender)
+- [Octoprint](logiciels/octoprint)
+- [Inkscape](logiciels/inkscape/inkscape.md)
+- [Pavage Inkscape](logiciels/inkscape/pavage.md)
+- [Visicut](logiciels/visicut)
+
+## OS
+- [Linux](os/linux)
 
 ## Projets
-- [Hurlomaton](hurlomaton)
-- [Drawbot](drawbot)
+- [Sandbox](https://fabloch.github.io/sandbox/)
+- [Algoric](https://fabloch.github.io/algoric)
 
 ## Bureautique de la Fabrique
-- [Le serveur NAS](NAS)
-- [Importer une police](police.md)
+- [Les PCs](machines/pc)
+- [Ubuntu](logiciels/ubuntu)
+- [Le serveur NAS](machines/NAS.md)
+- [Importer une police](machines/police.md)
 
 ## Pour les codeurs
 - [Tutoriels pour les geeks](code/index.md)
