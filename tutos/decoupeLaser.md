@@ -26,25 +26,33 @@ A la FABrique, on utilise majoritairement :
 - Octoprint estimation du temps d’exécution, envoi du G-CODE vers la découpe Laser,  suivi du travail (caméra)
 
 ## Usages
-  "https://www.lafabriqueduloch.org/projet/usages-decoupe-laser/"https://www.lafabriqueduloch.org/projet/usages-decoupe-laser/
+[Usages découpe laser/](https://www.lafabriqueduloch.org/projet/usages-decoupe-laser/)
 
 ### Découpe vectorielle (cutting)
 Le laser se déplace le long d’une ligne (courbe) relativement lentement, à puissance conséquente, ce qui a pour effet de découper le long du chemin.  Pour graver plusieurs motifs, les seuls déplacements non efficaces sont donc ceux permettant de passer d’un motif à un autre, laser OFF (et peu nombreux).
 
+![Laser Cutting Operation](images/laser/laser1.png)
+![Laser](images/laser/laser2.png)
+
 ### Gravure vectorielle (marking)
 Même principe que pour la découpe vectorielle, mais à des puissances plus faibles et des vitesses plus rapides, ne permettant pas au laser de découper la totalité de l‘épaisseur du matériau, mais seulement d’en retirer une partie : le contour est ainsi gravé.
 
-Source : http://rowmark.com/MARK/laser_guide/pages/intro.asp
+![Laser](images/laser/laser3.png)
+[Source](http://rowmark.com/MARK/laser_guide/pages/intro.asp)
 
 ### Gravure RASTER (aplat - engraving)
 A partir d’une image, ce procédé permet :
 1. De transformer les couleurs de l’image en nuages de points noirs et de points blancs, dont la densité rend compte de la couleur (vu « de loin », l’espacement des points noirs donne une impression de nuance de gris). Plusieurs algorithmes sont envisageables (Floyd-Steinberg, Half Tone,  dithering…).
 2. Le laser parcourt l’ensemble des pixels de l’image ainsi transformée, et brûle les pixels noirs en laissant intact les blancs. Il est à noter que tous les pixels noirs sont brûlés avec la même puissance dans ce mode RASTER. C’est uniquement leur espacement qui rendra compte d’une nuance de gris.
 
+![Laser](images/laser/laser4.png)
+
 Sur cet exemple, le contour, les textes « conçu et réalisé à » et « Auray-Morbihan Bretagne » sont gravés en vectoriel, et le logo en raster. On voit la couverture de la zone à traitée, qu’il y ait des pixels à graver (noir) ou non (blanc). Ce procédé est coûteux en temps.
 
 ### Gravure Raster 3D (3D engraving)
 Cette fois, l’image couleur est convertie en nuances de gris, et les pixels noirs seront gravés avec une puissance 100%, les blancs avec une puissance nulle, et les nuances de gris avec une puissance qui lui est proportionnelle. La puissance du laser est donc modulée en fonction de la valeur du pixel au-dessus duquel il se trouve, permettant de graver plus ou moins profondément le matériau, d’où une gravure RASTER 3D.
+
+![Laser](images/laser/laser5.png)
 
 ## INKSCAPE ET FICHIER .SVG
 On se référera au contenu de la formation proposée à la FABrique.
@@ -73,28 +81,35 @@ Une fois le dessin terminé, l’ouvrir avec Visicut permettra de générer le G
 Sélectionner l’objet à découper ou à graver.
 Menu Extension, LasercutPath, Open in Visicut
 
+![Laser](images/laser/laser5.png)
+
 ### VISICUT
 
 [Visicut pour la découpe laser](https://www.lafabriqueduloch.org/projet/visicut-decoupe-laser/)
 
 Visicut permet d’associer aux éléments du dessin vectoriel (fichier .SVG) un ensemble d’actions (découpe, marquage ou gravure). La chaîne est la suivante :
 
+![Laser](images/laser/laser6.png)
+
 Mapping objets – profils laser
 Cette étape va permettre de partitionner les objets contenus dans le dessin vectoriel, et de leur associer une action à réaliser.
 
 Fichier .SVG dans Inkscape
+![Laser](images/laser/laser7.png)
 
 Ouverture dans Visicut
+![Laser](images/laser/laser8.png)
 
 Onglet Mapping
+![Laser](images/laser/laser9.png)
 
-One profile for everything : le même profil laser pour tous les objets
-Map by single property : on partitionne les objets pour les regrouper selon leurs caractéristiques, et affecter un profil laser spécifique
+- One profile for everything : le même profil laser pour tous les objets
+- Map by single property : on partitionne les objets pour les regrouper selon leurs caractéristiques, et affecter un profil laser spécifique
 Stroke color : couleur du contours. Par exemple, découpe laser pour le rouge, marquage pour le bleu etc…
-Fill color : couleur de remplissage
-Layer : par calque
-Stroke width : épaisseur de contours
-Advanced mapping : utilisation avancée.
+  - Fill color : couleur de remplissage
+  - Layer : par calque
+  - Stroke width : épaisseur de contours
+- Advanced mapping : utilisation avancée.
 Profils laser
 
 Cette étape va permettre de partitionner les objets contenus dans le dessin vectoriel, et de leur associer une action à réaliser.
@@ -103,23 +118,29 @@ Cette étape va permettre de partitionner les objets contenus dans le dessin vec
 - Line profile
 - Raster profile
 - Raster 3D profile
+![Laser](images/laser/laser10.png)
 
 ## Line profile
 Usage : découpe (cut) et gravure vectorielle (marquage – mark)
+![Laser](images/laser/laser11.png)
 
 ### Options découpe :
 résolution (dpi) : nombre de points par inch (25.4mm). Par exemple, à 100dpi, deux points consécutifs seront distants au minimum de 25.4/100=0.254mm. Cette résolution agit aussi sur le nombre de côté du polygone utilisé pour approximer un cercle ou une courbe.
 
 épaisseur de trait représentée (si on veut découper un trait plus large, il fera plusieurs passages afin de couvrir l’épaisseur)
 Optimization : du chemin parcouru par la tête laser (nearest conseillé).
+![Laser](images/laser/laser12.png)
 
 ### Options marquage :
 Identiques à ceci près que l’on décoche « is cut… , not just engraved »
+![Laser](images/laser/laser13.png)
 
 ## Raster profile
 Usage : gravure RASTER point par point (« aplat ») des images noir et blanc
+![Laser](images/laser/laser14.png)
 
 Chaque face de chaque cube est gravé en raster Floyd-Steinberg.
+![Laser](images/laser/laser15.png)
 
 ### Options RASTER :
 résolution (dpi) : nombre de points par inch (25.4mm). Par exemple, à 100dpi, deux points consécutifs seront distants au minimum de 25.4/100=0.254mm. Cette résolution agit sur le nombre de points (blancs et noirs) qui formeront le nuage représentant la surface colorée. Trop faible : points isolés. Trop forte : les points noirs, tellement rapprochés, se brûlent les uns les autres.
@@ -130,6 +151,9 @@ Grayscale Shift : curseur non gradué permettant de décaler les valeurs. Imagin
 Raster 3D profile
 
 Usage : gravure RASTER3D point par point (« aplat ») des images gris
+![Laser](images/laser/laser16.png)
+![Laser](images/laser/laser17.png)
+
 
 
 
@@ -153,6 +177,7 @@ Remarque : en revanche, aucune information concernant Vitesse et Puissance Lase
 Définition des paramètres Vitesse/Puissance du laser
 
 Onglet Laser Settings
+![Laser](images/laser/laser18.png)
 
 Une fois le mapping effectué, l’onglet Laser Settings fait apparaître l’ensemble des profils laser utilisés et la liste des couleurs auxquelles chaque profil est associé (on a choisi un mapping par stroke color ici).
 On a la main sur 3 paramètres :
@@ -162,11 +187,9 @@ Focus : décalage vertical (en Z) de la lentille. En théorie, vous avez régl�
 
 Remarque : en pratique, la machine ne modifie pas l’altitude de la lentille mais la hauteur du plateau (bed). Actuellement, un problème d’alignement des palliers empêche tout réglage de la hauteur du plateau à la FABrique : ne pas utiliser ce paramètre pour générer le GCODE. En revanche, initialement, on peut volontairement régler la tête laser à une altitude différente de la distance focale.
 
-
-
-
-
-
+![Laser](images/laser/laser19.png)
+![Laser](images/laser/laser20.png)
+![Laser](images/laser/laser21.png)
 
 Remarque diamètre faisceau laser et résolution
 
