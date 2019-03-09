@@ -4,15 +4,17 @@ title: Découpeuse laser de la Fabrique du Loch
 
 # Découpeuse Laser de la Fabrique du Loch
 
-Notre découpeuse laser est une Robotseed RS-1610L avec un contrôleur Smoothieboard.
+Notre découpeuse laser est une **Robotseed RS-1610L** avec un **contrôleur Smoothieboard**.
 
 A la FABrique, on utilise majoritairement :
-- Inkscape : dessin vectoriel (fichier au format .SVG)
-- Visicut :
-    association des dessins aux modes de découpe/marquage/gravure (fichier au format .PLF),
-    définition des paramètres laser (DPI, Vitesse, Puissance),
-    génération du G-CODE (fichier au format .GCODE)
-- Octoprint estimation du temps d’exécution, envoi du G-CODE vers la découpe Laser,  suivi du travail (caméra)
+1. Inkscape :
+  - dessin vectoriel (fichier au format .SVG)
+2. Visicut :
+  - association des dessins aux modes de découpe/marquage/gravure (fichier au format .PLF),
+  - définition des paramètres laser (DPI, Vitesse, Puissance),
+  - génération du G-CODE (fichier au format .GCODE)
+3. Octoprint: 
+  - estimation du temps d’exécution, envoi du G-CODE vers la découpe Laser,  suivi du travail (caméra)
 
 ##	Usages
 - Découpe vectorielle (cutting)
@@ -112,7 +114,7 @@ Une fois le dessin terminé, l’ouvrir avec Visicut permettra de générer le G
 - Sélectionner l’objet à découper ou à graver.
 - Menu Extension, LasercutPath, Open in Visicut
 
-![Laser](images/laser/laser6.png){: width="500px"}
+![Laser](images/laser/laser6.png){: width="800px"}
 
 ## Visicut
 
