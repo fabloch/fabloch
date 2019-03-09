@@ -8,16 +8,6 @@ title: Découpeuse laser de la Fabrique du Loch
 
 ## Caractéristiques techniques
 
-|     | Vannes | Arradon | Port-Navalo | Auray  |
-| --- | ------ | ------- | ----------- | ------ |
-| 115 |        |         |             |        |
-| BM  | 0.15 m | 0.15 m  | 0.13 m      | 0.27 m |
-| PM  | 3.30 m | 3.00 m  | 5.53 m      | 5.12 m |
-| 30  |        |         |             |        |
-| BM  | 1.10 m | 0.88 m  | 2.03 m      | 1.95 m |
-| PM  | 2.18 m | 1.99 m  | 3.80 m      | 3.31 m |
-
-
 |   |   |
 |---|---|
 |  Type 	              | RobotSeed RS-1610L Laser Cutter   	|   
