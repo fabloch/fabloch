@@ -4,8 +4,42 @@ title: Découpeuse laser de la Fabrique du Loch
 
 # Découpeuse Laser de la Fabrique du Loch
 
-- Matériel : Découpeuse laser Robotseed RS-1610L + contrôleur Smoothieboard
-- Logiciels: Inkscape, Visicut, Octoprint
+Notre découpeuse laser est une Robotseed RS-1610L avec un contrôleur Smoothieboard.
+
+A la FABrique, on utilise majoritairement :
+- Inkscape : dessin vectoriel (fichier au format .SVG)
+- Visicut :
+    association des dessins aux modes de découpe/marquage/gravure (fichier au format .PLF),
+    définition des paramètres laser (DPI, Vitesse, Puissance),
+    génération du G-CODE (fichier au format .GCODE)
+- Octoprint estimation du temps d’exécution, envoi du G-CODE vers la découpe Laser,  suivi du travail (caméra)
+
+##	Usages
+- Découpe vectorielle (cutting)
+- Gravure vectorielle (marking)
+- Gravure RASTER (aplat - engraving)
+- Gravure Raster 3D (3D engraving)
+
+## Inkscape et fichier .SVG.
+
+## Visicut
+- Mapping objets – profils laser
+- Profils laser (Line profile - Raster profile - Raster 3D profile)
+- Format de fichier .PLF
+- Définition des paramètres Vitesse/Puissance du laser
+- Format de fichier .GCODE
+
+## Octoprint
+
+## Nuancier pour la découpe/gravure vectorielle
+
+## Choix de la résolution pour la découpe/gravure vectorielle de courbes
+
+## Nuancier RASTER Floyd-Steinberg
+
+## Pour aller plus loin
+
+
 
 ## Caractéristiques techniques
 
@@ -21,21 +55,16 @@ title: Découpeuse laser de la Fabrique du Loch
 |  Software 	          | Open interface with many options: Laserweb, Visicut, Octoprint, Cambam, Fusion 360, Inkscape, Illustrator  	|
 |---|---|
 
-A la FABrique, on utilise majoritairement :
-- Inkscape : dessin vectoriel (fichier au format .SVG)
-- Visicut : association des dessins aux modes de découpe/marquage/gravure (fichier au format .PLF), définition des paramètres laser (DPI, Vitesse, Puissance), génération du G-CODE (fichier au format .GCODE)
-- Octoprint estimation du temps d’exécution, envoi du G-CODE vers la découpe Laser,  suivi du travail (caméra)
-
 ## Usages
 [Usages découpe laser/](https://www.lafabriqueduloch.org/projet/usages-decoupe-laser/)
 
-### Découpe vectorielle (cutting)
+### La découpe vectorielle (cutting)
 Le laser se déplace le long d’une ligne (courbe) relativement lentement, à puissance conséquente, ce qui a pour effet de découper le long du chemin.  Pour graver plusieurs motifs, les seuls déplacements non efficaces sont donc ceux permettant de passer d’un motif à un autre, laser OFF (et peu nombreux).
 
 ![Laser Cutting Operation](images/laser/laser1.jpg)
-![Laser](images/laser/laser2.png)
+![Laser](images/laser/laser2.png){: height="303px"}
 
-### Gravure vectorielle (marking)
+### La gravure vectorielle (marking)
 Même principe que pour la découpe vectorielle, mais à des puissances plus faibles et des vitesses plus rapides, ne permettant pas au laser de découper la totalité de l‘épaisseur du matériau, mais seulement d’en retirer une partie : le contour est ainsi gravé.
 
 ![Laser](images/laser/laser3.jpg)
@@ -53,7 +82,7 @@ Sur cet exemple, le contour, les textes « conçu et réalisé à » et « Au
 ### Gravure Raster 3D (3D engraving)
 Cette fois, l’image couleur est convertie en nuances de gris, et les pixels noirs seront gravés avec une puissance 100%, les blancs avec une puissance nulle, et les nuances de gris avec une puissance qui lui est proportionnelle. La puissance du laser est donc modulée en fonction de la valeur du pixel au-dessus duquel il se trouve, permettant de graver plus ou moins profondément le matériau, d’où une gravure RASTER 3D.
 
-![Laser](images/laser/laser5.jpg)
+![Laser](images/laser/laser5.jpg){: width="600px"}
 
 ## INKSCAPE ET FICHIER .SVG
 On se référera au contenu de la formation proposée à la FABrique.
@@ -82,7 +111,7 @@ Une fois le dessin terminé, l’ouvrir avec Visicut permettra de générer le G
 Sélectionner l’objet à découper ou à graver.
 Menu Extension, LasercutPath, Open in Visicut
 
-![Laser](images/laser/laser5.jpg)
+![Laser](images/laser/laser6.png)
 
 ### Visicut
 
@@ -90,19 +119,21 @@ Menu Extension, LasercutPath, Open in Visicut
 
 Visicut permet d’associer aux éléments du dessin vectoriel (fichier .SVG) un ensemble d’actions (découpe, marquage ou gravure). La chaîne est la suivante :
 
-![Laser](images/laser/laser6.png)
+![Laser](images/laser/laser7.png)
 
 Mapping objets – profils laser
 Cette étape va permettre de partitionner les objets contenus dans le dessin vectoriel, et de leur associer une action à réaliser.
 
 Fichier .SVG dans Inkscape
-![Laser](images/laser/laser7.png)
 
-Ouverture dans Visicut
 ![Laser](images/laser/laser8.png)
 
-Onglet Mapping
+Ouverture dans Visicut
+
 ![Laser](images/laser/laser9.png)
+
+Onglet Mapping
+![Laser](images/laser/laser10.png){: width="500px"}
 
 - One profile for everything : le même profil laser pour tous les objets
 - Map by single property : on partitionne les objets pour les regrouper selon leurs caractéristiques, et affecter un profil laser spécifique
@@ -111,7 +142,8 @@ Stroke color : couleur du contours. Par exemple, découpe laser pour le rouge, 
   - Layer : par calque
   - Stroke width : épaisseur de contours
 - Advanced mapping : utilisation avancée.
-Profils laser
+
+#### Profils laser
 
 Cette étape va permettre de partitionner les objets contenus dans le dessin vectoriel, et de leur associer une action à réaliser.
 		Trois types de profils peuvent être créés dans Visicut (menu Options>Profiles)
@@ -119,28 +151,34 @@ Cette étape va permettre de partitionner les objets contenus dans le dessin vec
 - Line profile
 - Raster profile
 - Raster 3D profile
-![Laser](images/laser/laser10.png)
 
-## Line profile
-Usage : découpe (cut) et gravure vectorielle (marquage – mark)
 ![Laser](images/laser/laser11.png)
 
-### Options découpe :
+#### Line profile
+Usage : découpe (cut) et gravure vectorielle (marquage – mark)
+
+![Laser](images/laser/laser12.png)
+
+#### Options découpe :
 résolution (dpi) : nombre de points par inch (25.4mm). Par exemple, à 100dpi, deux points consécutifs seront distants au minimum de 25.4/100=0.254mm. Cette résolution agit aussi sur le nombre de côté du polygone utilisé pour approximer un cercle ou une courbe.
 
 épaisseur de trait représentée (si on veut découper un trait plus large, il fera plusieurs passages afin de couvrir l’épaisseur)
 Optimization : du chemin parcouru par la tête laser (nearest conseillé).
+
 ![Laser](images/laser/laser12.png)
 
-### Options marquage :
+#### Options marquage :
 Identiques à ceci près que l’on décoche « is cut… , not just engraved »
+
 ![Laser](images/laser/laser13.png)
 
 ## Raster profile
 Usage : gravure RASTER point par point (« aplat ») des images noir et blanc
+
 ![Laser](images/laser/laser14.png)
 
 Chaque face de chaque cube est gravé en raster Floyd-Steinberg.
+
 ![Laser](images/laser/laser15.png)
 
 ### Options RASTER :
@@ -149,16 +187,15 @@ Dithering Algorithm : Floyd-Steinberg (recommandé), HalfTone.
 Grayscale Shift : curseur non gradué permettant de décaler les valeurs. Imaginons un carré gris à 50%, sa valeur de gris vaut donc 128. Si on lance un algorithme de dithering, on va créé un nuage de pixels dont un point sur 2 sera noir. Le curseur permet de moduler ceci en ajoutant une valeur au gris rencontré dans l’image. Curseur à gauche : on ajoute (-255) et curseur à droite +255. Ainsi, si on décale le curseur à droite d’un quart (+64), la valeur du gris à coder deviendra 128+64=192 : gris beaucoup plus clair, donc nuage plus clairsemé de points noirs. Si on décale le curseur à fond à droite, on obtient 128+255=383, plafonné à 255, soit blanc, et l’algorithme ne créera aucun point noir. Réglage assez sensible (+255 est possible, car alors le noir , initialement 0, sera transformé en 0+255 : blanc).
 
 
-Raster 3D profile
-
+### Raster 3D profile
 Usage : gravure RASTER3D point par point (« aplat ») des images gris
+
 ![Laser](images/laser/laser16.png)
+
 ![Laser](images/laser/laser17.png)
 
 
-
-
-Options RASTER 3D:
+### Options RASTER 3D:
 résolution (dpi) : nombre de points par inch (25.4mm). Par exemple, à 100dpi, deux points consécutifs seront distants au minimum de 25.4/100=0.254mm. Cette résolution agit sur le nombre de points gris qui formeront le nuage représentant la surface colorée. Trop faible : points isolés. Trop forte : les points, tellement rapprochés, peuvent se brûlent les uns les autres et donc rendre l’image trop foncée
 Grayscale shift : là encore possibilité de moduler la noirceur (curseur -255 à 255).
 
@@ -175,9 +212,9 @@ En réouvrant ce .PLF avec Visicut à l’avenir, ces 3 fichiers permettront à 
 Remarque : en revanche, aucune information concernant Vitesse et Puissance Laser n’ont été enregistrées. Les valeurs par défaut des profils laser utilisés seront reprises. Ce choix est délibéré, les auteurs considérant que le fichier .PLF devait être indépendant de tout matériel ; le choix puissance/laser dépendant de la machine et du matériau à découper, cela est cohérent. Il faudra donc redéfinir à chaque réouverture ces paramètres.
 
 
-Définition des paramètres Vitesse/Puissance du laser
+### Définition des paramètres Vitesse/Puissance du laser
 
-Onglet Laser Settings
+#### Onglet Laser Settings
 ![Laser](images/laser/laser18.jpg)
 
 Une fois le mapping effectué, l’onglet Laser Settings fait apparaître l’ensemble des profils laser utilisés et la liste des couleurs auxquelles chaque profil est associé (on a choisi un mapping par stroke color ici).
@@ -226,7 +263,7 @@ Cette interface permet de :
 ![image](images/laser/laser23.png)
 
 
-### NUANCIER POUR LA DÉCOUPE/GRAVURE VECTORIELLE
+## NUANCIER POUR LA DÉCOUPE/GRAVURE VECTORIELLE
 
 En fonction du matériau, on peut choisir un couple (Puissance,Vitesse) du laser approprié. Le nuancier permet de simuler la découpe d’un disque de diamètre 10mm pour plusieurs choix de Puissance et de Vitesse :
 
@@ -234,31 +271,32 @@ En fonction du matériau, on peut choisir un couple (Puissance,Vitesse) du laser
 
 ![image](images/laser/laser24.png)
 
-CHOIX DE LA RÉSOLUTION POUR LA DÉCOUPE/GRAVURE VECTRIELLE DE COURBES
+## CHOIX DE LA RÉSOLUTION POUR LA DÉCOUPE/GRAVURE VECTRIELLE DE COURBES
 Le nuancier DPI représente la gravure des motifs suivants pour les résolutions 100, 150, 200, 333, 500, 1000 dpi. Plus les lignes sont droites, et moins il est besoin de recourir à des résolutions élevées.
 ![image](images/laser/laser25.png)
 
+- [Nuancier découpe vitesse x dpi](https://www.lafabriqueduloch.org/projet/nuancier-decoupe-vitesse-dpi/)
 
+## NUANCIER RASTER FLOYD-STEINBERG
 
-  "https://www.lafabriqueduloch.org/projet/nuancier-decoupe-vitesse-dpi/"https://www.lafabriqueduloch.org/projet/nuancier-decoupe-vitesse-dpi/
+- [Nuancier Raster Floyd-Steinberg](https://www.lafabriqueduloch.org/projet/nuancier-raster-floyd-steinberg/)
+- [Nuancier Raster 3D](https://www.lafabriqueduloch.org/projet/nuancier-raster3d/)
+- [Nuancier focale](https://www.lafabriqueduloch.org/projet/nuancier-focale/"https://www.lafabriqueduloch.org/projet/nuancier-focale/)
 
-NUANCIER RASTER FLOYD-STEINBERG
-
-  "https://www.lafabriqueduloch.org/projet/nuancier-raster-floyd-steinberg/"https://www.lafabriqueduloch.org/projet/nuancier-raster-floyd-steinberg/
-  "https://www.lafabriqueduloch.org/projet/nuancier-raster3d/"https://www.lafabriqueduloch.org/projet/nuancier-raster3d/
-  "https://www.lafabriqueduloch.org/projet/nuancier-focale/"https://www.lafabriqueduloch.org/projet/nuancier-focale/
-
-
-Dimensions :	320mm X 390mm
-Vitesses :	 60%, 80% , 100%
-Puissances :	10%, 20%, 30%, 40%
+- Dimensions :	320mm X 390mm
+- Vitesses :	 60%, 80% , 100%
+- Puissances :	10%, 20%, 30%, 40%
 
 Pour chaque choix (Vitesse,Puissance) sont gravés :
 un motif CUBE à 3 faces, colorées respectivement :
-en GRIS 10% [RGB=(230,230,230)]
-en GRIS 25% [RGB=(191,191,191)]
-en GRIS 50% [RGB=(128,128,128)]
-en 4 résolution : 100dpi, 200dpi, 333dpi et 500dpi
+- en GRIS 10% [RGB=(230,230,230)]
+- en GRIS 25% [RGB=(191,191,191)]
+- en GRIS 50% [RGB=(128,128,128)]
+en 4 résolutions : 100dpi, 200dpi, 333dpi et 500dpi
+
+Nuancier RASTER Floyd-Steinberg :
+- En abscisses Vitesse=[60,80,100] %
+- En ordonnées Puissance=[10,20,30,40] %
 
 Visuel du motif :
 ![image](images/laser/laser26.png)
@@ -267,46 +305,18 @@ Pour chaque couple (Puissance,Vitesse), on grave en RASTER selon 4 résolutions�
 ![image](images/laser/laser27.png)
 
 Simulation du nuancier :
-![image](images/laser/laser28.png)
+![image](images/laser/laser28.png){: width="500px"}
 
+## POUR ALLER PLUS LOIN
 
-Nuancier RASTER Floyd-Steinberg :
-En abscisses Vitesse=[60,80,100] %
-En ordonnées Puissance=[10,20,30,40] %
+- [Inkscape les effets de chemin "Croquis et Hachures" pour gravure laser](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=trucs_astuces:inkscape_les_effets_de_chemin_croquis_et_hachures_pour_gravure_laser)  
+- [Inkscape Image to Vector](https://www.youtube.com/watch?v=XNEnQW_rOGw"https://www.youtube.com/watch?v=XNEnQW_rOGw)
+- [Générateur de boîte à encoches](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=machines:decoupe_laser:trucs_astuces:generateur_boite_encoches)
+- [Générateur de packaging](http://www.templatemaker.nl/)
+- [Entretien de la machine](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=machines:decoupe_laser:0_utilisation:entretien)
+- [Procédure d’alignement des miroirs 1](http://justaddsharks.co.uk/support/laser-beam-alignment-guide)
+- [Procédure d’alignement des miroirs 2](http://www.rabbitlaserusa.com/Manuals/BeamAlignment.html)
+- [Entretien LASER](https://www.youtube.com/watch?v=3mITnlN_6Dg"https://www.youtube.com/watch?v=3mITnlN_6Dg)
 
-POUR ALLER PLUS LOIN
-
-Inkscape :
-
-Inkscape les effets de chemin "Croquis et Hachures" pour gravure laser
-  "http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=trucs_astuces:inkscape_les_effets_de_chemin_croquis_et_hachures_pour_gravure_laser"http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=trucs_astuces:inkscape_les_effets_de_chemin_croquis_et_hachures_pour_gravure_laser
-Inkscape Image to Vector
-  "https://www.youtube.com/watch?v=XNEnQW_rOGw"https://www.youtube.com/watch?v=XNEnQW_rOGw
-  "https://www.youtube.com/watch?v=7BFa0k6FJcc"https://www.youtube.com/watch?v=7BFa0k6FJcc
-
-
-
-Générateur de boîte à encoches :
-  "http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=machines:decoupe_laser:trucs_astuces:generateur_boite_encoches"http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=machines:decoupe_laser:trucs_astuces:generateur_boite_encoches
-
-Générateur de packaging :   "http://www.templatemaker.nl/"http://www.templatemaker.nl/
-
-Entretien de la machine
-  "http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=machines:decoupe_laser:0_utilisation:entretien"http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=machines:decoupe_laser:0_utilisation:entretien
-
-Procédure d’alignement des miroirs
-  "http://justaddsharks.co.uk/support/laser-beam-alignment-guide" http://justaddsharks.co.uk/support/laser-beam-alignment-guide
-  "http://www.rabbitlaserusa.com/Manuals/BeamAlignment.html" http://www.rabbitlaserusa.com/Manuals/BeamAlignment.html
-
-Entretien LASER
-
-  "https://www.youtube.com/watch?v=3mITnlN_6Dg"https://www.youtube.com/watch?v=3mITnlN_6Dg
-
-
-
-
-
-L. Beguin 	La FABrique du Loch	 novembre 2017
-
-Auteurs / contributeurs :
-  L. Béguin – La Fabrique du Loch
+## Auteurs / contributeurs :
+L. Béguin – La Fabrique du Loch
