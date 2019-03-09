@@ -106,14 +106,15 @@ dans le menu objet, transformer (Ctrl+Maj+M)
 dans la nouvelle fenêtre, onglet mise a l’échelle : 125% (largeur et hauteur)
 vérifier que les dimensions sont maintenant correctes.
 
-Envoi du .SVG vers Visicut
+
+## Envoi du .SVG vers Visicut
 Une fois le dessin terminé, l’ouvrir avec Visicut permettra de générer le G-CODE correspondant à la découpe/gravure Laser que l’on souhaite.
-Sélectionner l’objet à découper ou à graver.
-Menu Extension, LasercutPath, Open in Visicut
+- Sélectionner l’objet à découper ou à graver.
+- Menu Extension, LasercutPath, Open in Visicut
+
+## Visicut
 
 ![Laser](images/laser/laser6.png)
-
-### Visicut
 
 [Visicut pour la découpe laser](https://www.lafabriqueduloch.org/projet/visicut-decoupe-laser/)
 
