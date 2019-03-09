@@ -1,7 +1,8 @@
 ---
 title: Découpeuse laser de la Fabrique du Loch
 ---
-# DÉCOUPEUSE LASER DE LA FABRIQUE DU LOCH
+
+# Découpeuse Laser de la Fabrique du Loch
 
 - Matériel : Découpeuse laser Robotseed RS-1610L + contrôleur Smoothieboard
 - Logiciels: Inkscape, Visicut, Octoprint
