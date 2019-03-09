@@ -112,9 +112,9 @@ Une fois le dessin terminé, l’ouvrir avec Visicut permettra de générer le G
 - Sélectionner l’objet à découper ou à graver.
 - Menu Extension, LasercutPath, Open in Visicut
 
-## Visicut
+![Laser](images/laser/laser6.png){: width="500px"}
 
-![Laser](images/laser/laser6.png)
+## Visicut
 
 [Visicut pour la découpe laser](https://www.lafabriqueduloch.org/projet/visicut-decoupe-laser/)
 
