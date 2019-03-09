@@ -80,21 +80,21 @@ résolution (dpi) : nombre de points par inch (25.4mm). Par exemple, à 100dpi,
 épaisseur de trait représentée (si on veut découper un trait plus large, il fera plusieurs passages afin de couvrir l’épaisseur)
 Optimization : du chemin parcouru par la tête laser (nearest conseillé).
 
-![Laser](images/laser12.png)
+![Laser](images/laser13.png)
 
 ##### Options marquage :
 Identiques à ceci près que l’on décoche « is cut… , not just engraved »
 
-![Laser](images/laser13.png)
+![Laser](images/laser14.png)
 
 ## Raster profile
 Usage : gravure RASTER point par point (« aplat ») des images noir et blanc
 
-![Laser](images/laser14.png)
+![Laser](images/laser15.png)
 
 Chaque face de chaque cube est gravé en raster Floyd-Steinberg.
 
-![Laser](images/laser15.png)
+![Laser](images/laser1§.png)
 
 ### Options RASTER :
 
@@ -126,9 +126,9 @@ Si on décale le curseur à fond à droite, on obtient 128+255=383, plafonné à
 ### Raster 3D profile
 Usage : gravure RASTER3D point par point (« aplat ») des images gris
 
-![Laser](images/laser16.png)
-
 ![Laser](images/laser17.png)
+
+![Laser](images/laser18.png)
 
 
 ### Options RASTER 3D:
@@ -151,12 +151,17 @@ Remarque : en revanche, aucune information concernant Vitesse et Puissance Lase
 ### Définition des paramètres Vitesse/Puissance du laser
 
 #### Onglet Laser Settings
-![Laser](images/laser18.jpg)
+![Laser](images/laser19.jpg)
 
 Une fois le mapping effectué, l’onglet Laser Settings fait apparaître l’ensemble des profils laser utilisés et la liste des couleurs auxquelles chaque profil est associé (on a choisi un mapping par stroke color ici).
+
 On a la main sur 3 paramètres :
-Power : puissance du laser [ 0 – 100 ] %
-Speed : vitesse de déplacement laser actif [0 – 100] % (100% correspond à 3000mm/min)
+
+#### Power 
+puissance du laser [ 0 – 100 ] %
+
+#### Speed
+vitesse de déplacement laser actif [0 – 100] % (100% correspond à 3000mm/min)
 
 #### Focus
 décalage vertical (en Z) de la lentille. En théorie, vous avez réglé la hauteur de la lentille au-dessus du matériau de façon à respecter la focale de la lentille [à la FABrique du Loch, lentille de focale 2.5’’ = 63.5mm. De cette façon, le laser est focalisé de façon très précise sur le matériau. Lorsque l’on veut graver des matériaux épais, il peut être judicieux de focaliser le faisceau non pas en surface mais dans l’épaisseur. Il peut être aussi utile de défocaliser sciemment le faisceau pour graver des traits plus larges (en éloignant la lentille de la surface du matériau de quelques milimètres)…
@@ -164,8 +169,23 @@ décalage vertical (en Z) de la lentille. En théorie, vous avez réglé la haut
 **Remarque**
 en pratique, la machine ne modifie pas l’altitude de la lentille mais la hauteur du plateau (bed). Actuellement, un problème d’alignement des paliers empêche tout réglage de la hauteur du plateau à la FABrique : ne pas utiliser ce paramètre pour générer le GCODE. En revanche, initialement, on peut volontairement régler la tête laser à une altitude différente de la distance focale.
 
-![Laser](images/laser19.png)
 ![Laser](images/laser20.png)
+
+|--------|--------|-----------|------------|
+| Focale | Focale | Spot size | Resolution |
+| (inch) |  (mm)  |  (inch)   | max (dpi)  |
+|--------|--------|-----------|------------|
+| 1.5    |  38.1  | 0.003     | 333        |
+|--------|--------|-----------|------------|
+| 2      |  50.8  | 0.005     | 200        |
+|--------|--------|-----------|------------|
+| 2.5    |  63.5  | 0.007     | 143        |
+|--------|--------|-----------|------------|
+| 3      |  76.5  | 0.01      | 100        |
+|--------|--------|-----------|------------|
+| 4      | 101.6  | 0.012     | 83         |
+|--------|--------|-----------|------------|
+
 ![Laser](images/laser21.png)
 
 **Remarque diamètre faisceau laser et résolution**
