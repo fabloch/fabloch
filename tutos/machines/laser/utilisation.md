@@ -1,26 +1,14 @@
 # Le mode d'emploi de la découpeuse laser
 
-## Inkscape et fichier .svg
+## Editer son fichier .svg avec Inkscape
 On se référera au contenu de la formation proposée à la FABrique.
 
-### Problème d'échelle entre les .SVG Illustrator et Inkscape
+Inkscape est utilisé pour créer le dessin vectoriel qui sera envoyé à la découpeuse laser.
 
-Les fichiers .SVG sont sauvegardés avec des unités en pixels, cependant inkscape et illustrator utilisent des facteurs de conversion px/mm différents :
+Les fichiers sont au format .SVG.
 
-|--------------|----------------------------------|
-| Illustrator  | 72dpi : 72 px = 1 inch = 25.4 mm |
-| Inkscape 	   | 90dpi : 90 px = 1 inch = 25.4 mm |
-|--------------|----------------------------------|
-
-#### Exemple
-
-Supposons avoir créé un carré de côté 25.4mm dans Illustrator.
-
-Lorsque vous enregistrez le fichier .SVG avec Illustrator, les dimensions sont converties en pixels avec le ratio 72dpi : on a donc un carré de côté 72 pixels.
-
-En l’ouvrant dans inkscape (export .svg), il ouvre un fichier contenant un carré de 72 pixels, en utilisant un ratio de 90dpi pour retrouver les dimensions de l’objet. On obtient donc un carré de côté 72px/90dpi = 0.8 inch = 20.32mm.
-
-Il est donc nécessaire dans Inkscape de redimensionner les objets créés avec Illustrator d’un facteur de 90/72 = 125% afin de conserver les dimensions originales (en mm).
+Attention toutefois lorsque le fichier .SVG d'origine a été créé avec d'autres logiciels notamment Illustrator.
+Il peut y avoir un problème d'échelle.
 
 Pour redimensionner les SVG Illustrator d’un facteur 125% dans Inkscape:
 
@@ -29,6 +17,8 @@ Pour redimensionner les SVG Illustrator d’un facteur 125% dans Inkscape:
 3. Dans le menu objet, transformer (Ctrl+Maj+M)
 4. Dans la nouvelle fenêtre, onglet mise a l’échelle : 125% (largeur et hauteur)
 5. Vérifier que les dimensions sont maintenant correctes.
+
+[Pour en savoir plus](inkscape-resolution)
 
 ## Envoi du .SVG vers Visicut
 
@@ -46,23 +36,23 @@ Visicut permet d’associer aux éléments du dessin vectoriel (fichier .SVG) un
 
 ![Laser](images/laser7.png)
 
-Mapping objets – profils laser
+### Mapping objets – profils laser
 Cette étape va permettre de partitionner les objets contenus dans le dessin vectoriel, et de leur associer une action à réaliser.
 
-Fichier .SVG dans Inkscape
+#### Fichier .SVG dans Inkscape
 
 ![Laser](images/laser8.png)
 
-Ouverture dans Visicut
+#### Ouverture dans Visicut
 
 ![Laser](images/laser9.png)
 
-Onglet Mapping
+#### Onglet Mapping
 ![Laser](images/laser10.png){: width="500px"}
 
 - One profile for everything : le même profil laser pour tous les objets
 - Map by single property : on partitionne les objets pour les regrouper selon leurs caractéristiques, et affecter un profil laser spécifique
-Stroke color : couleur du contours. Par exemple, découpe laser pour le rouge, marquage pour le bleu etc…
+- Stroke color : couleur du contours. Par exemple, découpe laser pour le rouge, marquage pour le bleu etc…
   - Fill color : couleur de remplissage
   - Layer : par calque
   - Stroke width : épaisseur de contours
@@ -71,20 +61,20 @@ Stroke color : couleur du contours. Par exemple, découpe laser pour le rouge, 
 #### Profils laser
 
 Cette étape va permettre de partitionner les objets contenus dans le dessin vectoriel, et de leur associer une action à réaliser.
-		Trois types de profils peuvent être créés dans Visicut (menu Options>Profiles)
 
+Trois types de profils peuvent être créés dans Visicut (menu Options>Profiles):
 - Line profile
 - Raster profile
 - Raster 3D profile
 
 ![Laser](images/laser11.png)
 
-#### Line profile
+##### Line profile
 Usage : découpe (cut) et gravure vectorielle (marquage – mark)
 
 ![Laser](images/laser12.png)
 
-#### Options découpe :
+###### Options découpe :
 résolution (dpi) : nombre de points par inch (25.4mm). Par exemple, à 100dpi, deux points consécutifs seront distants au minimum de 25.4/100=0.254mm. Cette résolution agit aussi sur le nombre de côté du polygone utilisé pour approximer un cercle ou une courbe.
 
 épaisseur de trait représentée (si on veut découper un trait plus large, il fera plusieurs passages afin de couvrir l’épaisseur)
@@ -92,7 +82,7 @@ Optimization : du chemin parcouru par la tête laser (nearest conseillé).
 
 ![Laser](images/laser12.png)
 
-#### Options marquage :
+##### Options marquage :
 Identiques à ceci près que l’on décoche « is cut… , not just engraved »
 
 ![Laser](images/laser13.png)
@@ -107,9 +97,30 @@ Chaque face de chaque cube est gravé en raster Floyd-Steinberg.
 ![Laser](images/laser15.png)
 
 ### Options RASTER :
-résolution (dpi) : nombre de points par inch (25.4mm). Par exemple, à 100dpi, deux points consécutifs seront distants au minimum de 25.4/100=0.254mm. Cette résolution agit sur le nombre de points (blancs et noirs) qui formeront le nuage représentant la surface colorée. Trop faible : points isolés. Trop forte : les points noirs, tellement rapprochés, se brûlent les uns les autres.
-Dithering Algorithm : Floyd-Steinberg (recommandé), HalfTone.
-Grayscale Shift : curseur non gradué permettant de décaler les valeurs. Imaginons un carré gris à 50%, sa valeur de gris vaut donc 128. Si on lance un algorithme de dithering, on va créé un nuage de pixels dont un point sur 2 sera noir. Le curseur permet de moduler ceci en ajoutant une valeur au gris rencontré dans l’image. Curseur à gauche : on ajoute (-255) et curseur à droite +255. Ainsi, si on décale le curseur à droite d’un quart (+64), la valeur du gris à coder deviendra 128+64=192 : gris beaucoup plus clair, donc nuage plus clairsemé de points noirs. Si on décale le curseur à fond à droite, on obtient 128+255=383, plafonné à 255, soit blanc, et l’algorithme ne créera aucun point noir. Réglage assez sensible (+255 est possible, car alors le noir , initialement 0, sera transformé en 0+255 : blanc).
+
+#### résolution (dpi)
+Nombre de points par inch (25.4mm).
+
+Cette résolution agit sur le nombre de points (blancs et noirs) qui formeront le nuage représentant la surface colorée.
+
+- Trop faible : points isolés.
+- Trop forte : les points noirs, tellement rapprochés, se brûlent les uns les autres.
+
+Par exemple, à 100dpi, deux points consécutifs seront distants au minimum de 25.4/100=0.254mm.
+
+#### Dithering Algorithm
+Floyd-Steinberg (recommandé), HalfTone.
+
+#### Grayscale Shift
+Curseur non gradué permettant de décaler les valeurs.
+
+Imaginons un carré gris à 50%, sa valeur de gris vaut donc 128. Si on lance un algorithme de dithering, on va créé un nuage de pixels dont un point sur 2 sera noir.
+
+Le curseur permet de moduler ceci en ajoutant une valeur au gris rencontré dans l’image. Curseur à gauche : on ajoute (-255) et curseur à droite +255.
+
+Ainsi, si on décale le curseur à droite d’un quart (+64), la valeur du gris à coder deviendra 128+64=192 : gris beaucoup plus clair, donc nuage plus clairsemé de points noirs.
+
+Si on décale le curseur à fond à droite, on obtient 128+255=383, plafonné à 255, soit blanc, et l’algorithme ne créera aucun point noir. Réglage assez sensible (+255 est possible, car alors le noir , initialement 0, sera transformé en 0+255 : blanc).
 
 
 ### Raster 3D profile
@@ -175,14 +186,6 @@ Une fois le mapping effectué, et les paramètres laser choisis, on peut génér
 Menu File>Export laser code.
 ```
 
-### Octoprint
+## Octoprint
 
-Ouvrir un navigateur et entrer l’adresse IP : 102.168.1.41, découpe laser en marche. L’interface Octoprint s’ouvre alors et se connecte à la machine.
-
-Cette interface permet de :
-- Uploader le fichier G-CODE dans la machine
-- Estimer le temps d’exécution
-- Lancer le job (on suppose que le matériau est en place, la lentille positionnée au zéro du fichier, le focus réglé en fonction de la focale de la lentille.
-- Contrôler le déroulement grâce à la vue caméra.
-
-![image](images/laser23.png)
+On peut voir la progression du travail sur la matière en utilisant [Octoprint](octoprint)
