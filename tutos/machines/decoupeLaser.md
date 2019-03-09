@@ -84,7 +84,7 @@ Menu Extension, LasercutPath, Open in Visicut
 
 ![Laser](images/laser/laser5.jpg)
 
-### VISICUT
+### Visicut
 
 [Visicut pour la découpe laser](https://www.lafabriqueduloch.org/projet/visicut-decoupe-laser/)
 
@@ -199,9 +199,9 @@ en pratique, la machine ne modifie pas l’altitude de la lentille mais la haute
 
 Supposons travailler avec une lentille de focale f=2.5’’=63.5mm. Alors la largeur du rayon laser focalisé vaut 0.007’’ : deux points voisins ne se toucheront pas s’ils sont distants de 0.007’’, ce qui entraîne une résolution maximale de 1/0.007=142dpi… Au-delà on risque de surbrûler. Vouloir graver en RASTER 1000dpi semble totalement illusoire. En pratique, si on prend un rayon de 0.005’’, cela conduit à une résolution maximale de 1/0.005 = 200 dpi ce qui semble être une valeur plafond.
 
-![image](images/laser22.png)
+![image](images/laser/laser22.png)
 
-Source  http://www.engraversnetwork.com
+Source: http://www.engraversnetwork.com
 
 Ces paramétrages ne sont pas enregistrables par Visicut (le format .PLF ne les contient pas).
 
@@ -213,7 +213,7 @@ Une fois le mapping effectué, et les paramètres laser choisis, on peut génér
 Menu File>Export laser code.
 ```
 
-### OCTOPRINT
+### Octoprint
 
 Ouvrir un navigateur et entrer l’adresse IP : 102.168.1.41, découpe laser en marche. L’interface Octoprint s’ouvre alors et se connecte à la machine.
 
@@ -223,7 +223,7 @@ Cette interface permet de :
 - Lancer le job (on suppose que le matériau est en place, la lentille positionnée au zéro du fichier, le focus réglé en fonction de la focale de la lentille.
 - Contrôler le déroulement grâce à la vue caméra.
 
-![image](images/laser23.png)
+![image](images/laser/laser23.png)
 
 
 ### NUANCIER POUR LA DÉCOUPE/GRAVURE VECTORIELLE
@@ -232,11 +232,11 @@ En fonction du matériau, on peut choisir un couple (Puissance,Vitesse) du laser
 
   "https://www.lafabriqueduloch.org/projet/nuancier-decoupe-vitesse-puissance/"https://www.lafabriqueduloch.org/projet/nuancier-decoupe-vitesse-puissance/
 
-![image](images/laser24.png)
+![image](images/laser/laser24.png)
 
 CHOIX DE LA RÉSOLUTION POUR LA DÉCOUPE/GRAVURE VECTRIELLE DE COURBES
 Le nuancier DPI représente la gravure des motifs suivants pour les résolutions 100, 150, 200, 333, 500, 1000 dpi. Plus les lignes sont droites, et moins il est besoin de recourir à des résolutions élevées.
-![image](images/laser25.png)
+![image](images/laser/laser25.png)
 
 
 
@@ -261,13 +261,13 @@ en GRIS 50% [RGB=(128,128,128)]
 en 4 résolution : 100dpi, 200dpi, 333dpi et 500dpi
 
 Visuel du motif :
-![image](images/laser26.png)
+![image](images/laser/laser26.png)
 
 Pour chaque couple (Puissance,Vitesse), on grave en RASTER selon 4 résolutions :
-![image](images/laser27.png)
+![image](images/laser/laser27.png)
 
 Simulation du nuancier :
-![image](images/laser28.png)
+![image](images/laser/laser28.png)
 
 
 Nuancier RASTER Floyd-Steinberg :
