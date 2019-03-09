@@ -1,3 +1,6 @@
+---
+title: Découpeuse laser de la Fabrique du Loch
+---
 # DÉCOUPEUSE LASER DE LA FABRIQUE DU LOCH
 
 - Matériel : Découpeuse laser Robotseed RS-1610L + contrôleur Smoothieboard
