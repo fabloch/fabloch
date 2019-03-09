@@ -8,6 +8,17 @@ title: Découpeuse laser de la Fabrique du Loch
 
 ## Caractéristiques techniques
 
+|---	                  |---	|
+|  Type 	              | RobotSeed RS-1610L Laser Cutter   	|   
+|  Laser 	              | 90W long-life RECI laser tube (CO2)  	|   	
+|  Contrôleur 	        | Smoothieboard (open-source)  	|  
+|  Zone de travail 	    | 1600 x 1000 mm  	|   
+|  Résolution maximale 	| 0.025 mm (1000dpi)  	|  
+|  Répétabilité 	      | 0.01 mm  	|
+|  Langage 	            | G-CODE supporté par Smoothieboard  	|
+|  Software 	          | Open interface with many options: Laserweb, Visicut, Octoprint, Cambam, Fusion 360, Inkscape, Illustrator  	|
+|---	                  |---	|
+
 A la FABrique, on utilise majoritairement :
 - Inkscape : dessin vectoriel (fichier au format .SVG)
 - Visicut : association des dessins aux modes de découpe/marquage/gravure (fichier au format .PLF), définition des paramètres laser (DPI, Vitesse, Puissance), génération du G-CODE (fichier au format .GCODE)
