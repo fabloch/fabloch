@@ -7,7 +7,7 @@ Nous consignons ici les informations nécessaires pour mener à bien votre propr
 N'hésitez pas à consulter ces documents et à les compléter!
 
 ## Machines
-- [Découpe Laser](machines/decoupeLaser)
+- [Découpe Laser](machines/laser/)
 - [Impression 3D](machines/impression3D)
 - [Fraiseuse](machines/fraiseuse)
 - [Scanner 3D](machines/scanner3D)
