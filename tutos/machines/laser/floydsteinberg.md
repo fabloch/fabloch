@@ -28,4 +28,5 @@ Pour chaque couple (Puissance,Vitesse), on grave en RASTER selon 4 rÃ©solutionsÂ
 ![image](images/laser27.png)
 
 ## Simulation du nuancier
-![image](images/laser28.png){: width="500px"}
+
+![image](images/laser28.png){: width="800px"}
