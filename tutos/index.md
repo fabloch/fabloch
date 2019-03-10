@@ -8,7 +8,7 @@ N'hésitez pas à consulter ces documents et à les compléter!
 
 ## Machines
 - [Découpe Laser](machines/laser/)
-- [Impression 3D](machines/impression3D)
+- [Impression 3D](machines/print3D/)
 - [Fraiseuse](machines/fraiseuse)
 - [Scanner 3D](machines/scanner3D)
 - [Découpe Vinyle](machines/vinyle)
