@@ -28,21 +28,21 @@ On peut lancer la chauffe de la machine avant les réglages pour gagner du temps
 Il faut ensuite faire chauffer la buse et le plateau grâce aux boutons suivants, cliquer dessus lance la chauffe des éléments jusqu’au seuil renseigné dans les réglages.
 On peut surveiller celle-ci via le curseur en forme de losange qui doit atteindre le seuil décidé au préalable
 
-## Préparer l'objet
+## Préparer la pièce
 
-- [Imprimer](imprimer)
-- [Trancher](trancher)
+- [Concevoir une pièce](concevoir)
+- [Trancher avec RepetierHost](trancher)
 - [Configurer](configurer)
 
 ## Imprimer
 
 - Moucher la buse avant impression
 
-	Avant qu’elle ne démarre le travail il est préférable de retirer le trop plein de matière à la sortie de la buse afin qu’elle n’interfère pas avec l’impression.
+	Avant qu’elle ne démarre le travail, il est préférable de retirer le trop plein de matière à la sortie de la buse afin qu’elle n’interfère pas avec l’impression.
 
 - Lancer l’impression
 
-	Une fois les éléments à température adéquates il reste juste à lancer le travail via le bouton :
+	Une fois les éléments à température adéquates il reste à lancer le travail via le bouton :
 	L’imprimante se déplace alors à son point de départ et démarre l’impression.
 
 
