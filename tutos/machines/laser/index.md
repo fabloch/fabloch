@@ -17,8 +17,6 @@ Cette découpeuse permet de **découper** ou de **graver** différentes matière
 
 ## Comment découper?
 
-[Le mode d'emploi complet](utilisation)
-
 A la FABrique, les étapes de la découpe laser sont les suivantes:
 
 ### Inkscape
@@ -35,6 +33,12 @@ A la FABrique, les étapes de la découpe laser sont les suivantes:
 
 5. estimation du temps d’exécution, envoi du G-CODE vers la découpe Laser,  suivi du travail (caméra)
 
+- [Le mode d'emploi complet](utilisation)
+
+- [Choix de la résolution pour la découpe / gravure vectorielle de courbes](resolution)
+- [Nuancier pour la découpe / gravure](nuancier)
+
+
 ## Caractéristiques techniques
 
 |   |   |
@@ -49,8 +53,6 @@ A la FABrique, les étapes de la découpe laser sont les suivantes:
 |  Software 	          | Open interface with many options: Laserweb, Visicut, Octoprint, Cambam, Fusion 360, Inkscape, Illustrator  	|
 |---|---|
 
-- [Nuancier pour la découpe / gravure](nuancier)
-- [Choix de la résolution pour la découpe / gravure vectorielle de courbes](resolution)
 
 ## Auteurs / contributeurs :
 L. Béguin – La Fabrique du Loch
