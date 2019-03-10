@@ -33,10 +33,11 @@ A la FABrique, les étapes de la découpe laser sont les suivantes:
 
 5. estimation du temps d’exécution, envoi du G-CODE vers la découpe Laser,  suivi du travail (caméra)
 
-- [Le mode d'emploi complet](utilisation)
+[Le mode d'emploi complet](utilisation)
 
-- [Choix de la résolution pour la découpe / gravure vectorielle de courbes](resolution)
-- [Nuancier pour la découpe / gravure](nuancier)
+[Choix de la résolution pour la découpe / gravure vectorielle de courbes](resolution)
+
+[Nuancier pour la découpe / gravure](nuancier)
 
 
 ## Caractéristiques techniques
