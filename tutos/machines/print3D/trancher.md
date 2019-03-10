@@ -1,4 +1,4 @@
-## Trancher avec Repetier-Host
+# Trancher avec Repetier-Host
 
 ## Charger sa pièce
 La première chose à faire est de charger sa pièce dans Repetier, pour ce faire, cliquez sur le bouton “Charger” :
@@ -11,15 +11,15 @@ Une fois la pièce chargée, il est possible de la manipuler grâce aux outils s
 
 Dans l’ordre :
 
-•	Sauvegarder
-•	Ajouter un objet
-•	Copier l’objet
-•	Positionner les objets automatiquement sur le plateau
-•	Centrer l’objet sur le plateau
-•	Changer l'échelle( la taille ) de l’objet
-•	Tourner l’objet
-•	Vue en tranche de l’objet
-•	En cliquant sur l’engrenage correspondant à la pièce dans la liste des objets vous pouvez avoir accès à ses propriétés, notamment la taille de l’objet affichée dans l’onglet analysé, sous le champ Taille. Vous pouvez aussi vous repérer grâce au quadrillage de l’aperçu qui vaut 1cm 2
+1.  Sauvegarder
+2.  Ajouter un objet
+3.	Copier l’objet
+4.	Positionner les objets automatiquement sur le plateau
+5.	Centrer l’objet sur le plateau
+6.	Changer l'échelle( la taille ) de l’objet
+7.	Tourner l’objet
+8.	Vue en tranche de l’objet
+9.	En cliquant sur l’engrenage correspondant à la pièce dans la liste des objets vous pouvez avoir accès à ses propriétés, notamment la taille de l’objet affichée dans l’onglet analysé, sous le champ Taille. Vous pouvez aussi vous repérer grâce au quadrillage de l’aperçu qui vaut 1cm 2
 
 ## Trancher l’objet
 
@@ -27,7 +27,7 @@ Il faut maintenant couper la pièce en tranche afin de montrer à la machine com
 
 ##Configuration Simple
 
-L’onglet de tranchage offre une suite de réglages :
+L’onglet de tranchage offre une suite de réglages.
 
 ### Trancheur (manager)
 
