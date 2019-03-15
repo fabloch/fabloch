@@ -10,6 +10,14 @@ Lister tous les répertoires et les fichiers d'un volume
 https://stackoverflow.com/questions/105212/linux-recursively-list-all-files-in-a-directory-including-files-in-symlink-direc
 
 
+Compter le nombre de fichiers d'un certain type dans une arborescence de répertoires.
+```
+$ find . -name "*.YOURFILETYPE" | wc -l
+```
+
+
+
+
 
 https://stackoverflow.com/questions/10929453/read-a-file-line-by-line-assigning-the-value-to-a-variable
 https://stackoverflow.com/questions/24411185/splitting-string-separated-by-comma-into-array-values-in-shell-script
