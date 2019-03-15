@@ -25,4 +25,7 @@ Ce sont des fichiers texte avec un peu de formatage possible pour créer des pag
 La syntaxe est basée sur l'emploi de caractères spéciaux qui, placés en début de ligne, indiquent la nature de la ligne.
 Ainsi le # (dièse ou hashtag en anglais) permet de définir des sections du documents, les - (tiret ou "tiret du 6" comme on l'entend parfois avec des utilisateurs du PC - les tirets ne sont pas gérés par la touche 6 du clavier sur un mac -) pour créer une liste d'élements.
 
+Une ligne vide permet de séparer le texte en paragraphes.
+
+
 Voir [toute la syntaxe Markdown](code/markdown) pour devenir un pro de l'écriture Markdown.
