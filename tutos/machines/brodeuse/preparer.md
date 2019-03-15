@@ -27,6 +27,6 @@ Pour avoir les réglages qui vous conviennent, sélectionnez votre forme puis al
 Extension → ink/stitch → français → paramètres
 Vous vous retrouverez alors face au menu suivant :  
 
-![image2](./images/brodeusetuto2.jpg)
+![image2](./images/brodeusetuto2.jpg){: width="800px"}
 
 Comme vous pouvez le voir, ce menu offre également un aperçu « en temps réel » vous permettant ainsi de faire des essais sur les différents paramètres proposés et d’avoir une idée approximative du résultat final.

@@ -12,11 +12,11 @@ Assurez-vous que le pied-de-biche et l’aiguille soient relevés, si ce n’est
 
 mettez la bobine de fil sur le porte bobine, pensez à le coincer entre les deux disques de maintien.
 
-![image4](./images/brodeusetuto4.jpg)
+![image4](./images/brodeusetuto4.jpg){: width="800px"}
 
 une fois ceci fait , il ne vous reste plus qu’à faire passer le fil en suivant les nombres et les **flèches pleines** pour les étapes 1 à 8.
 pour l’étape 6, pensez à bien coincer le fil dans le **guide-fil.**
 
 Enfin, abaissez le levier se situant à la gauche de la machine pour passer le fil dans l’aiguille. Il ne faut pas hésiter à y mettre un peu de force, sans y aller comme un bourrin pour autant,
 
-![image5](./images/brodeusetuto5.jpg)
+![image5](./images/brodeusetuto5.jpg){: width="800px"}
