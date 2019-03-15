@@ -38,3 +38,12 @@ var style = new ol.style.Style({
 https://openlayers.org/workshop/en/vectortile/map.html
 
 https://gis.stackexchange.com/questions/251491/adding-a-feature-to-openlayers-vector-source
+
+
+In openlayers 4, I am able to get the layer of each selected feature like this: (Im not sure if this works in OL3)
+```
+var infoClicker = map.on('click', function(evt) {
+    map.forEachFeatureAtPixel(evt.pixel,
+        function(feature, layer) {
+            var idLayer = layer.get('myLayerID');
+```

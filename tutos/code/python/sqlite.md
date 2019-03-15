@@ -93,3 +93,5 @@ def main():
         print("Error! cannot create the database connection.")
 
 ```
+
+https://stackoverflow.com/questions/19337029/insert-if-not-exists-statement-in-sqlite
