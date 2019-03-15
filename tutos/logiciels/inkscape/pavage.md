@@ -1,7 +1,6 @@
-Création d’un pavage avec Inkscape
+# Création d’un pavage avec Inkscape
 
 Un pavage réalise des clones d’objets sans avoir à faire de multiples copier/coller
-
 
 1) créer un objet, par exemple un cercle
 ici, par exemple, un cercle de 20 mm avec un contour de 1 mm
