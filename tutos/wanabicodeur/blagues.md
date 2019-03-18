@@ -35,3 +35,7 @@ et je fais du **tennis**.
 Je fais du code je souhaite pouvoir faire quelque chose avec (je sais pas quoi encore mais je vais voir).
 
 j'ai écris tous ça en 1h INCROYABLE
+
+## Moi et un pote on pète beaucoup
+
+- un jour j'ai mangé du chili et apres j'ai pété toute la journée
