@@ -2,7 +2,7 @@
 
 ## une histoire drôle
 
-
+[un autre fichier](uneconnerie)
 
 **BONSOIR** je suis le monstre du placard et
 ![monstre](https://img.bfmtv.com/c/1256/708/419/03ab86d497e615c9b47558828b21d.jpeg)
@@ -53,4 +53,4 @@ Letripatouilleur.
 ## mon discord
 
 j'ai crée un discord nommé : frenchies
-je suis seul mais c'est drole et je vais jamais voir donc je m'en fous
+je suis seul mais c'est drole et je vais jamais voir donc je m'en fouss
