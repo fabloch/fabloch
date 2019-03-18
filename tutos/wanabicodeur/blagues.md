@@ -48,4 +48,4 @@ et m'a dit d'ouvrir la porte
 - pour moi faire du youtube serai pas de me faire de l'argent mais de partager
 mon savoir et mes délires avec ma communauté la chaine s'appellerai :
 Letripatouilleur.
-- je ferais des jeuux  video mes aussi des jeux de sociétés ou juste discuter avec mes abonnés.
+- je ferais des jeux  video mes aussi des jeux de sociétés ou juste discuter avec mes abonnés.
