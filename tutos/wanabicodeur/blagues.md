@@ -49,3 +49,8 @@ et m'a dit d'ouvrir la porte
 mon savoir et mes délires avec ma communauté la chaine s'appellerai :
 Letripatouilleur.
 - je ferais des jeux  video mes aussi des jeux de sociétés ou juste discuter avec mes abonnés.
+
+## mon discord
+
+j'ai crée un discord nommé : frenchies
+je suis seul mais c'est drole et je vais jamais voir donc je m'en fous
