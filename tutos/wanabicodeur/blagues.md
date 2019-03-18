@@ -42,3 +42,10 @@ j'ai écris tous ça en 1h INCROYABLE
 - un jour j'ai mangé du chili et après j'ai pété toute la journée
 - un jour j'ai pété en h/géo et les fenêtres n’était pas ouvertes du coup la prof a senti
 et m'a dit d'ouvrir la porte
+
+# j'aimerai faire du youtube
+
+- pour moi faire du youtube serai pas de me faire de l'argent mais de partager
+mon savoir et mes délires avec ma communauté la chaine s'appellerai :
+Letripatouilleur.
+- je ferais des jeuux  video mes aussi des jeux de sociétés ou juste discuter avec mes abonnés.
