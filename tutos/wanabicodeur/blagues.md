@@ -5,6 +5,7 @@
 
 
 **BONSOIR** je suis le monstre du placard et
+![monstre](https://img.bfmtv.com/c/1256/708/419/03ab86d497e615c9b47558828b21d.jpeg)
 Le lundi je vais te retirer tes chaussettes et te lécher entre les doigts de pieds pendant que tu dort
 Le mardi je vais te ronger les ongles de doigt de pieds avec mes dents
 Le mercredi je vais te sucer le nez pendant que tu dort
