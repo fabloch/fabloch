@@ -28,6 +28,12 @@ ah on dirait vraiment des cheval
 - bonjour prénom svp klemantine nom mais si je vous dit
 
 
+- tu connais la difference entre toi et un sapin ?
+
+- non ?
+
+- le sapin est un connifere et toi tes con et on peux rien y faire
+
 
 # Ma bio
 
@@ -53,4 +59,9 @@ Letripatouilleur.
 ## mon discord
 
 j'ai crée un discord nommé : frenchies
-je suis seul mais c'est drole et je vais jamais voir donc je m'en fouss
+je suis seul mais c'est drole et je vais jamais voir donc je m'en fous
+
+# Quand il ne fait pas beau
+
+Quand il ne fait pas beau je ne sais pas quoi faire
+souvent zefi m'embete car il est petit et bete mais je peux rien faire.
