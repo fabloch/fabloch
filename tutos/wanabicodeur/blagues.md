@@ -2,9 +2,9 @@
 
 ## une histoire drôle
 
-[un autre fichier](uneconnerie)
+[un autre fichier](uneconnerie)   
 
-**BONSOIR** je suis le monstre du placard et
+**BONSOIR** je suis le **monstre** du placard et
 ![monstre](https://img.bfmtv.com/c/1256/708/419/03ab86d497e615c9b47558828b21d.jpeg)
 Le lundi je vais te retirer tes chaussettes et te lécher entre les doigts de pieds pendant que tu dort
 Le mardi je vais te ronger les ongles de doigt de pieds avec mes dents
@@ -32,7 +32,7 @@ ah on dirait vraiment des cheval
 
 - non ?
 
-- le sapin est un connifere et toi tes con et on peux rien y faire
+- le sapin est un **connifere** et toi tes **con** et on peux rien y faire
 
 
 # Ma bio
@@ -58,10 +58,10 @@ Letripatouilleur.
 
 ## mon discord
 
-j'ai crée un discord nommé : frenchies
+j'ai crée un discord nommé : **frenchies**
 je suis seul mais c'est drole et je vais jamais voir donc je m'en fous
 
 # Quand il ne fait pas beau
 
 Quand il ne fait pas beau je ne sais pas quoi faire
-souvent zefi m'embete car il est petit et bete mais je peux rien faire.
+souvent **zefi** m'embete car il est petit et bete mais je peux rien faire.
