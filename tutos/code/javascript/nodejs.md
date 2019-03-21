@@ -56,4 +56,7 @@ https://stackoverflow.com/questions/5892569/responding-with-a-json-object-in-nod
 https://stackoverflow.com/questions/2614862/how-can-i-beautify-json-programmatically
 
 https://stackoverflow.com/questions/13696148/node-js-create-folder-or-use-existing
-w
+
+
+Tester si un fichier existe
+[Check if file exists](https://flaviocopes.com/how-to-check-if-file-exists-node/)
