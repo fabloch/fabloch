@@ -16,7 +16,7 @@ le 26 AVRIL 2019 19h30
 
 Vous voulez faire partie du Conseil d'Administration:
 
-- [Candidature Conseil d'Administration](candidature.md)
+  - [Candidature Conseil d'Administration](https://framaforms.org/candidature-au-conseil-dadministration-la-fabrique-du-loch-1554995370)
 
 Si vous ne pouvez pas être présent, n'hésitez pas à donner pouvoir à l'adhérent de votre choix:
 (limité à 2 pouvoirs par adhérent)
