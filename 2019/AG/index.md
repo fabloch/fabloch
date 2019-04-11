@@ -21,4 +21,4 @@ Vous voulez faire partie du Conseil d'Administration:
 Si vous ne pouvez pas être présent, n'hésitez pas à donner pouvoir à l'adhérent de votre choix:
 (limité à 2 pouvoirs par adhérent)
 
-- [Pouvoir Assemblée Générale du 26 avril 2019](pouvoir.pdf)
+- [Pouvoir Assemblée Générale du 26 avril 2019](Fabloch-AG2019-pouvoir.pdf)
