@@ -17,9 +17,9 @@ Introduction par la présidente de La FABrique du Loch: Marie Dubois
 
 Présentation des **candidats** pour le renouvellement du **Conseil d'Administration**
 
-- vote ( merci de prendre connaissance des [statuts](../../statuts.md)
+- vote ( merci de prendre connaissance des [statuts](../../statuts.md))
 
-Les **questions des adhérents** suivi d’un temps d’échanges
+Les **questions des adhérents** suivi d’un temps d’échange
 
 À 21h30, La Fabrique du Loch fête avec vous ses 3 ans
 « Chacun amène un peu et l’on se régale ensemble ! »
