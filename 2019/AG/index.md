@@ -12,6 +12,13 @@ le 26 AVRIL 2019 19h30
 
 - [L'ordre du jour de l'AGO](ordre-du-jour.md)
 
+- [Le bilan d'actitivé](bilan.md) (En cours de construction)
+
 Vous voulez faire partie du Conseil d'Administration:
 
 - [Candidature Conseil d'Administration](candidature.md)
+
+Si vous ne pouvez pas être présent, n'hésitez pas à donner pouvoir à l'adhérent de votre choix:
+(limité à 2 pouvoirs par adhérent)
+
+- [Pouvoir Assemblée Générale du 26 avril 2019](pouvoir.pdf)
