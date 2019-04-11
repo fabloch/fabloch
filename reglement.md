@@ -72,8 +72,7 @@ Le Conseil d’Administration constitue le « vivier » du Bureau et si besoin, 
 Le mode d’élection des membres du Conseil d’Administration et du Bureau est défini dans les statuts de l’association (articles 13 et 14).
 
 ### 1-6 Salariés
-Les salariés ont les prérogatives du fabmanager citées en art 2-1 et de plus, ont en charge l’application des décisions du conseil
-d’administration de l’association.
+Les salariés ont les prérogatives du fabmanager citées en art 2-1 et de plus, ont en charge l’application des décisions du conseil d’administration de l’association.
 Le fabmanager reçoit délégation du président pour l’utilisation du compte bancaire.
 
 ## Article 2 : Usagers et fonctions
@@ -115,8 +114,7 @@ L'invité est un extérieur encadré par un adhérent.
 Chaque adhérent est responsable de ses invités.
 
 ### 2-6 Radiations
-Tout membre peut être radié ou exclu de l’association soit pour nonpaiement de sa cotisation après rappel, soit pour attitude malveillante
-manifeste ou pour faute grave (mise en danger de la vie d’autrui ou nonrespect du règlement).
+Tout membre peut être radié ou exclu de l’association soit pour nonpaiement de sa cotisation après rappel, soit pour attitude malveillante manifeste ou pour faute grave (mise en danger de la vie d’autrui ou nonrespect du règlement).
 
 ## Article 3 : Séances
 Le FabLab propose plusieurs types de séances :
@@ -223,7 +221,7 @@ présence en tant que fabmanager, etc...
 Tout objet fabriqué au fablab à partir des matériels du fablab doit être
 documenté par l’adhérent lui-même sur le site de La FABrique du Loch.
 Parce qu’elle adhère à la charte des Fablabs, La FABrique du Loch soutient
-activement la principe de l’open source et des licences communes.
+activement la principe de l’open-source et des licences communes.
 Si un adhérent souhaite restreindre l’accès aux sources de son objet, il
 devra s’acquitter d’une pénalité financière. Une surcote de 25 % sera
 appliquée sur la valeur de l’Unité Machine et celui de la matière première
@@ -262,7 +260,7 @@ horaires bleus.
 ### 6.4 Tarifs
 #### Machines
 - Tarifs de l’accès aux Ateliers pro : pour une demi-journée : 6
-euros (catégories 1 et 2), 15 euros (catégorie 3) ; pour 16 demijournées étalées sur 3 mois : 60 euros (catégories 1 et 2) et 120
+euros (catégories 1 et 2), 15 euros (catégorie 3) ; pour 16 demi-journées étalées sur 3 mois : 60 euros (catégories 1 et 2) et 120
 euros (catégorie 3) ; pour 32 demi-journées étalées sur 3 mois : 95
 euros (catégories 1 et 2) et 190 euros (catégorie 3).
 - Tableau des tarifs d'utilisation des équipements
