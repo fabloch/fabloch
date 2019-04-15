@@ -60,3 +60,6 @@ https://stackoverflow.com/questions/13696148/node-js-create-folder-or-use-existi
 
 Tester si un fichier existe
 [Check if file exists](https://flaviocopes.com/how-to-check-if-file-exists-node/)
+
+## Process.env
+https://codeburst.io/process-env-what-it-is-and-why-when-how-to-use-it-effectively-505d0b2831e7
