@@ -1,4 +1,4 @@
-# Fini le distuptif
+# Fini le disruptif
 
 Fini le disruptif, place au classique. Après avoir longtemps refusé de faire comme ses prédécesseurs, autant par conviction que par esprit de contradiction, Emmanuel Macron s’est résolu à adopter une communication à l’ancienne pour la sortie du grand débat. Une sorte de retour aux sources pour relancer un quinquennat à l’arrêt depuis le début du mouvement des « gilets jaunes », entamé le 17 novembre et qui continue de mobiliser plusieurs dizaines de milliers de Français chaque samedi Objectif de cette expression à double détente : d’abord provoquer un effet « blast » en parlant au plus grand nombre.
 
