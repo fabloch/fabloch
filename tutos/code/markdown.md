@@ -71,3 +71,10 @@ Du code dans ce bloc
 | Header One     | Header Two     |
 | :------------- | :------------- |
 | Item One       | Item Two       |
+
+
+De nombreux contributeurs ont créé des packages pour améliorer Atom, notamment sur le traitement du texte markdown.
+
+https://atom.io/packages/markdown-writer
+
+https://atom.io/packages/markdown-pdf

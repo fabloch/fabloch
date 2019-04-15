@@ -22,7 +22,7 @@ Appel de la palette de commandes
 Recherche de github:Logout
 (Comme remarqué dans [Add command and UI to clear saved GitHub token](https://github.com/atom/github/pull/1180/commits/f5a2d6d83349622e6b0218d140f9410078eaa7f0))
 Entrée à nouveau de son compte et mot de passe.
-Le push marche. 
+Le push marche.
 
 
 
@@ -33,3 +33,7 @@ cd /usr/share/doc/git/contrib/credential/gnome-keyring
 sudo make
 git config --global credential.helper /usr/share/doc/git/contrib/credential/gnome-keyring/git-credential-gnome-keyring
 ```
+
+## Recherche
+Ignorer le répertoire node_modules dans les recherches
+https://stackoverflow.com/questions/38101462/atom-exclude-node-modules-folder-from-search
