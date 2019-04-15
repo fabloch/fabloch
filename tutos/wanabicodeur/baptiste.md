@@ -2,6 +2,7 @@
 
 Fini le disruptif, place au classique. Après avoir longtemps refusé de faire comme ses prédécesseurs, autant par conviction que par esprit de contradiction, Emmanuel Macron s’est résolu à adopter une communication à l’ancienne pour la sortie du grand débat. Une sorte de retour aux sources pour relancer un quinquennat à l’arrêt depuis le début du mouvement des « gilets jaunes », entamé le 17 novembre et qui continue de mobiliser plusieurs dizaines de milliers de Français chaque samedi Objectif de cette expression à double détente : d’abord provoquer un effet « blast » en parlant au plus grand nombre.
 
+## les gillet jaunes attaquent
 
 « Pour parler massivement et rapidement aux Français, la télé reste incontournable », approuve l’un des principaux communicants de la place de Paris. Le 10 décembre, quelque 23 millions de personnes avaient suivi l’allocution d’Emmanuel Macron, déjà destinée à répondre aux revendications exprimées sur les ronds-points. « Quand tu fais un “20 heures”, tu es chez les gens », reconnaît-on à Matignon.
 Signe de l’importance qu’il entend donner à cette séquence, le président a fait appel au réalisateur Jérôme Revon pour enregistrer son « adresse à la nation ». Un choix destiné à éviter tout faux pas. Lors d’une allocution diffusée le 16 octobre, à l’issue du remaniement qui avait suivi le départ de Gérard Collomb du gouvernement, Emmanuel Macron était apparu dans l’ombre et mal cadré.
