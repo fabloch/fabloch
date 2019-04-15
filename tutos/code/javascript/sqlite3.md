@@ -35,3 +35,6 @@ db.serialize(function() {
   });
 });
 ```
+
+INSERT OR UPDATE  
+https://stackoverflow.com/questions/15277373/sqlite-upsert-update-or-insert
