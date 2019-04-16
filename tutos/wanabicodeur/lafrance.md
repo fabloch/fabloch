@@ -12,4 +12,4 @@ expert judiciaire en incendies : « Si l’on se concentre sur l’extérieur, o
 prend le risque de repousser les flammes et les gaz chauds, qui peuvent
 atteindre 800 degrés, vers l’intérieur et accroître les dégâts. » Plusieurs
 enquêtes sont en cours pour comprendre les circonstances et l’origine du drame,
-mais il est prématuré d’évoquer une « défaillance » des secours...
+mais il est prématuré d’évoquer une « défaillance » des secours.
