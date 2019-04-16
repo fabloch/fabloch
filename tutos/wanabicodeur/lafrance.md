@@ -1,3 +1,5 @@
+**notre dame de paris brulle**
+
 l’édifice autour d’un échafaudage de chantier, avant de gagner rapidement tout
 le toit, dont la flèche, qui a finalement été entièrement détruite. Les pompiers
 de Paris étaient rapidement sur les lieux et, s’ils ont connu des difficultés,
