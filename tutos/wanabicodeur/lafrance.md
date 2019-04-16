@@ -13,3 +13,4 @@ prend le risque de repousser les flammes et les gaz chauds, qui peuvent
 atteindre 800 degrés, vers l’intérieur et accroître les dégâts. » Plusieurs
 enquêtes sont en cours pour comprendre les circonstances et l’origine du drame,
 mais il est prématuré d’évoquer une « défaillance » des secours.
+[Lien](https://www.ouest-france.fr/faits-divers/incendie/incendie-de-notre-dame-de-paris/video-incendie-notre-dame-de-paris-les-images-filmees-par-les-pompiers-pres-du-brasier-6311798)
