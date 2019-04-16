@@ -25,4 +25,4 @@ and educational institutions by funding exhibitions, educational programs, and
 publications that serve to contextualize and illuminate the artist’s work and
 philosophy.
 
-[lien](https://ssl.viaimage.viafrance.com/img/img-350x350/3/5/2/35249_350x350.jpg)
+![lien](https://ssl.viaimage.viafrance.com/img/img-350x350/3/5/2/35249_350x350.jpg)
