@@ -16,4 +16,4 @@ atteindre 800 degrés, vers l’intérieur et accroître les dégâts. » Plusie
 enquêtes sont en cours pour comprendre les circonstances et l’origine du drame,
 mais il est prématuré d’évoquer une « défaillance » des secours.
 
-un lien qui vous envoi vers l'article de  [ouest france](https://www.ouest-france.fr/faits-divers/incendie/incendie-de-notre-dame-de-paris/video-incendie-notre-dame-de-paris-les-images-filmees-par-les-pompiers-pres-du-brasier-6311798)
+_**un lien qui vous envoi vers l'article de  [ouest**_ france](https://www.ouest-france.fr/faits-divers/incendie/incendie-de-notre-dame-de-paris/video-incendie-notre-dame-de-paris-les-images-filmees-par-les-pompiers-pres-du-brasier-6311798)
