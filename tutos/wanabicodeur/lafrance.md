@@ -7,6 +7,7 @@ notamment pour atteindre le toit à l’aide de leurs lances à incendie (qui ne
 mesurent que trente mètres, alors que la flèche culminait à quatre-vingt-seize
 mètres), ils ont toutefois réussi à maîtriser le brasier durant la nuit et à
 limiter le sinistre. L’intervention n’était pas forcément spectaculaire dans les
+
 ![lien](https://www.lepoint.fr/images/2019/04/15/18408795-18414164-article-cathedrale-police-jpg_6137492_660x281.jpg)
 tactique de s’attaquer aux incendies par l’intérieur et non par l’extérieur,
 pour préserver le patrimoine. Comme l’explique dans Le Parisien Serge Delhaye,
