@@ -5,7 +5,7 @@
 ### Renforcer nos liens avec les acteurs locaux
 
 
-### Réduire l’esprit de consommation**
+### Réduire l’esprit de consommation
 Le conseil d’administration a lors d’une de ses réunions, exprimé son doute sur le modèle constaté. D’une base certes solide de bénévoles fortement impliqués, certains adhérents ou public passe la porte du fablab pour une relation de services.
 
 L’accueil de nos adhérents et de notre public doit orienter la démarche vers une relation de partage.
