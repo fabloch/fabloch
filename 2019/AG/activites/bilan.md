@@ -11,9 +11,9 @@ La FDL enregistre un succès certain, qui tient à :
 - son implantation au cœur de la ville d’Auray (pôle multimodal du Pays)
 - la disponibilité et la qualité de l’accueil offert (convivialité)
 - un prix d’adhésion modique de 20€ / an
-- une grande amplitude dans les horaires d’ouverture au public (38H par semaine)
+- une grande amplitude dans les horaires d’ouverture au public (**38H par semaine**)
 - la diversité des ateliers et des projets réalisés
-- de nombreux outils et fichiers en open source
+- de nombreux outils et **fichiers en open source**
 - la reconnaissance du droit à l’erreur qui facilite l’expérimentation
 - le succès du DIY, « faire par soi-même et ensemble »
 - son ouverture à l’intergénérationnel et à la mixité sociale.

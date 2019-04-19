@@ -1,5 +1,5 @@
 # Ordre du jour AG 2019
-Introduction par la présidente de La FABrique du Loch: Marie Dubois
+Introduction par notre présidente: Marie Dubois
 
 -  Validation du [compte-rendu de l’AG du 13 avril 2018](pv-ag-2018.pdf)
 
@@ -20,7 +20,7 @@ A **19h30**, salle Penher
 
 Présentation des **candidats** pour le renouvellement du **Conseil d'Administration**
 
-- vote ( merci de prendre connaissance des [statuts](../../statuts.md))
+- vote (merci de prendre connaissance des [statuts](../../statuts.md))
 
 Les **questions des adhérents** suivi d’un temps d’échange
 
