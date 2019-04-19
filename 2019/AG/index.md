@@ -12,7 +12,9 @@ le 26 AVRIL 2019 19h30
 
 - [L'ordre du jour de l'AGO](ordre-du-jour.md)
 
-- [Le bilan d'actitivé](bilan.md) (En cours de construction)
+- [Le bilan](activites/bilan.md) (En cours de construction)
+- [Les axes de développement](activites/activites.md)
+- [Les orientations](activites/orientations.md)
 
 Vous voulez faire partie du Conseil d'Administration:
 
