@@ -1,9 +1,7 @@
 # AG 2019 - Bilan Activité
 
-![](https://paper-attachments.dropbox.com/s_0F98DA9D206887A3940958C35E5048DDED87E5C58806A2B4698FBE7B2B743D73_1554994360962_image.png)
-
-# La Fabrique du Loch et ses valeurs
-## Un succès certain
+## La Fabrique du Loch et ses valeurs
+### Un succès certain
 
 Ouverte au public depuis avril 2016 et riche de quelque **300 adhérents**, la FABrique du Loch (FDL) marque son empreinte sur le bassin du Sud-Morbihan. 6 jours par semaine, elle réunit un public intergénérationnel qui partage. En 2018, fait notable, elle reçoit plus de 70 représentants de fablabs lors de la conférence mondiale FAB14.
 
@@ -28,7 +26,7 @@ Fondateur et salarié de la FDL, Juju est à la fois l’âme et la mémoire du 
 - La FDL s'inscrit également dans une démarche de réhabilitation de l’Hôtel Dieu et de son quartier, menée par la mairie d'Auray. Cette implantation contribue à redynamiser le centre-ville, à mettre en valeur un bâtiment historique et à le requalifier en lieu précurseur pour les technologies du XXIème siècle.
 - Les différents acteurs du territoire (élus, entreprises, établissements scolaires et autres organismes de l’Économie sociale et solidaire) sont en relation avec La FDL, auprès de qui ils trouvent un soutien pour mettre en œuvre leurs propres projets (par ex : l’initiative du pays d’Auray avec les lycéens de Benjamin Franklin « Imagine ton territoire ». ).
 
-# Un modèle économique qui reste précaire
+## Un modèle économique qui reste précaire
 
 **Néanmoins, La FDL n’a pas encore à ce jour un modèle économique stable.**
 
@@ -40,7 +38,7 @@ En effet, à sa création, l’association a eu la volonté de salarier deux hom
 - L’**amenuisement progressif des subventions**, qui est général, toutes associations confondues, constitue une hypothèque pour l’avenir.
 
 
-# Des valeurs qui perdurent….
+## Des valeurs qui perdurent….
 
 Notons que “l’esprit” et les valeurs de La FDL s’ancrent en interne et commencent à résonner auprès du public et de quelques décideurs.
 
