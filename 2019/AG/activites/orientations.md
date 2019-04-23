@@ -32,16 +32,16 @@ Nous avons toutefois encore du mal à attirer à nos évènements un plus large 
 Nous devons aussi mieux organiser notre communication auprès des entreprises locales, axe pour concrétiser nos efforts comme organisme de formation professionnelle.
 
 ### La fracture numérique
-La FABrique du Loch, comme toute organisation aujourd’hui, vit tous les jours **ses propres fractures numériques**.
+La FABrique du Loch, comme toute organisation aujourd’hui, vit tous les jours **ses propres fractures numériques**. Des adhérents dont l'informatique est le quotidien à d'autres découvrant tout juste les ordinateurs, l'association construit des passerelles, le faire comme support à ces rencontres numériques.
 
 #### Organisation
 Nous progressons. Les conseils d’administration sont réguliers, sur un rythme soutenu, une fois par mois. Un ordre du jour est préparé sur une plateforme d’édition collaborative, puis complété lors de la réunion pour être, depuis peu, publié sur le web à son approbation.
 
 #### Documentation
-Depuis peu, les tutoriels stockés sur le serveur NAS ont été transcrits en fichiers pouvant être facilement publiés sur le web. Des cours autour de ces techniques sont dispensés depuis peu.
+Depuis peu, les tutoriels stockés sur le serveur NAS ont été transcrits en fichiers publiés sur le web. Des cours autour de ces techniques sont dispensés depuis peu. Le partage de connaissances étant l'un de nos principaux objets, nous nous devons de renforcer la documentation des projets, des expériences vécues au Fablab.
 
 #### Dolibarr
-L’organisation de la comptabilité de la FABrique est en complète révision. Afin de faciliter le rapprochement entre la tenue comptable quotidienne et les imputations par notre Trésorière, Seb, encore lui, a mis en place
+L’organisation de la comptabilité de la FABrique est en complète révision. Afin de faciliter le rapprochement entre la tenue comptable quotidienne et les imputations par notre Trésorière, Seb, encore lui, a mis en place un outil de comptabilité en ligne. Cet outil complet nous permet de gérer petit à petit différents pans de notre activité.
 
 #### Le projet Algoric
 Benoit, un adhérent expert en calcul parallèle, a su enthousiasmer l’ensemble du conseil d’administration à expérimenter le recyclage de machines à forte capacité de calcul au sein d’un fablab. Nous n’avons pas encore trouvé de lieu pour héberger ces machines, nécessitant un environnement spécifique que l’on peut retrouver

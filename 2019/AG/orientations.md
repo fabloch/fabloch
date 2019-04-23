@@ -3,15 +3,18 @@
 La Fabrique du Loch, après 3 ans d'existence, doit aborder une nouvelle étape.
 Dès la première année, nous avons réuni près de 250 adhérents, 300 aujourd'hui.
 Des personnes en recherche de faire, des entreprises en recherche de compétences.
+
 Le parc de machines, les heures d'ouverture font de La Fabrique du Loch un des fablabs
 les plus accueillants. Elle le doit à ses fondations même, quand un groupe d'amis décident
 de monter ce projet en dehors de tout cadre universitaire ou par volonté politique.
+
 Aujourd'hui, le conseil municipal d'Auray soutient l'association en lui fournissant des locaux
 hors du commun, en centre-ville, comme c'était le souhait des fondateurs.
 Mais l'association reste toutefois dans un équilibre financier fragile.
 Endettée, elle doit aujourd'hui apurer ses comptes dans un environnement où les subventions
 sont encore difficiles à capter, malgré la correspondance entre les missions de l'association
 et les volontés politiques de lutter contre la fracture numérique.
+
 Rappelons qu'un Fablab est un prolongement des actions culturelles comme l'ouverture d'une
 bibliothèque au siècle dernier, d'une médiathéque depuis quelques décennies.
 Initiative citoyenne, il est indispensable que la Fabrique reste indépendante.
