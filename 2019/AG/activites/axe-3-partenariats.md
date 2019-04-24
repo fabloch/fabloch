@@ -19,6 +19,8 @@ Nous devrons donc :
 
 Les résultats attendus sont une augmentation de l’utilisation des machines et de la location de l’atelier. Cet autofinancement doit contribuer à construire l’assise financière qui nous fait encore défaut.
 
+![](../images/RIlalou.jpg){: width="500px" }
+
 Dans le domaine du numérique, nous participons activement au réseau MIBS (Makers In Bretagne Sud) qui rassemble les acteurs de la fabrication numérique ouverte et collaborative en Bretagne Sud. Des exemples de collaboration vous sont présentés dans l’Axe 5.
 
 A l’échelle nationale, Juju a été élu au conseil d’administration du RFF (Réseau Français des FabLabs), lors de son AG en août 2018. Ainsi, pour la première fois, le grand Ouest, avec notamment la Bretagne, très en pointe ces 5 dernières années pour la création de fablabs, y est représenté.
