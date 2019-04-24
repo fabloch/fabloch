@@ -9,7 +9,8 @@ Concernant, l’accompagnement de stagiaires, nous sommes de plus en plus sollic
 
 - dans le cadre des stages de découverte en milieu professionnel des classes de 3ème, **4 élèves des collèges** St Gildas BREC’H, St Louis AURAY et Ste Anne d’Auray (pour un total de 20 jours)
 - **4 élèves du secondaire des lycées professionnels**  d’Etel, Duguesclin, Priziac et **2 élèves en classe d’enseignement général** des lycées de Ste-Anne d’Auray et de Vannes, pour un total de 71 jours (contre 10 journées en 2017).
-- Et enfin, comme l’année précédente, des étudiant-es de l’université de Cergy Pontoise, FACLAB, Olivier et Camille. Cette dernière travaille sur un projet de facilitateur itinérant et interfablab (soit un total de 47 jours).
+- Et enfin, comme l’année précédente, des étudiant-es de l’université de Cergy Pontoise, FACLAB, Olivier et Camille. Cette dernière travaille sur un projet de facilitateur itinérant et interfablab (soit un total de 47 jours)
+
 
 Pour la 1ère année l’accueil de publics fragilisés, ce qui représente 34 journées d’accompagnement fait l’objet de conventions de stage avec :
 

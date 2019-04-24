@@ -2,7 +2,7 @@
 
 Ouverte au public depuis avril 2016 et riche de quelque **300 adhérents**, la FABrique du Loch (FDL) marque son empreinte sur le bassin du Sud-Morbihan. 6 jours par semaine, elle réunit un public intergénérationnel qui partage. En 2018, fait notable, elle reçoit plus de 70 représentants de fablabs lors de la conférence mondiale FAB14.
 
-![FAB14](../images/FAB14-group.JPG){: width="500px"}
+![FAB14](../images/FAB14-group.JPG){: width="600px"}
 
 ## La Fabrique du Loch et ses valeurs
 ### Un succès certain
