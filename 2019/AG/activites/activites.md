@@ -20,6 +20,7 @@ Durant les treize mois de cet exercice, nous avons développé les activités su
 
 - **NUMERIQUE** – Sensibiliser aux [nouveaux usages numériques](axe-5-numérique.md) en réduisant les obstacles culturels et/ou sociaux
 
+
 - **TERRITOIRES** - [Contribuer au développement durable et à la capacité de résilience des territoires](axe-6-territoires.md)
 
 ![sandbox](../images/sandbox.JPG){: width="500px" }
