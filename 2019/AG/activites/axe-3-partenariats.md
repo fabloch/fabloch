@@ -1,4 +1,4 @@
-## Axe 3 - Faire vivre des partenariats entre les acteurs locaux (associations, établissements publics, collectivités territoriales et entreprises) et le mouvement des makers
+## PARTENARIATS - Faire vivre des partenariats entre les acteurs locaux (associations, établissements publics, collectivités territoriales et entreprises) et le mouvement des makers
 
 Ces partenariats peuvent prendre la forme de conventions signées avec des acteurs économiques, éducatifs et culturels du territoire, tels que la ville d'Auray et le pays d’Auray, le lycée des Métiers d’Art Duquesclin, la MAL, la Mission locale du Pays d’Auray, le musée de Préhistoire de Carnac, l’Argonaute, Clim’actions Bretagne sud, le parc naturel du golfe du Morbihan, l’ENVSN, Enédis, etc. Nous entretenons des relations étroites avec par exemple le Pays d’Auray, via des réalisations concrètes (voir Axe 1). Relations qu’il faudra prolonger et élargir à de nouveaux partenaires, par exemple : AQTA, la Région Bretagne et également de nouveaux partenaires privés.
 

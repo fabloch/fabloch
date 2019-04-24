@@ -1,4 +1,4 @@
-## Axe 2 - Apprendre par le Faire
+## FAIRE - Apprendre par le Faire
 
 *Donner à nos adhérents les compétences requises pour les nouveaux usages numériques*
 

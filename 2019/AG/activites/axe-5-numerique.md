@@ -1,4 +1,4 @@
-## Axe 5 – Sensibiliser aux nouveaux usages numériques en réduisant les obstacles culturels et/ou sociaux
+## NUMERIQUE – Sensibiliser aux nouveaux usages numériques en réduisant les obstacles culturels et/ou sociaux
 
 Nous menons une politique volontariste dans ce domaine précis, parce que nous souhaitons favoriser l’intergénérationnel et la mixité sociale de nos publics. Ainsi, nous assurons un accueil chaque samedi matin (visite des ateliers).
 

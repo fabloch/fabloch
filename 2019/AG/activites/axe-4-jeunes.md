@@ -1,4 +1,4 @@
-## Axe 4 - Accompagner des jeunes dans leur démarche de professionnalisation
+## JEUNES - Accompagner des jeunes dans leur démarche de professionnalisation
 
 On note toujours la forte curiosité du monde socio-éducatif envers La FDL. Elle s’est traduite pour cet exercice par des visites de groupes d’établissements scolaires, l’accueil de stagiaires et de jeunes volontaires.
 Nous avons réitéré des visites de nos ateliers et présenté le fonctionnement de nos machines :

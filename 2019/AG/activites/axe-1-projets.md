@@ -1,4 +1,4 @@
-# Axe 1 - Concevoir, réaliser et/ou accompagner des projets innovants
+# PROJETS - Concevoir, réaliser et/ou accompagner des projets innovants
 
 ## Apéro-projets
 Nous avons continué à organiser les apéro-projets, notre rendez-vous mensuel et marque de fabrique, dans différents domaines (culturel, éducatif, économique, développement durable). L’audience peut aller d’une douzaine à plusieurs
@@ -23,7 +23,6 @@ La FDL a organisé 3 séances d’une journée avec les lycéens du Lycée Benja
 ## Des projets individuels développés grâce au fablab
 Création d’une imprimante 3D format XXL financée par Loïc pour la FDL et une autre pour la clinique vétérinaire de B. Franklin perm, deux projets mis au point par Fred… qui ne se limite pas à inventer; de plus, il accompagne des jeunes à découvrir leurs capacités à faire en apprenant à imaginer avec le dessin 3D, le paramétrage des machines.
 
-![Fred](../images/FredImp3D.JPG){: width="500px" }
 
 ## L’accueil de CampTIC
 L’association lorientaise CampTIC a demandé au conseil d’administration l’autorisation d’héberge leurs controverses numériques dans les locaux de la FABrique du Loch; la requête a connu l’unanimité enthousiaste du conseil.
