@@ -38,6 +38,8 @@ Concernant le **grand public,** nous avons participé à **divers événements e
 - Des stands de démonstration pour des événements extérieurs autres que « maker » : Récréa’bric à Saint-Anne d’Auray le 30 mars,
 - JEMA (Journées Européennes des Métiers d’Art) à l’Argonaute, du 5 au 7 avril 2019
 
+
+
 **Communication**
 Dans le but d’accroitre la visibilité de nos activités, nous avons développé différents outils de communication. Nous avons ajouter des pages à notre site Internet, **étoffé notre FABLETTER****,** mensuel présentant le programme du mois à venir.
 
