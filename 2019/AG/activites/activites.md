@@ -10,3 +10,8 @@ Durant les treize mois de cet exercice, nous avons développé les activités su
 - Axe 4 - [Accompagner des jeunes](axe-4-jeunes.md) dans leur démarche de professionnalisation
 - Axe 5 – Sensibiliser aux [nouveaux usages numériques](axe-5-numérique.md) en réduisant les obstacles culturels et/ou sociaux
 - Axe 6 - [Contribuer au développement durable et à la capacité de résilience des territoires](axe-6-territoires.md)
+
+![sandbox](../images/sandbox.JPG)
+![sandbox](../images/SoiJeunLead.JPG)
+
+![visites](../images/visites.JPG)

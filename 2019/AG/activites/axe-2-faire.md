@@ -6,6 +6,8 @@
 
 Nous touchons un public très varié aux demandes diverses : particuliers, scolaires, salariés, auto-entrepreneurs, entrepreneurs, artisans, associations, services techniques des collectivités.
 
+![visites](../images/visites.JPG)
+
 La FDL forme ses adhérents à l’utilisation de ses machines en visant leur autonomie technique et numérique. En 2018, près de 150 formations à l’utilisation des machines ont été dispensées, contre 120 en 2017.
 
 - A l’instar des précédentes années, la demande pour appréhender l’utilisation de la découpe laser a été majoritaire et a représenté en 2018 68 % des formations dispensées.
