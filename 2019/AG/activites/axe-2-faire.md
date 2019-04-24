@@ -2,7 +2,7 @@
 
 *Donner à nos adhérents les compétences requises pour les nouveaux usages numériques*
 
-[cnousfab](cnousfab.jpg){: width="500px" }
+![cnousfab](cnousfab.jpg){: width="500px" }
 
 Nous touchons un public très varié aux demandes diverses : particuliers, scolaires, salariés, auto-entrepreneurs, entrepreneurs, artisans, associations, services techniques des collectivités.
 
@@ -14,7 +14,7 @@ La FDL forme ses adhérents à l’utilisation de ses machines en visant leur au
 - Vient ensuite la formation à l’impression 3D… XX adhérents ont été formés sur la …. sur les imprimantes 3D
 - et enfin, XX sur la découpe vinyle depuis avril 2018.
 
-[cnousfab2](cnousfab2.jpg){: width="500px" }
+![cnousfab2](cnousfab2.jpg){: width="500px" }
 
 L’apprentissage passe aussi par des ateliers informatiques généralement gratuits, animés par des tuteurs bénévoles : langage informatique, image vectorielle Inkscape, dessin 3D Blender. Au total, 16 ateliers ont été organisés tout au long de l’année et notamment le mardi soir. Ils ont permis de transmettre des savoirs et des expériences.
 
