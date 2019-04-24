@@ -14,6 +14,8 @@ Ils sont structurés suivant l'organisation suivante:
 
 ## Les fichiers markdown
 
+Une très bonne ressource en anglais [à propos des fichiers Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
 Ce sont des fichiers texte avec un peu de formatage possible pour créer des pages web très simples mais supportant les éléments essentiels pour créer une page sur la toile:
 
 - La struturation du documents (plan)
