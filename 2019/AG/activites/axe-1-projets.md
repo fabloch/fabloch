@@ -6,6 +6,8 @@ Ces r**éunions conviviales** permettent à tout adhérent de présenter son pro
 
 Nous ne citerons pas tous les projets de ce mandat, mais nous évoquerons des projets collectifs internes à La FDL : la sandbox, le hurlomaton (toujours), la compta.
 
+[AperoProjets](./,,/images/AperProj.JPG){: width="500px"}
+
 ## Séances de design thinking
 Lors du FAB14, à Toulouse, en juillet dernier, Sébastien a participé à un atelier de design thinking.
 A plusieurs reprises, il a eu l’occasion de partager cette méthode.
