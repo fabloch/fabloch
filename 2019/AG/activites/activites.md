@@ -8,12 +8,14 @@ Durant les treize mois de cet exercice, nous avons développé les activités su
 
 
 - **Faire** - Apprendre par le [Faire](axe-2-faire.md)
+
 ![Fred](../images/FredImp3D.JPG){: width="500px" }
 
 - **Partenariats** - [Faire vivre des partenariats](axe-3-partenariats.md)  entre les acteurs locaux (associations, établissements publics, collectivités territoriales et entreprises) et le mouvement des makers
 
 
 - **Jeunes** - [Accompagner des jeunes](axe-4-jeunes.md) dans leur démarche de professionnalisation
+
 ![sandbox](../images/SoiJeunLead.JPG){: width="500px" }
 
 - **Numérique** – Sensibiliser aux [nouveaux usages numériques](axe-5-numérique.md) en réduisant les obstacles culturels et/ou sociaux
