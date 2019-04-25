@@ -5,6 +5,8 @@ Ouverte au public **depuis avril 2016** et riche de quelque **300 adhérents**, 
 ## La Fabrique du Loch et ses valeurs
 ### Un succès certain
 
+![fablab](../images/fablab.jpg)
+
 La FDL enregistre un succès certain, qui tient à :
 
 **A. Sa très grande accessibilité** en lien avec :
@@ -18,15 +20,21 @@ La FDL enregistre un succès certain, qui tient à :
 - le succès du DIY, « faire par soi-même et ensemble »
 - son ouverture à l’intergénérationnel et à la mixité sociale.
 
-![visites](../images/visites.JPG){: width="600px" }
 
 **B. Les compétences et les motivations** de son salarié, de ses bénévoles ainsi que des jeunes volontaires et stagiaires
 Fondateur et salarié de la FDL, Juju est à la fois l’âme et la mémoire du fablab. Il a toujours à cœur de vous accueillir, vous dépanner, … Il est épaulé par quelques bénévoles investis et par nos jeunes volontaires en services civiques qui animent quotidiennement le lieu.
+
+![happiness](../images/happiness.JPG){: width="300px" }
 
 **C. Ses capacités de réseautage** et sa volonté de s’inscrire dans les politiques publiques, locales et territoriales
 - La FDL a pour objectif de favoriser la transition numérique. L’arrivée du Très Haut Débit à Auray nous a permis d’ouvrir le Fablab et ainsi, d’inscrire notre territoire dans le développement du Numérique. Depuis, La FDL est référencée à la fois au niveau du réseau mondial des fablabs et du réseau local de Bretagne-Sud (MIBS).
 - La FDL s'inscrit également dans une démarche de réhabilitation de l’Hôtel Dieu et de son quartier, menée par la mairie d'Auray. Cette implantation contribue à redynamiser le centre-ville, à mettre en valeur un bâtiment historique et à le requalifier en lieu précurseur pour les technologies du XXIème siècle.
 - Les différents acteurs du territoire (élus, entreprises, établissements scolaires, autres organismes de l’Économie sociale et solidaire, associations) sont en relation avec La FDL, auprès de qui ils trouvent un soutien pour mettre en œuvre leurs propres projets (par ex : l’initiative du pays d’Auray avec les lycéens de Benjamin Franklin « Imagine ton territoire » ).
+
+![drawbot](../images/drawbot1.JPG){: width="150px" }
+![drawbot](../images/drawbot2.JPG){: width="150px" }
+![drawbot](../images/drawbot3.JPG){: width="150px" }
+
 
 ## Un modèle économique qui reste précaire
 

@@ -19,6 +19,7 @@ Rappelons qu'un Fablab est un prolongement des actions culturelles comme l'ouver
 bibliothèque au siècle dernier, d'une médiathéque depuis quelques décennies.
 Initiative citoyenne, il est indispensable que la Fabrique reste indépendante.
 
+![makeEcology](makeEcology.jpg)
 
 ## Les axes d’amélioration
 

@@ -12,6 +12,8 @@ Nous ne citerons pas tous les projets de ce mandat, mais nous évoquerons des pr
 Lors du FAB14, à Toulouse, en juillet dernier, Sébastien a participé à un atelier de design thinking.
 A plusieurs reprises, il a eu l’occasion de partager cette méthode.
 
+
+
 ## L’accompagnement de projets extérieurs
 La FDL a organisé 3 séances d’une journée avec les lycéens du Lycée Benjamin Franklin d’Auray dans le cadre de l’atelier coopératif « expression des jeunes » initié par le Pays d’Auray et soutenu par le programme européen Leader. L’implication des lycéens a été impressionnante, produisant 3 maquettes d’1/2m2 chacune illustrant une dizaine de projets innovants.  
 

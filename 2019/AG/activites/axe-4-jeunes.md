@@ -11,6 +11,9 @@ Nous avons réitéré des visites de nos ateliers et présenté le fonctionnemen
 - St Louis AURAY,
 - Ste Anne d’Auray
 
+![visites](../images/visites.JPG){: width="600px" }
+
+
 ## Services Civiques
 Depuis septembre 2017, dans le cadre d’un partenariat avec la **Mission Locale** du Pays d’Auray, La Fabrique du Loch accueille des jeunes volontaires en service civique pour une période de 9 mois (à raison de 26h hebdomadaires).
 
