@@ -42,7 +42,7 @@ De plus, comme chaque année en septembre, nous avons participé au **Forum des 
 
 La communication reste à privilégier pour le mandat à venir.
 
-### La réalisation de tutoriels
+## La réalisation de tutoriels
 Depuis le début de l’association, des tutoriels ont été créés sur l’utilisation des machines, leurs réglages et nous devons beaucoup à un bénévole qui s'est beaucoup investi pour la Fabrique, Ludo. Ces tutoriels ont été transcrits en documents **publiés sur le web** pour un accès plus facile à cette documentation et dans le respect de nos valeurs de partage.
 
 La création de contenu permet à la FABrique du loch d’augmenter sa visibilité sur l’Internet.
