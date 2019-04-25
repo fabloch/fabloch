@@ -15,10 +15,10 @@ Durant les treize mois de cet exercice, nous avons développé les activités su
 
 - **JEUNES** - [Accompagner des jeunes](axe-4-jeunes.md) dans leur démarche de professionnalisation
 
-![Fred](../images/FredImp3D.JPG){: width="300px" }
-![soireejeunes](../images/SoiJeunLead.JPG){: width="300px" }
-![sandbox](../images/sandbox.JPG){: width="300px" }
-
 - **NUMERIQUE** – Sensibiliser aux [nouveaux usages numériques](axe-5-numérique.md) en réduisant les obstacles culturels et/ou sociauxs
 
 - **TERRITOIRES** - [Contribuer au développement durable et à la capacité de résilience des territoires](axe-6-territoires.md)
+
+![Fred](../images/FredImp3D.JPG){: width="300px" }
+![soireejeunes](../images/SoiJeunLead.JPG){: width="300px" }
+![sandbox](../images/sandbox.JPG){: width="300px" }
