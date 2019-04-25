@@ -14,7 +14,7 @@ Le 26 AVRIL 2019 19h30
 
 - [L'ordre du jour de l'AGO](ordre-du-jour)
 
-![atelier](../images/Atelier.JPG){: width="600px"}
+![atelier](images/Atelier.JPG){: width="600px"}
 
 L'ensemble des points abordés:
 
