@@ -1,7 +1,7 @@
 # TERRITOIRES - Contribuer au développement durable et à la capacité de résilience des territoires
 
 ## FAB14 DISTRIBUTED - WEST
-La FDL a pris l’initiative de se proposer pour être l’une des 10 “villes-étape” de FAB14, **la 14ème Conférence internationale des Fab Labs**, l’événement mondial des makers, durant deux jours (14 et 15 juillet). Ainsi, une XX de personnes ont pu assister à des conférences, ateliers, expositions et rencontres sur deux thèmes précis : **Make ecology et Health & Solidarity**.
+La FDL a pris l’initiative de se proposer pour être l’une des 10 “villes-étape” de FAB14, **la 14ème Conférence internationale des Fab Labs**, l’événement mondial des makers, durant deux jours (14 et 15 juillet). Ainsi, une XX de personnes ont pu assister à des conférences, ateliers, expositions et rencontres sur deux thèmes : **Make ecology et Health & Solidarity**.
 
 **22 conférences et 11 ateliers** se sont déroulés dans 3 lieux en centre-ville.
 Au total, **73 makers de 10 nationalités** et **37 bénévoles** ont accueilli à La FDL **500 personnes**.
