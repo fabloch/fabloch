@@ -1,12 +1,5 @@
 # Bilan financier 2018
 
-## Le budget prévisionnel
+Malgré les nombreuses activités que nous avons développées durant ce mandat, nous rencontrons toujours des difficultés financières ne nous permettant pas de rembourser nos dettes. La phase critique de trois ans de fonctionnement n’a pas permis d’asseoir un fonds de trésorerie, ce qui fragilise la pérennité de l’association.
 
-Achat d'une lampe pour la découpeuse laser
-
-### Conditionnel
-Demande de subvention dans le cadre du projet Les Invisibles
-sept 2019 à aout 2020: 1 jour semaine
-sept 2020 à aout 2021
-sept 2021 à aout 2022
-sept 2022 à aout 2023  : 1 mi-temps
+Notre bilan financier de l’association est certifié par le cabinet comptable CERFRANCE.

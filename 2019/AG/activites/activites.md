@@ -4,7 +4,7 @@
 
 Durant les treize mois de cet exercice, nous avons développé les activités suivantes, en cohérence avec les six axes que nous nous étions fixés et qui sont la structure de notre projet associatif.
 
-## NOS AXES
+## Les axes de notre projet associatif
 
 - **PROJETS** - Concevoir, réaliser et/ou accompagner des [projets innovants](axe-1-projets.md)
 
@@ -17,6 +17,8 @@ Durant les treize mois de cet exercice, nous avons développé les activités su
 - **NUMERIQUE** – Sensibiliser aux [nouveaux usages numériques](axe-5-numerique.md) en réduisant les obstacles culturels et/ou sociauxs
 
 - **TERRITOIRES** - [Contribuer au développement durable et à la capacité de résilience des territoires](axe-6-territoires.md)
+
+Ces activités n’auraient pas pu exister sans l’aide des bénévoles, leur disponibilité, leurs compétences (et il existe un très beau panel de compétences à la FDL) et surtout leurs envies. **Un grand merci à eux.**
 
 ![Fred](../images/FredImp3D.JPG){: width="300px" }
 ![soireejeunes](../images/SoiJeunLead.JPG){: width="300px" }
