@@ -11,6 +11,7 @@ Concernant, l’accompagnement de stagiaires, nous sommes de plus en plus sollic
 - **4 élèves du secondaire des lycées professionnels**  d’Etel, Duguesclin, Priziac et **2 élèves en classe d’enseignement général** des lycées de Ste-Anne d’Auray et de Vannes, pour un total de 71 jours (contre 10 journées en 2017).
 - Et enfin, comme l’année précédente, des étudiant-es de l’université de Cergy Pontoise, FACLAB, Olivier et Camille. Cette dernière travaille sur un projet de facilitateur itinérant et interfablab (soit un total de 47 jours)
 
+![cmoifab](../images/RI3.jpg)
 
 Pour la 1ère année l’accueil de publics fragilisés, ce qui représente 34 journées d’accompagnement fait l’objet de conventions de stage avec :
 

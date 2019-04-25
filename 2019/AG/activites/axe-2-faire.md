@@ -6,7 +6,11 @@
 
 Nous touchons un public très varié aux demandes diverses : particuliers, scolaires, salariés, auto-entrepreneurs, entrepreneurs, artisans, associations, services techniques des collectivités.
 
+![cmoifab](../images/RIDynosoe.JPG.jpg){: width="500px"}
+
 La FABrique du Loch forme ses adhérents à l’utilisation de ses machines en visant leur autonomie technique et numérique. En 2018, près de 150 formations à l’utilisation des machines ont été dispensées, contre 120 en 2017.
+
+![cmoifab](../images/PIFAB.jpg){: width="500px"}
 
 - A l’instar des précédentes années, la demande pour appréhender l’utilisation de la découpe laser a été majoritaire et a représenté en 2018 68 % des formations dispensées.
 
@@ -23,6 +27,9 @@ L’apprentissage passe aussi par des ateliers informatiques généralement grat
 Depuis mars 2019, une formation a été conçue et dispensée par Antoine et Arnaud, de manière à apprendre à nos adhérents volontaires à coder en vue de la création de sites Web, d'applications mobiles (Android, iOS ...), de logiciels pour PC & Mac, de logiciels embarqués (Arduino...).
 
 Des synergies autour du code se développent. Seb, un bénévole ne comptant pas ses heures, a permis à d’autres adhérents, et services civiques de découvrir l’univers du code en ligne. Depuis mars, les enfants découvrent le quotidien d’un codeur, éditeurs de texte et partage du code. Quelques adultes aussi.
+
+
+
 
 En janvier, la FABrique a fait **le Break**!
 3 semaines de partage autour d'un jeu d'activités culturelles et sportives.

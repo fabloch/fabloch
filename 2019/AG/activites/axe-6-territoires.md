@@ -6,7 +6,15 @@ Au total, 73 makers de 10 nationalités et 37 bénévoles ont accueilli à La FD
 Bouquet final du 16 au 22 juillet : toutes les équipes se sont retrouvées à Toulouse. Au-delà de ces 2 jours à Auray, l’intérêt de FAB14 a résidé dans la création de synergies entre les fablabs du Grand Ouest et des fablabs étrangers.
 
 **Herbes Folles à St Nolff le samedi 23 février**
-Nous adhérons au pôle de l’ESS, le pôle PEPS-pôle de l’économie positive et solidaire. Pour le mois de l'économie sociale et solidaire, La Fabrique du Loch et Camptic' se sont associés pour proposer une conférence autour du thème La citoyenneté & le numérique (Vendredi 23 novembre).
+Nous adhérons au pôle de l’ESS, le pôle PEPS-pôle de l’économie positive et solidaire. Pour le mois de l'économie sociale et solidaire, La Fabrique du Loch et Camp'TIC se sont associés pour proposer une conférence autour du thème **La citoyenneté & le numérique** (Vendredi 23 novembre 2018).
+
+**Evènements extérieurs**
+Concernant le **grand public,** nous avons participé à **divers événements extérieurs :**
+
+- les 20-21 janvier, lors d’un évènement de *Makers*, « le MIBS DAY » à Quiberon,  nous avons animé des stands de démonstrations et des ateliers d’activités collaboratives.
+- Des stands de démonstration pour des événements extérieurs autres que « maker » : Récréa’bric à Saint-Anne d’Auray le 30 mars,
+- JEMA (Journées Européennes des Métiers d’Art) à l’Argonaute, du 5 au 7 avril 2019
+
 
 **Install Party et Repair Café**
 Nous avons organisé des ateliers gratuits ouverts au public :

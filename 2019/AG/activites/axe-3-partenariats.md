@@ -16,7 +16,7 @@ Nous entretenons des relations étroites avec par exemple le Pays d’Auray, via
 
  Relations qu’il faudra prolonger et élargir à de nouveaux partenaires, par exemple : AQTA, la Région Bretagne et également de nouveaux partenaires privés.
 
-![jsp](/50aebc71-0e72-401a-8141-24682587b47e.jpg){: width="500px" }
+![jsp](../images/DSC1375.jpg){: width="500px" }
 
 
 S’agissant des entreprises, La FABrique du Loch totalise une 50 adhésions (5 PME et 45 professions libérales, auto-entrepreneurs, artisans et artistes). Nous intervenons en tant que facilitateur de projet (mise à disposition des machines et des outils numériques, aide matérielle et technique).
@@ -32,14 +32,13 @@ Nous devrons donc :
 
 - et signer de nouvelles conventions de **mécénat**.
 
-
 Les résultats attendus sont une augmentation de l’utilisation des machines et de la location de l’atelier.
 Cet autofinancement doit contribuer à construire l’assise financière qui nous fait encore défaut.
 
 **Formation professionelle**
 Lors de notre précédente AG, nous avions évoqué la possibilité d’investir le champ de la f**ormation professionnelle**. Bien que nous soyons enregistrés depuis février 2018 auprès de la DIRECCTE en tant qu’organisme de formation professionnelle, nous n’avons pas encore développé cette activité. Alors que la formation à la découpe laser n’existe pas à ce jour, en région Bretagne.
 
-![workshop](../images/WorkshopBlend){: width="500px" }
+![cmoifab](../images/PI8.JPG)
 
 Dans le domaine du numérique, nous participons activement au réseau MIBS (Makers In Bretagne Sud) qui rassemble les acteurs de la fabrication numérique ouverte et collaborative en Bretagne Sud. Des exemples de collaboration vous sont présentés dans l’Axe 5.
 

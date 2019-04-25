@@ -31,19 +31,12 @@ Toujours dans l’objectif de contribuer à l’inclusion numérique par la déc
 - lycées de Chinon et de Duguesclin,
 - 1 conseiller en insertion du Conseil Départemental du Morbihan.
 
-**Evènements extérieurs**
-Concernant le **grand public,** nous avons participé à **divers événements extérieurs :**
-
-- les 20-21 janvier, lors d’un évènement de *Makers*, « le MIBS DAY » à Quiberon,  nous avons animé des stands de démonstrations et des ateliers d’activités collaboratives.
-- Des stands de démonstration pour des événements extérieurs autres que « maker » : Récréa’bric à Saint-Anne d’Auray le 30 mars,
-- JEMA (Journées Européennes des Métiers d’Art) à l’Argonaute, du 5 au 7 avril 2019
-
-
+![workshop](../images/WorkshopBlend.JPG){: width="500px" }
 
 **Communication**
 Dans le but d’accroitre la visibilité de nos activités, nous avons développé différents outils de communication. Nous avons ajouter des pages à notre site Internet, **étoffé notre FABLETTER****,** mensuel présentant le programme du mois à venir.
 
-Pour communiquer sur les projets, nous menons la campagne des bulles **“c’est moi qui l’ai FAB”** ou **“****c’est nous qui l’avons FAB”** (de la conception du support au collage) et nous diffusons l’information avec l’aide des réseaux concernés.
+Pour communiquer sur les projets, nous menons la campagne des bulles **“c’est moi qui l’ai FAB”** ou **“c’est nous qui l’avons FAB”** (de la conception du support au collage) et nous diffusons l’information avec l’aide des réseaux concernés.
 
 De plus, comme chaque année en septembre, nous avons participé au **Forum des associations** organisé par la ville d’Auray. Cet événement assez prisé par les habitants de notre communauté de communes a regroupé en 2018 une centaine d’associations alréennes.
 

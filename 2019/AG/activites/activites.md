@@ -10,7 +10,6 @@ Durant les treize mois de cet exercice, nous avons développé les activités su
 
 - **FAIRE** - Apprendre par le [Faire](axe-2-faire.md)
 
-
 - **PARTENARIATS** - [Faire vivre des partenariats](axe-3-partenariats.md)  entre les acteurs locaux (associations, établissements publics, collectivités territoriales et entreprises) et le mouvement des makers
 
 - **JEUNES** - [Accompagner des jeunes](axe-4-jeunes.md) dans leur démarche de professionnalisation

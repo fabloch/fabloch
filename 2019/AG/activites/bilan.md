@@ -54,3 +54,5 @@ Pour preuves :
 L’association a eu le plaisir de constater que nos valeurs d’échanges, de partage et de solidarité étaient communes aux représentants des fablabs du monde entier reçus lors de FAB14.
 
 ![FAB14](../images/FAB14-group.JPG){: width="600px"}
+
+[Nos axes de développement](activites.md)
