@@ -14,6 +14,8 @@ Le 26 AVRIL 2019 19h30
 
 - [L'ordre du jour de l'AGO](ordre-du-jour.md)
 
+![happiness](../images/happiness.JPG){: width="300px" }
+
 L'ensemble des points abordés:
 
 - [Le bilan](activites/bilan.md)
