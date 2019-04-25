@@ -29,7 +29,7 @@ Océane et Emeline ont toutes 2 pour mission de **lutter contre la fracture num�
 
 Ces jeunes représentent **une réelle plus-value** pour le fonctionnement du Fablab. Nous tenons à **les remercier** pour leur engagement, leurs compétences et, chacun à leur façon, pour leur bienveillance auprès des adhérents.
 
-![happiness](../images/happiness.jpg)
+![happiness](../images/happiness.jpg){: height="400px"}
 
 ## Stagiaires
 Concernant, l’accompagnement de stagiaires, nous sommes **de plus en plus sollicités**.
@@ -44,7 +44,7 @@ Ainsi,nous avons accueilli :
 
 - Et enfin, comme l’année précédente, des étudiant-es de l’université de Cergy Pontoise, FACLAB, Olivier et Camille. Cette dernière travaille sur un projet de facilitateur itinérant et interfablab (soit un total de 47 jours)
 
-![cmoifab](../images/RI3.jpg)
+![cmoifab](../images/RI3.jpg){: width="600px"}
 
 ## Publics fragilisés
 Pour la 1ère année l’accueil de publics fragilisés, ce qui représente **34 journées d’accompagnement** fait l’objet de conventions de stage avec :
