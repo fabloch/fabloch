@@ -20,6 +20,8 @@ La FDL a organisé 3 séances d’une journée avec les lycéens du Lycée Benja
 ## Des projets individuels développés grâce au fablab
 Création d’une imprimante 3D format XXL financée par Loïc pour la FDL et une autre pour la clinique vétérinaire de B. Franklin perm, deux projets mis au point par Fred… qui ne se limite pas à inventer; de plus, il accompagne des jeunes à découvrir leurs capacités à faire en apprenant à imaginer avec le dessin 3D, le paramétrage des machines.
 
+![cmoifab](../images/RIDynosoe.JPG.jpg){: width="500px"}
+
 ![cmoifab](../images/RI9.JPG){: width="500px" }
 
 ## L’accueil de CampTIC
