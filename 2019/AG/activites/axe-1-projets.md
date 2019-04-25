@@ -27,3 +27,5 @@ Création d’une imprimante 3D format XXL financée par Loïc pour la FDL et un
 ## L’accueil de CampTIC
 L’association lorientaise CampTIC a demandé au conseil d’administration l’autorisation d’héberge leurs controverses numériques dans les locaux de la FABrique du Loch; la requête a connu l’unanimité enthousiaste du conseil.
 CampTIC organise les controverses numériques, série de conférences abordant l'impact du numérique sur notre société, notre quotidien.
+
+![camptic](../images/camptic.JPG)
