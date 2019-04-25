@@ -1,6 +1,7 @@
-## PARTENARIATS - Faire vivre des partenariats entre les acteurs locaux (associations, établissements publics, collectivités territoriales et entreprises) et le mouvement des makers
+## PARTENARIATS - Faire vivre des partenariats entre les acteurs locaux et le mouvement des makers
 
-Ces partenariats ont pris en 2018 la forme de conventions signées avec des acteurs économiques, éducatifs et culturels du territoire, tels que:
+
+Ces partenariats ont pris en 2018 la forme de conventions signées avec des acteurs économiques, éducatifs et culturels du territoire (associations, établissements publics, collectivités territoriales et entreprises), tels que:
 - la ville d'Auray et le pays d’Auray,
 - le lycée des Métiers d’Art Duquesclin,
 - la MAL, la Mission locale du Pays d’Auray,
