@@ -46,3 +46,5 @@ La communication reste à privilégier pour le mandat à venir.
 Depuis le début de l’association, des tutoriels ont été créés sur l’utilisation des machines, leurs réglages et nous devons beaucoup à un bénévole investi, Ludo. Ces tutoriels ont été transcrits en documents publiés sur le web pour un accès plus facile à cette documentation et dans le respect de nos valeurs de partage.
 
 La création de contenu permet à la FABrique du loch d’augmenter sa visibilité sur l’Internet.
+
+![imp3d](../images/DSC_1375.JPG){: width="500px" }
