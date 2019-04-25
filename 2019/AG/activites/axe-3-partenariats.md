@@ -54,5 +54,3 @@ Des exemples de collaboration vous sont présentés [ici](axe-5-numerique).
 
 ## Menuiserie ODO
 Pour la réalisation des projets de nos adhérents, nous souhaitons pouvoir utiliser une gamme complète d’outils électriques et manuels de menuiserie. Ainsi, une convention avec la menuiserie ODO, située à Baden, est en cours de signature.
-
-![cmoiquilaifab](../images/PI4.JPG){: height="400px"}
