@@ -38,7 +38,7 @@ Cet autofinancement doit contribuer à construire l’assise financière qui nou
 **Formation professionelle**
 Lors de notre précédente AG, nous avions évoqué la possibilité d’investir le champ de la f**ormation professionnelle**. Bien que nous soyons enregistrés depuis février 2018 auprès de la DIRECCTE en tant qu’organisme de formation professionnelle, nous n’avons pas encore développé cette activité. Alors que la formation à la découpe laser n’existe pas à ce jour, en région Bretagne.
 
-![cmoifab](../images/PI8.JPG)
+![cmoifab](../images/PI8.JPG){: width="500px" }
 
 Dans le domaine du numérique, nous participons activement au réseau MIBS (Makers In Bretagne Sud) qui rassemble les acteurs de la fabrication numérique ouverte et collaborative en Bretagne Sud. Des exemples de collaboration vous sont présentés dans l’Axe 5.
 
