@@ -31,7 +31,7 @@ Toujours dans l’objectif de contribuer à l’inclusion numérique par la déc
 - lycées de Chinon et de Duguesclin,
 - 1 conseiller en insertion du Conseil Départemental du Morbihan.
 
-![workshop](../images/WorkshopBlend.JPG){: width="500px" }
+![workshop](../images/WorkshopBlend.JPG){: width="600px" }
 
 ## Communication
 Dans le but d’accroitre la visibilité de nos activités, nous avons développé différents outils de communication. Nous avons ajouter des pages à notre site Internet, **étoffé notre FABLETTER****,** mensuel présentant le programme du mois à venir.
@@ -47,4 +47,4 @@ Depuis le début de l’association, des tutoriels ont été créés sur l’uti
 
 La création de contenu permet à la FABrique du loch d’augmenter sa visibilité sur l’Internet.
 
-![imp3d](../images/DSC_1375.JPG){: width="500px" }
+![imp3d](../images/DSC_1375.JPG){: width="600px" }
