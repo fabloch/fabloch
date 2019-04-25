@@ -2,7 +2,7 @@
 
 *Donner à nos adhérents les compétences requises pour les nouveaux usages numériques*
 
-![cnousfab](,,/images/cnousfab.jpg){: width="500px" }
+![cnousfab](../images/cnousfab.jpg){: width="500px" }
 
 Nous touchons un public très varié aux demandes diverses : particuliers, scolaires, salariés, auto-entrepreneurs, entrepreneurs, artisans, associations, services techniques des collectivités.
 
