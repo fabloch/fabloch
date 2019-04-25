@@ -44,7 +44,7 @@ Ainsi,nous avons accueilli :
 
 - Et enfin, comme l’année précédente, des étudiant-es de l’université de Cergy Pontoise, FACLAB, Olivier et Camille. Cette dernière travaille sur un projet de facilitateur itinérant et interfablab (soit un total de 47 jours)
 
-![cmoifab](../images/RI3.jpg){: width="600px"}
+![cmoifab](../images/RI3.JPG){: width="600px"}
 
 ## Publics fragilisés
 Pour la 1ère année l’accueil de publics fragilisés, ce qui représente **34 journées d’accompagnement** fait l’objet de conventions de stage avec :
