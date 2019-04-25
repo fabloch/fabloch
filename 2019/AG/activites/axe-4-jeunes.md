@@ -13,7 +13,6 @@ Nous avons réitéré des visites de nos ateliers et présenté le fonctionnemen
 
 ![visites](../images/visites.JPG){: width="600px" }
 
-
 ## Services Civiques
 Depuis septembre 2017, dans le cadre d’un partenariat avec la **Mission Locale** du Pays d’Auray, La Fabrique du Loch accueille des jeunes volontaires en service civique pour une période de 9 mois (à raison de 26h hebdomadaires).
 
@@ -29,6 +28,8 @@ Ainsi, se sont succédés:
 Océane et Emeline ont toutes 2 pour mission de **lutter contre la fracture numérique**.
 
 Ces jeunes représentent **une réelle plus-value** pour le fonctionnement du Fablab. Nous tenons à **les remercier** pour leur engagement, leurs compétences et, chacun à leur façon, pour leur bienveillance auprès des adhérents.
+
+![happiness](../images/happiness.jpg)
 
 ## Stagiaires
 Concernant, l’accompagnement de stagiaires, nous sommes **de plus en plus sollicités**.

@@ -20,6 +20,8 @@ La FDL enregistre un succès certain, qui tient à :
 - le succès du DIY, « faire par soi-même et ensemble »
 - son ouverture à l’intergénérationnel et à la mixité sociale.
 
+![hurlomaton](../images/hurlomaton.jpg){: width="500px"}
+
 **B. Les compétences et les motivations** de son salarié, de ses bénévoles ainsi que des jeunes volontaires et stagiaires
 Fondateur et salarié de la FDL, Juju est à la fois l’âme et la mémoire du fablab. Il a toujours à cœur de vous accueillir, vous dépanner, … Il est épaulé par quelques bénévoles investis et par nos jeunes volontaires en services civiques qui animent quotidiennement le lieu.
 
