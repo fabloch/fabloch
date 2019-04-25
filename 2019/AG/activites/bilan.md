@@ -5,7 +5,7 @@ Ouverte au public **depuis avril 2016** et riche de quelque **300 adhérents**, 
 ## La Fabrique du Loch et ses valeurs
 ### Un succès certain
 
-![fablab](../images/fablab.jpg)
+![fablab](../images/fablab.jpg){: width="500px" }
 
 La FDL enregistre un succès certain, qui tient à :
 
