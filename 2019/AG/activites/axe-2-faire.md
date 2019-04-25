@@ -8,7 +8,7 @@ Nous touchons un public très varié aux demandes diverses : particuliers, scola
 
 La FABrique du Loch forme ses adhérents à l’utilisation de ses machines en visant leur autonomie technique et numérique. En 2018, près de 150 formations à l’utilisation des machines ont été dispensées, contre 120 en 2017.
 
-![cmoifab](../images/PIFAB.jpg){: width="500px"}
+![cmoifab](../images/PIFAB.JPG){: width="500px"}
 
 - A l’instar des précédentes années, la demande pour appréhender l’utilisation de la découpe laser a été majoritaire et a représenté en 2018 68 % des formations dispensées.
 
