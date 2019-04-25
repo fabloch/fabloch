@@ -12,15 +12,15 @@ Le 26 AVRIL 2019 19h30
 
 à la salle du Pehner
 
-- [L'ordre du jour de l'AGO](ordre-du-jour.md)
+- [L'ordre du jour de l'AGO](ordre-du-jour)
 
-![happiness](../images/happiness.JPG){: width="300px" }
+![happiness](images/happiness.JPG){: height="400px" }
 
 L'ensemble des points abordés:
 
-- [Le bilan](activites/bilan.md)
-- [Les différents axes de nos actions](activites/activites.md)
-- [Les orientations](activites/orientations.md)
+- [Le bilan](activites/bilan)
+- [Les différents axes de nos actions](activites/activites)
+- [Les orientations](activites/orientations)
 
 Vous voulez faire partie du Conseil d'Administration?
 
