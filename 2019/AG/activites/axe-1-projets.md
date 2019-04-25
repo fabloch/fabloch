@@ -8,9 +8,6 @@ Nous ne citerons pas tous les projets de ce mandat, mais nous évoquerons des pr
 
 ![AperoProjets](../images/AperProj.JPG){: width="500px"}
 
-![break](../images/50aebc71-0e72-401a-8141-24682587b47e.jpg)
-
-
 ## Séances de design thinking
 Lors du FAB14, à Toulouse, en juillet dernier, Sébastien a participé à un atelier de design thinking.
 A plusieurs reprises, il a eu l’occasion de partager cette méthode.

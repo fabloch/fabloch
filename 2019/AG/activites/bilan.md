@@ -2,8 +2,6 @@
 
 Ouverte au public depuis avril 2016 et riche de quelque **300 adhérents**, la FABrique du Loch (FDL) marque son empreinte sur le bassin du Sud-Morbihan. 6 jours par semaine, elle réunit un public intergénérationnel qui partage. En 2018, fait notable, elle reçoit plus de 70 représentants de fablabs lors de la conférence mondiale FAB14.
 
-![FAB14](../images/FAB14-group.JPG){: width="600px"}
-
 ## La Fabrique du Loch et ses valeurs
 ### Un succès certain
 
@@ -19,6 +17,8 @@ La FDL enregistre un succès certain, qui tient à :
 - la reconnaissance du droit à l’erreur qui facilite l’expérimentation
 - le succès du DIY, « faire par soi-même et ensemble »
 - son ouverture à l’intergénérationnel et à la mixité sociale.
+
+![visites](../images/visites.JPG){: width="600px" }
 
 **B. Les compétences et les motivations** de son salarié, de ses bénévoles ainsi que des jeunes volontaires et stagiaires
 Fondateur et salarié de la FDL, Juju est à la fois l’âme et la mémoire du fablab. Il a toujours à cœur de vous accueillir, vous dépanner, … Il est épaulé par quelques bénévoles investis et par nos jeunes volontaires en services civiques qui animent quotidiennement le lieu.
@@ -52,3 +52,5 @@ Pour preuves :
 - un mécénat indispensable qui reste à un niveau élevé (22% de nos ressources ou du CA… à vérifier).
 
 L’association a eu le plaisir de constater que nos valeurs d’échanges, de partage et de solidarité étaient communes aux représentants des fablabs du monde entier reçus lors de FAB14.
+
+![FAB14](../images/FAB14-group.JPG){: width="600px"}

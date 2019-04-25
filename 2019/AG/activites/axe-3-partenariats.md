@@ -1,25 +1,45 @@
 ## PARTENARIATS - Faire vivre des partenariats entre les acteurs locaux (associations, établissements publics, collectivités territoriales et entreprises) et le mouvement des makers
 
-Ces partenariats peuvent prendre la forme de conventions signées avec des acteurs économiques, éducatifs et culturels du territoire, tels que la ville d'Auray et le pays d’Auray, le lycée des Métiers d’Art Duquesclin, la MAL, la Mission locale du Pays d’Auray, le musée de Préhistoire de Carnac, l’Argonaute, Clim’actions Bretagne sud, le parc naturel du golfe du Morbihan, l’ENVSN, Enédis, etc. Nous entretenons des relations étroites avec par exemple le Pays d’Auray, via des réalisations concrètes (voir Axe 1). Relations qu’il faudra prolonger et élargir à de nouveaux partenaires, par exemple : AQTA, la Région Bretagne et également de nouveaux partenaires privés.
+Ces partenariats ont pris en 2018 la forme de conventions signées avec des acteurs économiques, éducatifs et culturels du territoire, tels que:
+- la ville d'Auray et le pays d’Auray,
+- le lycée des Métiers d’Art Duquesclin,
+- la MAL, la Mission locale du Pays d’Auray,
+- le musée de Préhistoire de Carnac,
+- l’Argonaute,
+- Clim’actions Bretagne sud,
+- le parc naturel du golfe du Morbihan,
+- l’ENVSN,
+- Enédis
+- la menuiserie ODO
+
+Nous entretenons des relations étroites avec par exemple le Pays d’Auray, via des réalisations concrètes (voir [projets](axe-1-projets.md)).
+
+ Relations qu’il faudra prolonger et élargir à de nouveaux partenaires, par exemple : AQTA, la Région Bretagne et également de nouveaux partenaires privés.
 
 ![jsp](/50aebc71-0e72-401a-8141-24682587b47e.jpg){: width="500px" }
 
-![workshop](../images/WorkshopBlend){: width="500px" }
 
-S’agissant des entreprises, La FDL totalise une cinquantaine d’adhésions (5 PME et 45 professions libérales, auto-entrepreneurs, artisans et artistes). Nous intervenons en tant que facilitateur de projet (mise à disposition des machines et des outils numériques, aide matérielle et technique).
+S’agissant des entreprises, La FABrique du Loch totalise une 50 adhésions (5 PME et 45 professions libérales, auto-entrepreneurs, artisans et artistes). Nous intervenons en tant que facilitateur de projet (mise à disposition des machines et des outils numériques, aide matérielle et technique).
 
 ![Partenaires](../images/partenaires.JPG){: width="500px" }
 
-Cette participation des entreprises est en augmentation par rapport à l’exercice précédent, mais elle doit encore se renforcer de manière à contribuer à la pérennité de l’association.
+Cette participation des entreprises est **en augmentation** par rapport à l’exercice précédent, mais elle doit encore se renforcer de manière à contribuer à la pérennité de l’association.
 
 Nous devrons donc :
 - **nous rapprocher des entreprises locales**, notamment de celles qui sont impliquées dans le nautisme et la plasturgie, potentiellement les plus concernées par le fablab;
 
+![](../images/RIlalou.jpg){: width="500px" }
+
 - et signer de nouvelles conventions de **mécénat**.
 
-Les résultats attendus sont une augmentation de l’utilisation des machines et de la location de l’atelier. Cet autofinancement doit contribuer à construire l’assise financière qui nous fait encore défaut.
 
-![](../images/RIlalou.jpg){: width="500px" }
+Les résultats attendus sont une augmentation de l’utilisation des machines et de la location de l’atelier.
+Cet autofinancement doit contribuer à construire l’assise financière qui nous fait encore défaut.
+
+**Formation professionelle**
+Lors de notre précédente AG, nous avions évoqué la possibilité d’investir le champ de la f**ormation professionnelle**. Bien que nous soyons enregistrés depuis février 2018 auprès de la DIRECCTE en tant qu’organisme de formation professionnelle, nous n’avons pas encore développé cette activité. Alors que la formation à la découpe laser n’existe pas à ce jour, en région Bretagne.
+
+![workshop](../images/WorkshopBlend){: width="500px" }
 
 Dans le domaine du numérique, nous participons activement au réseau MIBS (Makers In Bretagne Sud) qui rassemble les acteurs de la fabrication numérique ouverte et collaborative en Bretagne Sud. Des exemples de collaboration vous sont présentés dans l’Axe 5.
 
