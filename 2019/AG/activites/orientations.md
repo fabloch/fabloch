@@ -46,6 +46,9 @@ La matérialisation de l’adhésion par une carte a de nouveau été évoquée 
 ### Conforter les projets déja entrepris
 En 3 ans, la FABrique du Loch a été génératrice d’un grand nombre de projets impliquant souvent des acteurs très variés, de ses fabmanagers, à ses adhérents, ses bénévoles.
 
+Le faire étant dans l'ADN même, nous avons tendance à passer d'une action à une autre, en oubliant vite ce qui a déjà été réalisé.
+Certains projets comme le hurlomaton, le bac à sable numérique peuvent être catalyseurs et sources de revenus pour l'association.
+
 ![cmoifab](../images/PIfab2.jpg){: width="600px"}
 
 ### La sécurité
