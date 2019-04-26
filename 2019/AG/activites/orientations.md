@@ -34,7 +34,7 @@ Nos projets nous inscrivent directement dans la vie de la cité, par notre appro
 Cours de code, de Blender, d’Inskscape, de Sketchup, OpenStreetMap…
 Documentation en ligne
 
-![cmoifab](,,/images/RISkate2.jpg){: width="600px"}
+![cmoifab](../images/RISkate2.jpg){: width="600px"}
 
 ### Réduire l’esprit de consommation
 Le conseil d’administration a lors d’une de ses réunions, exprimé son doute sur le modèle constaté. D’une base certes solide de bénévoles fortement impliqués, certains adhérents ou public passe la porte du fablab pour une relation de services.
