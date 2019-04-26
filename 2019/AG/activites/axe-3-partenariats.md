@@ -11,14 +11,12 @@ Ces partenariats ont pris en 2018 la forme de conventions signées avec des acte
 - l’ENVSN,
 - Enédis
 
-10 associations sont adhérentes à la FDL.
-
 Nous entretenons des relations étroites avec par exemple le Pays d’Auray, via des réalisations concrètes (voir [projets](axe-1-projets)).
 
 Ces relations doivent être prolongées et élargies à de nouveaux partenaires comme AQTA, la Région Bretagne et également de nouveaux partenaires privés.
 
-## Entreprises
-S’agissant des entreprises, La FABrique du Loch totalise **35 adhésions** (10 PME et 24 professions libérales, auto-entrepreneurs, artisans et artistes).
+## Entreprises et associations
+S’agissant des entreprises, La FABrique du Loch totalise **35 adhésions** (10 entreprises ou institutions et 24 professions libérales, auto-entrepreneurs, artisans et artistes).
 
 Nous intervenons en tant que **facilitateur de projet** (mise à disposition des machines et des outils numériques, aide matérielle et technique).
 
