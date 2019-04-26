@@ -56,7 +56,7 @@ Pour preuves :
 - l’**implication de nouveaux adhérents** dans le fonctionnement du fablab,
 - un **mécénat** indispensable qui reste à un niveau élevé (**36% de nos financements**).
 
-![repartHF](,,/images/rHF.png){: width="400px" }
+![repartHF](../images/rHF.png){: width="400px" }
 
 L’association a également eu le plaisir de constater que nos valeurs d’échanges, de partage et de solidarité étaient communes aux représentants des fablabs du monde entier reçus lors de FAB14.
 
