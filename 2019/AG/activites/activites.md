@@ -6,6 +6,10 @@ Durant les treize mois de cet exercice, nous avons développé les activités su
 
 ## Les axes de notre projet associatif
 
+![Fred](../images/FredImp3D.JPG){: width="250px" }
+![soireejeunes](../images/SoiJeunLead.JPG){: width="250px" }
+![sandbox](../images/sandbox.JPG){: width="250px" }
+
 - **PROJETS** - Concevoir, réaliser et/ou accompagner des [projets innovants](axe-1-projets.md)
 
 - **FAIRE** - Apprendre par le [Faire](axe-2-faire.md)
@@ -17,10 +21,6 @@ Durant les treize mois de cet exercice, nous avons développé les activités su
 - **NUMERIQUE** – Sensibiliser aux [nouveaux usages numériques](axe-5-numerique.md) en réduisant les obstacles culturels et/ou sociauxs
 
 - **TERRITOIRES** - [Contribuer au développement durable et à la capacité de résilience des territoires](axe-6-territoires.md)
-
-![Fred](../images/FredImp3D.JPG){: width="250px" }
-![soireejeunes](../images/SoiJeunLead.JPG){: width="250px" }
-![sandbox](../images/sandbox.JPG){: width="250px" }
 
 Ces activités n’auraient pas pu exister sans **l’aide des bénévoles, leur disponibilité, leurs compétences** (et il existe un très beau panel de compétences à la FDL) et surtout leurs envies. **Un grand merci à eux**, certains ont vraiment tout donné!
 
