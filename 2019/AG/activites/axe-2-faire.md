@@ -1,4 +1,4 @@
-## FAIRE - Apprendre par le Faire
+# FAIRE - Apprendre par le Faire
 
 *Donner à nos adhérents les compétences requises pour les nouveaux usages numériques*
 
@@ -36,7 +36,7 @@ Depuis mars 2019, une formation a été conçue et dispensée par Antoine et Arn
 
 Des synergies autour du code se développent. Seb, un bénévole ne comptant pas ses heures, a permis à d’autres adhérents, et services civiques de découvrir l’univers du code en ligne. Depuis mars, les enfants découvrent le quotidien d’un codeur, éditeurs de texte et partage du code. Quelques adultes aussi.
 
-### Le Break
+## Le Break
 En janvier, la FABrique a fait **le Break**!
 3 semaines de partage autour d'activités culturelles et sportives, sous forme d'un jeu
 
