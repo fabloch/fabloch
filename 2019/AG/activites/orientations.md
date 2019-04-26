@@ -61,7 +61,7 @@ Nous devons aussi mieux organiser notre communication auprès des entreprises lo
 
 ![cmoifab](../images/RI10.JPG){: width="150px" }
 ![cmoifab](../images/RI10b.jpg){: width="150px" }
-![cmoifab](../images/RImp3D.JPG){: width="150px" }
+![cmoifab](../images/RIImp3D.JPG){: width="150px" }
 
 ### Maintenance informatique
 Nous disposons d’un nombre important de postes de travail (une vingtaine); ils constituent **les fondations indispensables** de toute activité numérique.
