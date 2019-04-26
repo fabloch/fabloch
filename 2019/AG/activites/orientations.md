@@ -19,7 +19,7 @@ Rappelons qu'un Fablab est un prolongement des actions culturelles comme l'ouver
 bibliothèque au siècle dernier, d'une médiathéque depuis quelques décennies.
 Initiative citoyenne, il est indispensable que la Fabrique reste indépendante.
 
-![makeEcology](makeEcology.jpg)
+![makeEcology](../images/makeEcology.jpg){: width="600px"}
 
 ## Les axes d’amélioration
 
@@ -58,6 +58,10 @@ La FABrique du Loch est un vivier incroyable où beaucoup d’énergie est dispe
 Nous avons toutefois encore du mal à attirer à nos évènements un plus large public qu’un noyau d’adhérents.
 
 Nous devons aussi mieux organiser notre communication auprès des entreprises locales, axe pour concrétiser nos efforts comme organisme de formation professionnelle.
+
+![cmoifab](../images/RI10.JPG){: width="150px" }
+![cmoifab](../images/RI10b.jpg){: width="150px" }
+![cmoifab](../images/RImp3D.JPG){: width="150px" }
 
 ### Maintenance informatique
 Nous disposons d’un nombre important de postes de travail (une vingtaine); ils constituent **les fondations indispensables** de toute activité numérique.
