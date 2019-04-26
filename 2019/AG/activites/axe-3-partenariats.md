@@ -24,6 +24,8 @@ Nous intervenons en tant que **facilitateur de projet** (mise à disposition des
 
 Cette participation des entreprises est **en augmentation** par rapport à l’exercice précédent, mais elle doit encore se renforcer de manière à contribuer à la pérennité de l’association.
 
+![parstatut](../images/adherparstatut.png){: width="500px"}
+
 Nous devrons donc :
 - **nous rapprocher des entreprises locales**, notamment de celles qui sont impliquées dans **le nautisme et la plasturgie**, potentiellement les plus concernées par le fablab;
 
