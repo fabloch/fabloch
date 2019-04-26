@@ -1,7 +1,7 @@
 # Ordre du jour AG 2019
 Introduction par notre présidente: Marie Dubois
 
--  Validation du [compte-rendu de l’AG du 13 avril 2018](pv-ag-2018.pdf)
+-  Validation du [PV de l’AG du 13 avril 2018](pv-ag-2018.pdf)
 
 ## Bilan 2018
 A **19h30**, salle Penher
