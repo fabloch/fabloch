@@ -41,7 +41,7 @@ Qui peut-on croiser à La FABrique du Loch ?
 ![Juju](assets/images/membres/juju-NB.jpg)
 
 ## Services Civiques
-- Lucas
+- Emeline
 - Océane
 
 # Le Bureau de l'Association
