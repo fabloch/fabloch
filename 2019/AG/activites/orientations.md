@@ -75,22 +75,23 @@ Nous devons aussi mieux organiser notre communication auprès des entreprises lo
 ### Maintenance informatique
 Nous disposons d’un nombre important de postes de travail (une vingtaine); ils constituent **les fondations indispensables** de toute activité numérique.
 
-Comme tout système informatique, même basé sur un systèmes libres (GNU/Linux) solides, le parc informatique de la Fabrique requiert de l'entretien. Ouvert sur l’extérieur il nécessite des mises à jour système régulières.
+Comme toute infrastructure informatique, même basée sur un système d'exploitation libre solide **(GNU/Linux)**, le parc informatique de la Fabrique requiert de l'entretien:
 
-En interne (réseau local), le choix et le paramétrage d’applicatifs pour effectuer toutes les tâches qui ne sont pas en liaison directe avec les machines (bureautique, dessin 2D et 3D et extensions, gestion des images…), nouveaux ordinateurs…
+- En interne, le choix et le paramétrage d’applicatifs pour la bureautique, le dessin 2D et 3D, la gestion des images;
+- La mise en place de nouveaux ordinateurs par des images système standardisées;
+- La gestion du réseau local (notamment l'accès au réseau depuis l'extérieur);
+- Ouvert sur l’extérieur, des mises à jour système régulières pour assurer la sécurité de l'ensemble du parc.
 
-Cet entretien indispensable manque cruellement de personnes pour assurer ces tâches qui seules peuvent assurer la pérennité du parc.
-
-À développer : un accès au réseau local depuis l’extérieur.
+Cet entretien indispensable manque cruellement de compétences pour assurer **la pérennité du parc informatique**.
 
 ### La fracture numérique
 La FABrique du Loch, comme toute organisation aujourd’hui, vit tous les jours **ses propres fractures numériques**. Des adhérents dont l'informatique est le quotidien à d'autres découvrant tout juste les ordinateurs, l'association construit des passerelles, le faire comme support à ces rencontres numériques.
 
 #### Organisation
-Nous progressons. Les conseils d’administration sont réguliers, sur un rythme soutenu, une fois par mois. Un ordre du jour est préparé sur une plateforme d’édition collaborative, puis complété lors de la réunion pour être, depuis peu, publié sur le web à son approbation.
+Nous progressons. Les conseils d’administration sont réguliers, sur un rythme soutenu, une fois par mois. Un ordre du jour est préparé sur une plateforme d’**édition collaborative**, puis complété lors de la réunion pour être, depuis peu, publié sur le web à son approbation.
 
 #### Documentation
-Depuis peu, les tutoriels stockés sur le serveur NAS ont été transcrits en fichiers publiés sur le web. Des cours autour de ces techniques sont dispensés depuis peu. Le partage de connaissances étant l'un de nos principaux objets, nous nous devons de renforcer la documentation des projets, des expériences vécues au Fablab.
+Depuis peu, les **tutoriels** stockés sur le serveur NAS ont été transcrits en fichiers publiés sur le web. Des cours autour de ces techniques sont dispensés depuis peu. Le partage de connaissances étant l'un de nos principaux objets, nous nous devons de renforcer la documentation des projets, des expériences vécues au Fablab.
 
 #### Comptabilité
 L’organisation de la comptabilité de la FABrique est en complète révision avec la mise en place d'un ERP, Dolibarr. Afin de faciliter le rapprochement entre la tenue comptable quotidienne et les imputations par notre Trésorière, Seb, encore lui, a mis en place un outil de comptabilité en ligne. Cet outil complet nous permet de gérer petit à petit différents pans de notre activité.
