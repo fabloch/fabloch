@@ -35,9 +35,9 @@ Nous devrons donc :
 
 Les résultats attendus sont une augmentation de l’utilisation des machines et de la location de l’atelier.
 
-![cmoifab](../images/RIDynosoe.JPG){: width="500px"}
-
 Cet autofinancement doit contribuer à construire l’assise financière qui nous fait encore défaut.
+
+![cmoifab](../images/RIDynosoe.JPG){: width="500px"}
 
 ## Formation professionelle
 Lors de notre précédente AG, nous avions évoqué la possibilité d’investir le champ de la **formation professionnelle**. Bien que nous soyons enregistrés depuis février 2018 auprès de la DIRECCTE en tant qu’organisme de formation professionnelle, nous n’avons pas encore développé cette activité.

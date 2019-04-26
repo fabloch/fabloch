@@ -17,7 +17,6 @@ Nous avons réitéré des visites de nos ateliers et présenté le fonctionnemen
 Depuis septembre 2017, dans le cadre d’un partenariat avec la **Mission Locale** du Pays d’Auray, La Fabrique du Loch accueille des jeunes volontaires en service civique pour une période de 9 mois (à raison de 26h hebdomadaires).
 
 Ainsi, se sont succédés:
-
 - Jusqu’à fin janvier 2018, Emile et Alexis
 - Puis Charline (15 février 2018 - 14 novembre 2018),
 - Lucas (1er juin 2018 - 28 février 2019) et
