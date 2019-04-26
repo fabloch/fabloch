@@ -1,23 +1,29 @@
 # Orientations 2019
 
 La Fabrique du Loch, après 3 ans d'existence, doit aborder une nouvelle étape.
-Dès la première année, nous avons réuni près de 250 adhérents, 300 aujourd'hui.
+
+Dès la première année, nous avons réuni près de 200 adhérents, 320 aujourd'hui.
+
 Des personnes en recherche de faire, des entreprises en recherche de compétences.
 
 Le parc de machines, les heures d'ouverture font de La Fabrique du Loch un des fablabs
 les plus accueillants. Elle le doit à ses fondations même, quand un groupe d'amis décident
-de monter ce projet en dehors de tout cadre universitaire ou par volonté politique.
+de monter ce projet en dehors de tout cadre universitaire ou volonté politique.
 
 Aujourd'hui, le conseil municipal d'Auray soutient l'association en lui fournissant des locaux
 hors du commun, en centre-ville, comme c'était le souhait des fondateurs.
+
 Mais l'association reste toutefois dans un équilibre financier fragile.
-Endettée, elle doit aujourd'hui apurer ses comptes dans un environnement où les subventions
+
+**Endettée**, elle doit aujourd'hui **apurer ses comptes** dans un environnement où les subventions
 sont encore difficiles à capter, malgré la correspondance entre les missions de l'association
-et les volontés politiques de lutter contre la fracture numérique.
+et les volontés politiques depuis peu de favoriser les tiers-lieux et de lutter contre la fracture numérique.
 
 Rappelons qu'un Fablab est un prolongement des actions culturelles comme l'ouverture d'une
 bibliothèque au siècle dernier, d'une médiathéque depuis quelques décennies.
-Initiative citoyenne, il est indispensable que la Fabrique reste indépendante.
+
+**Initiative citoyenne**, il est indispensable que la Fabrique reste indépendante.
+
 
 ![makeEcology](../images/makeEcology.jpg){: width="600px"}
 
@@ -28,7 +34,9 @@ Comme ce rapport d’activités le démontre, la FABrique du Loch a une nouvelle
 Mais nous peinons à trouver un équilibre financier.
 
 ### Renforcer nos liens avec les acteurs locaux
-Nos projets nous inscrivent directement dans la vie de la cité, par notre approche de l'éducation, de la relation entrepreneuriale. Nous sommes l'interlocuteur privilégié des acteurs locaux pour aborder les sujets de l'inclusion numérique, du rapport aux technologies.
+Nos projets nous inscrivent directement dans la vie de la cité, par notre approche de l'éducation, de la relation entrepreneuriale.
+
+Nous sommes aujourd'hui **l'interlocuteur privilégié** des acteurs locaux pour aborder les sujets de l'inclusion numérique, du rapport aux technologies.
 
 ### Renforcer notre partage des savoirs
 Cours de code, de Blender, d’Inskscape, de Sketchup, OpenStreetMap…
@@ -60,7 +68,7 @@ La FABrique du Loch est un vivier incroyable où beaucoup d’énergie est dispe
 
 Nous avons toutefois encore du mal à attirer à nos évènements un plus large public qu’un noyau d’adhérents.
 
-Nous devons aussi mieux organiser notre communication auprès des entreprises locales, axe pour concrétiser nos efforts comme organisme de formation professionnelle.
+Nous devons aussi mieux organiser notre communication auprès des entreprises locales, axe pour concrétiser nos efforts comme **organisme de formation professionnelle**.
 
 ![cmoifab](../images/RI10.JPG){: width="150px" }
 ![cmoifab](../images/RI10b.jpg){: width="150px" }

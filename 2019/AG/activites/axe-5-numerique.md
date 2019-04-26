@@ -50,3 +50,16 @@ Depuis le début de l’association, des tutoriels ont été créés sur l’uti
 La création de contenu permet à la FABrique du loch d’augmenter sa visibilité sur l’Internet.
 
 ![imp3d](../images/DSC_1375.JPG){: width="600px" }
+
+#### Le projet Algoric
+Benoit, un adhérent expert en calcul parallèle, a su enthousiasmer l’ensemble du conseil d’administration à expérimenter le recyclage de machines à forte capacité de calcul au sein d’un fablab.
+
+Nous n’avons pas encore trouvé de lieu pour héberger ces machines, nécessitant un environnement spécifique que l’on peut retrouver
+
+Nous avons pour le moment quelques promesses d’utilisation par des entreprises locales, mais les conditions d’hébergement peuvent impacter le prix de l’heure de calcul.
+
+Il a été établi au lancement de ce projet que le prix ne saurait être très inférieur aux solutions existantes privées.
+
+Il s'agit d'un très beau projet, qui pourrait faire de La FABrique du Loch un des tout premiers **Hyperlabs** au monde.
+
+![hyperlab](../images/hyperlab.JPG)

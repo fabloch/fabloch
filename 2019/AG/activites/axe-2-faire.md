@@ -25,16 +25,15 @@ L’apprentissage passe aussi par des ateliers informatiques généralement grat
 - image vectorielle Inkscape,
 - dessin 3D Blender.
 
-Au total, une vingtaine d'ateliers ont été organisés tout au long de l’année et notamment le mardi soir.
-
-Des ateliers matelotages, ainsi que des “close up” ateliers de magie ont eu lieu également toute l’année 2018.
+Au total, plus de **20 ateliers** ont été organisés tout au long de l’année et notamment le mardi soir.
+Des ateliers matelotages, ainsi que des “close up”, ateliers de magie, ont eu lieu également toute l’année 2018.
 
 Ils ont permis de transmettre des savoirs et des expériences.
 
 ### Code LAB et Wanabicodeur
 Depuis mars 2019, une formation a été conçue et dispensée par Antoine et Arnaud, de manière à apprendre à nos adhérents volontaires à coder en vue de la création de sites Web, d'applications mobiles (Android, iOS ...), de logiciels pour PC & Mac, de logiciels embarqués (Arduino...).
 
-Des synergies autour du code se développent. Seb, un bénévole ne comptant pas ses heures, a permis à d’autres adhérents, et services civiques de découvrir l’univers du code en ligne. Depuis mars, les enfants découvrent le quotidien d’un codeur, éditeurs de texte et partage du code. Quelques adultes aussi.
+Des synergies autour du code se développent. Seb, un bénévole ne comptant pas ses heures, a permis à d’autres adhérents, et services civiques de découvrir l’univers du code en ligne. Depuis mars, les enfants (quelques adultes aussi) découvrent le quotidien d’un codeur, éditeurs de texte et partage du codes à l'atelier Wanabicodeur (merci **Arto** pour le nom de la formation).
 
 ## Le Break
 En janvier, la FABrique a fait **le Break**!
