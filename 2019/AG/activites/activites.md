@@ -18,9 +18,9 @@ Durant les treize mois de cet exercice, nous avons développé les activités su
 
 - **TERRITOIRES** - [Contribuer au développement durable et à la capacité de résilience des territoires](axe-6-territoires.md)
 
-![Fred](../images/FredImp3D.JPG){: width="300px" }
-![soireejeunes](../images/SoiJeunLead.JPG){: width="300px" }
-![sandbox](../images/sandbox.JPG){: width="300px" }
+![Fred](../images/FredImp3D.JPG){: width="250px" }
+![soireejeunes](../images/SoiJeunLead.JPG){: width="250px" }
+![sandbox](../images/sandbox.JPG){: width="250px" }
 
 Ces activités n’auraient pas pu exister sans **l’aide des bénévoles, leur disponibilité, leurs compétences** (et il existe un très beau panel de compétences à la FDL) et surtout leurs envies. **Un grand merci à eux**, certains ont vraiment tout donné!
 

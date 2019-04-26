@@ -18,7 +18,9 @@ Nous entretenons des relations étroites avec par exemple le Pays d’Auray, via
 Ces relations doivent être prolongées et élargies à de nouveaux partenaires comme AQTA, la Région Bretagne et également de nouveaux partenaires privés.
 
 ## Entreprises
-S’agissant des entreprises, La FABrique du Loch totalise une 50 adhésions (5 PME et 45 professions libérales, auto-entrepreneurs, artisans et artistes). Nous intervenons en tant que facilitateur de projet (mise à disposition des machines et des outils numériques, aide matérielle et technique).
+S’agissant des entreprises, La FABrique du Loch totalise **50 adhésions** (5 PME et 45 professions libérales, auto-entrepreneurs, artisans et artistes).
+
+Nous intervenons en tant que **facilitateur de projet** (mise à disposition des machines et des outils numériques, aide matérielle et technique).
 
 ![Partenaires](../images/partenaires.JPG){: width="500px" }
 

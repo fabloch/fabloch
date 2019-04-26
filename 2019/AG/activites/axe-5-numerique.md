@@ -38,6 +38,8 @@ Dans le but d’accroitre la visibilité de nos activités, nous avons développ
 
 Pour communiquer sur les projets, nous menons la campagne des bulles **“c’est moi qui l’ai FAB”** ou **“c’est nous qui l’avons FAB”** (de la conception du support au collage) et nous diffusons l’information avec l’aide des réseaux concernés.
 
+![cmoifab](../images/RI10a.jpg){: width="600px" }
+
 De plus, comme chaque année en septembre, nous avons participé au **Forum des associations** organisé par la ville d’Auray. Cet événement assez prisé par les habitants de notre communauté de communes a regroupé en 2018 une centaine d’associations alréennes.
 
 La communication reste à privilégier pour le mandat à venir.

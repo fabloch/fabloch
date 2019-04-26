@@ -34,6 +34,8 @@ Nos projets nous inscrivent directement dans la vie de la cité, par notre appro
 Cours de code, de Blender, d’Inskscape, de Sketchup, OpenStreetMap…
 Documentation en ligne
 
+![cmoifab](,,/images/RISkate2.jpg){: width="600px"}
+
 ### Réduire l’esprit de consommation
 Le conseil d’administration a lors d’une de ses réunions, exprimé son doute sur le modèle constaté. D’une base certes solide de bénévoles fortement impliqués, certains adhérents ou public passe la porte du fablab pour une relation de services.
 
@@ -44,7 +46,7 @@ La matérialisation de l’adhésion par une carte a de nouveau été évoquée 
 ### Conforter les projets déja entrepris
 En 3 ans, la FABrique du Loch a été génératrice d’un grand nombre de projets impliquant souvent des acteurs très variés, de ses fabmanagers, à ses adhérents, ses bénévoles.
 
-![cmoifab](../images/PIfab2.jpg){: width="500px"}
+![cmoifab](../images/PIfab2.jpg){: width="600px"}
 
 ### La sécurité
 Les machines mis à disposition des adhérents impliquent le respect de règles de sécurité. Des formations sont dispensées régulièrement pour permettre une autonomie de la part de nos adhérents dans la réalisation de pièces.
