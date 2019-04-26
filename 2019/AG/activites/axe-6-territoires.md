@@ -33,5 +33,7 @@ Nous avons organisé des ateliers gratuits ouverts au public :
 ## Openstreetmap
 Antoine nous a rejoint avec des compétences en code et en plateforme collaborative de cartographie. C’est un terrain de jeu qui s’ouvre pour tout enfant et adulte qui souhaite découvrir facilement l’intérêt de la cartographie, sur la base de la base de données cartographique contributive OpenStreetMap. Une première OpenStreetMap party a été organisée.
 
+## Répartition des nos adhérents
+Inscrite dans le pays d'Auray, la FABrique du Loch compte de nombreux adhérents de Vannes à Lorient jusqu'au delà de la France métropole.
 
 ![carto](../images/CARTE.png)
