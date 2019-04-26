@@ -20,7 +20,9 @@ L'ensemble des points abordés:
 
 - [Le bilan](activites/bilan)
 - [Les différents axes de nos actions](activites/activites)
+- [Le bilan financier](activittes/bilan-financier)
 - [Les orientations](activites/orientations)
+- [Election du CA](ca)
 
 Vous voulez faire partie du Conseil d'Administration?
 
