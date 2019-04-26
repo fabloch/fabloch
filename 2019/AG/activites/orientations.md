@@ -2,12 +2,11 @@
 
 La Fabrique du Loch, après 3 ans d'existence, doit aborder une nouvelle étape.
 
-Dès la première année, nous avons réuni près de 200 adhérents, 320 aujourd'hui.
-
-Des personnes en recherche de faire, des entreprises en recherche de compétences.
+Dès la première année, nous avons réuni près de 200 adhérents, 320 aujourd'hui:
+des personnes en recherche de faire et de partage, des entreprises en recherche de compétences.
 
 Le parc de machines, les heures d'ouverture font de La Fabrique du Loch un des fablabs
-les plus accueillants. Elle le doit à ses fondations même, quand un groupe d'amis décident
+les plus accueillants. Elle le doit aussi et surtout à ses fondations même, quand un groupe d'amis décident
 de monter ce projet en dehors de tout cadre universitaire ou volonté politique.
 
 Aujourd'hui, le conseil municipal d'Auray soutient l'association en lui fournissant des locaux
@@ -24,7 +23,6 @@ bibliothèque au siècle dernier, d'une médiathéque depuis quelques décennies
 
 **Initiative citoyenne**, il est indispensable que la Fabrique reste indépendante.
 
-
 ![makeEcology](../images/makeEcology.jpg){: width="600px"}
 
 ## Les axes d’amélioration
@@ -33,10 +31,10 @@ bibliothèque au siècle dernier, d'une médiathéque depuis quelques décennies
 Comme ce rapport d’activités le démontre, la FABrique du Loch a une nouvelle fois concrétisé de nombreuses rencontres, de nombreux projets.
 Mais nous peinons à trouver un équilibre financier.
 
-### Renforcer nos liens avec les acteurs locaux
+### Renforcer nos liens avec les acteurs locaux et les entreprises
 Nos projets nous inscrivent directement dans la vie de la cité, par notre approche de l'éducation, de la relation entrepreneuriale.
 
-Nous sommes aujourd'hui **l'interlocuteur privilégié** des acteurs locaux pour aborder les sujets de l'inclusion numérique, du rapport aux technologies.
+Nous sommes aujourd'hui **l'interlocuteur privilégié** des acteurs locaux pour aborder les sujets de l'inclusion numérique, du rapport aux technologies, mais nous devons aussi devenir une source d'enrichissement pour les entreprises locales.
 
 ### Renforcer notre partage des savoirs
 Cours de code, de Blender, d’Inskscape, de Sketchup, OpenStreetMap…
