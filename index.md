@@ -11,6 +11,7 @@ Trois bonnes raisons d'adhérer à La FABrique du Loch
 ## La **sandbox**!
 
 ![Sandbox](assets/images/sandbox/Sandbox.jpg){: width="500px" }
+
 Quelques heures de jeu pour les enfants de tout âge, de 2 ans à 80!
 
 Pour comprendre le relief et son implication dans la montée des océans
