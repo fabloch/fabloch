@@ -55,6 +55,7 @@ Il est préférable d'utiliser la syntaxe ./pictures/party.jpg qui indique que v
 
 ```
 ./pictures/party.jpg
+
 ```
 
 Depuis la page /2019/birthday.md, le code ci dessus adresse http://monsite.adresse/2019/pictures/party.jpg
