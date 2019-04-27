@@ -24,6 +24,26 @@ Texte en **Gras** ou _Italique_ ou `Code`
 1. Liste
 2. Numérotée
 
+### Créer des liens vers d'autres pages, des Images
+
+#### Pour les pages et fichiers sur votre propre site
+Inutile de spécifier des liens absolus (avec le scheme http), il suffit de spécifier le chemin vers l'url ciblée.
+
+Depuis le répertoire racine du site:
+```
+/pictures/party.jpg = http://monsite.adresse/pictures/party.jpg
+```
+
+Il est préférable d'utiliser la syntaxe ./pictures/party.jpg qui indique que vous commencez le chemin depuis le répertoire de la page en cours.
+
+```
+./pictures/party.jpg
+```
+
+Depuis la page /2019/birthday.md aura pour adresse http://monsite.adresse/2019/pictures/party.jpg
+
+
+### Un bloc de code (comme ci-dessus)
 ```
 
 markdown
@@ -32,7 +52,6 @@ Voici un bloc de code.
 Le bloc sera automatiquement créé, voir plus bas).
 
 ```
-
 
 Ces styles sont obtenus très simplement par quelques caractères spéciaux:
 
@@ -74,6 +93,7 @@ Du code dans ce bloc
 
 
 De nombreux contributeurs ont créé des packages pour améliorer Atom, notamment sur le traitement du texte markdown.
+
 
 https://atom.io/packages/markdown-writer
 
