@@ -26,6 +26,23 @@ Texte en **Gras** ou _Italique_ ou `Code`
 
 ### Créer des liens vers d'autres pages, des Images
 
+Pour créer un lien vers une autre page
+```
+[Lien](url)
+```
+
+Pour ajouter une image à la page courante
+```
+![Image](src)
+```
+
+Les images ont souvent besoin d'être redimensionnées.
+
+Il est possible de le faire directement en contrôlant sa largeur:
+```
+![Image](src){: width="600px"}
+```
+
 #### Pour les pages et fichiers sur votre propre site
 Inutile de spécifier des liens absolus (avec le scheme http), il suffit de spécifier le chemin vers l'url ciblée.
 
@@ -40,7 +57,8 @@ Il est préférable d'utiliser la syntaxe ./pictures/party.jpg qui indique que v
 ./pictures/party.jpg
 ```
 
-Depuis la page /2019/birthday.md aura pour adresse http://monsite.adresse/2019/pictures/party.jpg
+Depuis la page /2019/birthday.md, le code ci dessus adresse http://monsite.adresse/2019/pictures/party.jpg
+
 
 
 ### Un bloc de code (comme ci-dessus)
@@ -68,9 +86,6 @@ Texte en **Gras** ou _Italique_ ou `Code`
 1. Liste
 2. Numérotée
 
-[Lien](url)
-
-![Image](src)
 ```
 
 Il est aussi possible de créer des tableaux et bien d'autres éléments.
