@@ -40,9 +40,7 @@ Pour communiquer sur les projets, nous menons la campagne des bulles **“c’es
 
 ![cmoifab](../images/RI10a.jpg){: width="600px" }
 
-De plus, comme chaque année en septembre, nous avons participé au **Forum des associations** organisé par la ville d’Auray. Cet événement assez prisé par les habitants de notre communauté de communes a regroupé en 2018 une centaine d’associations alréennes.
-
-La communication reste à privilégier pour le mandat à venir.
+**La communication reste à privilégier** pour le mandat à venir.
 
 ## La réalisation de tutoriels
 Depuis le début de l’association, des tutoriels ont été créés sur l’utilisation des machines, leurs réglages et nous devons beaucoup à un bénévole qui s'est beaucoup investi pour la Fabrique, Ludo. Ces tutoriels ont été transcrits en documents **publiés sur le web** pour un accès plus facile à cette documentation et dans le respect de nos valeurs de partage.
@@ -50,6 +48,21 @@ Depuis le début de l’association, des tutoriels ont été créés sur l’uti
 La création de contenu permet à la FABrique du loch d’augmenter sa visibilité sur l’Internet.
 
 ![imp3d](../images/DSC_1375.JPG){: width="600px" }
+
+### Questions
+#### Documentation et propriété intellectuelle
+Qu'en est-il d'un projet dont on souhaite conserver la propriété intellectuelle?
+
+**Un projet non documenté est inexistant pour le Fablab**
+
+Les projets réalisés à la FABrique
+
+
+#### Créations de vidéos
+Des adhérents ont rappelé qu'il est possible aussi de créer des vidéos.
+Le Conseil d'Administration rappelle que cela a été étudié lors d'une mandature précédente et qu'il avait été constaté que la création d'une vidéo de qualité nécessitait trop d'efforts.
+
+
 
 #### Le projet Algoric
 Benoit, un adhérent expert en calcul parallèle, a su enthousiasmer l’ensemble du conseil d’administration à expérimenter le recyclage de machines à forte capacité de calcul au sein d’un fablab.

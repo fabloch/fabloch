@@ -9,7 +9,8 @@ Ces partenariats ont pris en 2018 la forme de conventions signées avec des acte
 - Clim’actions Bretagne sud,
 - le parc naturel du golfe du Morbihan,
 - l’ENVSN,
-- Enédis
+- Enédis,
+- Orange
 
 Nous entretenons des relations étroites avec par exemple le Pays d’Auray, via des réalisations concrètes (voir [projets](axe-1-projets)).
 

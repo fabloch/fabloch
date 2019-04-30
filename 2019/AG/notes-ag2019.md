@@ -35,6 +35,7 @@ Vote: voté à l'unanimité
 ## Axes de développements
 
 6 Axes
+
 ### Jeunes : accompagner leurs projets de professionnalisation
 
 Services civiques : apport important pour la FDL
@@ -75,12 +76,12 @@ Expertise local
 Remarques : documentation : manque un support
 Regret : manque électronique / robotique
 
-Projets:
+## Projets
 Apéros projets
 Séances de Design Thinking
 Projets personnel
 
-####CampTIC
+###CampTIC
 Remarques : Camptic rappelle la force de tiers lieu / des rendez vous futurs
 
 

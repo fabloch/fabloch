@@ -1,4 +1,6 @@
-# Bilan financier 2018
+# Bilan Financier 2018 et budget prévisionnel 2019
+
+## Bilan 2018
 
 Malgré les nombreuses activités que nous avons développées durant ce mandat, nous rencontrons toujours des difficultés financières ne nous permettant pas de rembourser nos dettes. La phase critique de trois ans de fonctionnement n’a pas permis d’asseoir un fonds de trésorerie, ce qui fragilise la pérennité de l’association.
 
@@ -9,8 +11,6 @@ Quelques éléments:
 ![recettes](../images/recettes.png)
 
 ![repartition](../images/repartition.png)
-
-## Bilan 2018
 
 |----------------------------------|-------:|------:|------------------------------------------|-------:|--------:|
 | PRODUITS                         |  2018	| 2017	|    CHARGES                               |  2018  |   2017  |
@@ -38,7 +38,21 @@ Quelques éléments:
 |                                  |        |       |                                          |  -636	| -11507  |
 |----------------------------------|--------|-------|------------------------------------------|--------|---------|
 
+### Questions
+Aucune question
+
+### Vote
+Le Bilan Financier a été voté à l'unanimité
+
+
 ## Budget prévisionnel
+
+Le budget prévisionnel a été construit à partir des hypothèses suivantes:
+- Continuité des postes en conformité avec les années 2017 et 2018
+- Des dons en accord avec ceux reçus en 2018
+- Des subventions d'exploitation issues du projet "Les invisibles"
+
+Afin d'assurer la pérennité de l'association, nous souhaitons rembourser une partie de la dette.
 
 |----------------------------------|------:|------------------------------------------|-------:|
 | PRODUITS                         | 2019	 |    CHARGES                               |  2019  |
@@ -63,5 +77,11 @@ Quelques éléments:
 |----------------------------------|------:|------------------------------------------|-------:|
 |  TOTAL	                         | 78000 | TOTAL	                                  |  78650 |
 |----------------------------------|-------|------------------------------------------|-------:|
-|                                  |       |                                          |   -650|
+|                                  |       |                                          |   -650 |
 |----------------------------------|-------|------------------------------------------|--------|
+
+### Questions
+Aucune question
+
+### Vote
+Le Budget Prévisionnel est voté à l'unanimité.

@@ -17,7 +17,7 @@ La FDL a organisé 3 séances d’une journée avec les lycéens du Lycée Benja
 
 ![Franklin](../images/PCLeader.JPG){: width="500px" }
 
-L’un des projets, **“Stopsûr”** a même été **retenu par les élus locaux** qui vont le porter. Juju et Lucas ont également animé une soirée avec les jeunes au Mamm Douar Kafé et les 2 autres associations intervenantes : les graffeurs Des Gens Déjantés et les vidéastes de “J'ai Vu un Documentaire”.
+L’un des projets, **“Stopsûr”** est même **à l'ordre du jour des élus locaux** qui vont le porter. Juju et Lucas ont également animé une soirée avec les jeunes au Mamm Douar Kafé et les 2 autres associations intervenantes : les graffeurs Des Gens Déjantés et les vidéastes de “J'ai Vu un Documentaire”.
 
 ![Franklin](../images/maqJeuneLead.JPG){: width="500px" }
 

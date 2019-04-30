@@ -56,10 +56,17 @@ Pour preuves :
 - l’**implication de nouveaux adhérents** dans le fonctionnement du fablab,
 - un **mécénat** indispensable qui reste à un niveau élevé (**36% de nos financements**).
 
+**La mixité de la FABrique du Loch est notable** avec près 58% d'hommes et 42% de femmes.
 ![repartHF](../images/rHF.png){: width="400px" }
 
-L’association a également eu le plaisir de constater que nos valeurs d’échanges, de partage et de solidarité étaient communes aux représentants des fablabs du monde entier reçus lors de FAB14.
+L’association a également eu le plaisir de constater que **nos valeurs d’échanges, de partage et de solidarité** étaient communes aux représentants des fablabs du monde entier reçus lors de FAB14.
 
 ![FAB14](../images/FAB14-group.JPG){: width="600px"}
 
 [Nos axes de développement](activites.md)
+
+# Questions
+Aucune Question
+
+# Vote
+Le bilan moral est adopté à l'unanimité.

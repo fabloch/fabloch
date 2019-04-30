@@ -14,7 +14,12 @@ Bouquet final, du 16 au 22 juillet : les makers ont continué leurs échanges à
 
 ![FAB14](../images/FAB14-group.JPG){: width="600px"}
 
+## Forum des associations
+Comme chaque année en septembre, nous avons participé au **Forum des associations** organisé par la ville d’Auray. Cet événement assez prisé par les habitants de notre communauté de communes a regroupé en 2018 une centaine d’associations alréennes.
+
 ## Herbes Folles à St Nolff le samedi 23 février
+
+## Pôle ESS
 Nous adhérons au pôle de l’ESS, le pôle PEPS-pôle de l’économie positive et solidaire. Pour le mois de l'économie sociale et solidaire, La Fabrique du Loch et Camp'TIC se sont associés pour proposer une conférence autour du thème **La citoyenneté & le numérique** (Vendredi 23 novembre 2018).
 
 ## Evènements extérieurs

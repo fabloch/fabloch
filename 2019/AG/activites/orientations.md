@@ -37,7 +37,7 @@ Nos projets nous inscrivent directement dans la vie de la cité, par notre appro
 Nous sommes aujourd'hui **l'interlocuteur privilégié** des acteurs locaux pour aborder les sujets de l'inclusion numérique, du rapport aux technologies, mais nous devons aussi devenir une source d'enrichissement pour les entreprises locales.
 
 ### Renforcer notre partage des savoirs
-Cours de code, de Blender, d’Inskscape, de Sketchup, OpenStreetMap…
+Cours de code, de Blender, d’Inskscape, de SketchUp, OpenStreetMap…
 Documentation en ligne
 
 ![cmoifab](../images/RISkate2.JPG){: width="600px"}
