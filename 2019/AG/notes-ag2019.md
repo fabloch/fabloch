@@ -151,7 +151,7 @@ Vote : voté à l'unanimité
 - Arnaud MENARD
 - Anne MORICE
 - Emile MOUQUET
-- Céline MUYL
+- Céline SPILBAUER
 - Didier ROBINEAU
 - Valérie TISSERAUD
 
