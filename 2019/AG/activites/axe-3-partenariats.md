@@ -1,5 +1,6 @@
 # PARTENARIATS - Faire vivre des partenariats entre les acteurs locaux et le mouvement des makers
 
+## Conventions et partenariats
 Ces partenariats ont pris en 2018 la forme de conventions signées avec des acteurs économiques, éducatifs et culturels du territoire (associations, établissements publics, collectivités territoriales et entreprises), tels que:
 - la ville d'Auray et le pays d’Auray,
 - le lycée des Métiers d’Art Duquesclin,
@@ -15,6 +16,8 @@ Ces partenariats ont pris en 2018 la forme de conventions signées avec des acte
 Nous entretenons des relations étroites avec par exemple le Pays d’Auray, via des réalisations concrètes (voir [projets](axe-1-projets)).
 
 Ces relations doivent être prolongées et élargies à de nouveaux partenaires comme AQTA, la Région Bretagne et également de nouveaux partenaires privés.
+
+Nous souhaitons soumettre l'adhésion au pôle de l’ESS, le pôle PEPS-pôle de l’économie positive et solidaire à l'adhésion au tarif Pro de cette dernière.
 
 ## Entreprises et associations
 S’agissant des entreprises, La FABrique du Loch totalise **35 adhésions** (10 entreprises ou institutions et 24 professions libérales, auto-entrepreneurs, artisans et artistes).

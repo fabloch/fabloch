@@ -14,20 +14,23 @@ Bouquet final, du 16 au 22 juillet : les makers ont continué leurs échanges à
 
 ![FAB14](../images/FAB14-group.JPG){: width="600px"}
 
-## Forum des associations
-Comme chaque année en septembre, nous avons participé au **Forum des associations** organisé par la ville d’Auray. Cet événement assez prisé par les habitants de notre communauté de communes a regroupé en 2018 une centaine d’associations alréennes.
-
-## Herbes Folles à St Nolff le samedi 23 février
-
-## Pôle ESS
-Nous adhérons au pôle de l’ESS, le pôle PEPS-pôle de l’économie positive et solidaire. Pour le mois de l'économie sociale et solidaire, La Fabrique du Loch et Camp'TIC se sont associés pour proposer une conférence autour du thème **La citoyenneté & le numérique** (Vendredi 23 novembre 2018).
-
 ## Evènements extérieurs
 Concernant le **grand public**, nous avons participé à **divers événements extérieurs :**
 
-- les 20-21 janvier, lors d’un évènement de *Makers*, « le MIBS DAY » à Quiberon,  nous avons animé des stands de démonstrations et des ateliers d’activités collaboratives.
-- Des stands de démonstration pour des événements extérieurs autres que « maker » : Récréa’bric à Saint-Anne d’Auray le 30 mars,
-- JEMA (Journées Européennes des Métiers d’Art) à l’Argonaute, du 5 au 7 avril 2019
+### Forum des associations
+Comme chaque année en septembre, nous avons participé au **Forum des associations** organisé par la ville d’Auray. Cet événement assez prisé par les habitants de notre communauté de communes a regroupé en 2018 une centaine d’associations alréennes.
+
+### Herbes Folles à St Nolff le samedi 23 février
+La Sandbox y a été présentée à la demande de Clim'Actions, et y a connu un grand succès auprès du public.
+
+### MIBS Day
+Les 20-21 janvier, lors d’un évènement de *Makers*, « le MIBS DAY » à Quiberon,  nous avons animé des stands de démonstrations et des ateliers d’activités collaboratives.
+
+### Récréa'Bric
+Des stands de démonstration pour des événements extérieurs autres que « maker » : Récréa’bric à Saint-Anne d’Auray le 30 mars,
+
+### JEMA
+JEMA (Journées Européennes des Métiers d’Art) à l’Argonaute, du 5 au 7 avril 2019
 
 ## Install Party et Repair Café
 Nous avons organisé des ateliers gratuits ouverts au public :
