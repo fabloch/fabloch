@@ -20,7 +20,7 @@ L'ensemble des points abordés:
 
 - [Le bilan](activites/bilan)
 - [Les différents axes de nos actions](activites/activites)
-- [Le bilan financier](activittes/bilan-financier)
+- [Le bilan financier](activites/bilan-financier)
 - [Les orientations](activites/orientations)
 - [Election du CA](ca)
 
