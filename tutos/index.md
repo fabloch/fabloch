@@ -6,7 +6,7 @@ les logiciels, les langages utilisés à la Fabrique du Loch.
 Nous consignons ici les informations nécessaires pour mener à bien votre propre projet.
 N'hésitez pas à consulter ces documents et à les compléter!
 - [Ecrire un tuto](ecrire)
-- [La syntaxe Markdown](ode/markdown)
+- [La syntaxe Markdown](code/markdown)
 
 ## Machines
 - [Découpe Laser](machines/laser/)
