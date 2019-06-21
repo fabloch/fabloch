@@ -1,6 +1,6 @@
 # Mon Projet
 - **Titre :**
-- **Courte Description :**
+- **Courte description :**
 - **Créateur : (ou nom de votre entreprise, @votre page etc...)**
 - **Difficulté :**
 - **Durée :**
