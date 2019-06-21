@@ -41,23 +41,25 @@ Qui peut-on croiser à La FABrique du Loch ?
 ![Juju](assets/images/membres/juju-NB.jpg)
 
 ## Services Civiques
-- Emeline
 - Océane
+- Emeline
+- Valentin
 
 # Le Bureau de l'Association
-- Marie Dubois, Présidente
-- Jean Jacques, Vice-président
+- Émile Mouquet, Présidente
+- Adeline Ageneau, Vice-président
 - Aurélie Culot, Trésorière
+- Matthieu Lacharme, Vice-trésorier
 - Arnaud Ménard, Secrétaire
+- Valérie Tisseraud Jullien, Sécrétaire-Adjoint
 
 # Le Conseil d'Administration
 - Gilbert Lauvergnier
-- Adeline Ageneau
-- Ludovic Béguin
-- Fabrice Bonato
-- Frédérick Martin
+- Arnaud Jaffré
+- Anne Morice
+- Céline Spilbauer
+- Didier Robineau
 - Jean-Marie Huriez
-- Valérie Jullien
 
 ## Les Fondateurs
 L’idée est née en 2014 sous l’impulsion de quatre amis
