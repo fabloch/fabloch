@@ -12,6 +12,21 @@
 
 ## Comment lire un fichier ligne par ligne
 
+```
+$ npm install --save line-reader
+```
+
+```
+const lineReader = require('line-reader');
+
+lineReader.eachLine('/path/to/file', (line) => {  
+    console.log(line);
+});
+```
+https://stackabuse.com/reading-a-file-line-by-line-in-node-js/
+
+Plus classique:
+
 NodeJS propose la méthode fs.readfile pour lire les données d'un fichier.
 Mais quand le fichier est trop volumineux, cette fonction ne peut gérer l'espace mémoire requis pour
 stocker tout le contenu du fichier.
